@@ -1,0 +1,1833 @@
+fileFormatVersion: 2
+guid: aedd33ff3adcd4e48b389917c5b707ff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5983498284058550997
+    second: dragon_hatchling_0
+  - first:
+      213: 342202178648442390
+    second: dragon_hatchling_1
+  - first:
+      213: -5921463775824282582
+    second: dragon_hatchling_2
+  - first:
+      213: 7959836564893993799
+    second: dragon_hatchling_3
+  - first:
+      213: 1303374886997727971
+    second: dragon_hatchling_4
+  - first:
+      213: -1855170205985466396
+    second: dragon_hatchling_5
+  - first:
+      213: -1711161714628569381
+    second: dragon_hatchling_6
+  - first:
+      213: -6626969541453924062
+    second: dragon_hatchling_7
+  - first:
+      213: -3300454585235613445
+    second: dragon_hatchling_8
+  - first:
+      213: -8727958544360764573
+    second: dragon_hatchling_9
+  - first:
+      213: -4294559429325052906
+    second: dragon_hatchling_10
+  - first:
+      213: -1696069846780624415
+    second: dragon_hatchling_11
+  - first:
+      213: -2236904172306070998
+    second: dragon_hatchling_12
+  - first:
+      213: 5077205964229077531
+    second: dragon_hatchling_13
+  - first:
+      213: 5847156068544202589
+    second: dragon_hatchling_14
+  - first:
+      213: 3749693405267576870
+    second: dragon_hatchling_15
+  - first:
+      213: 4138806087913545224
+    second: dragon_hatchling_16
+  - first:
+      213: -3675839771275767065
+    second: dragon_hatchling_17
+  - first:
+      213: 1920072998964592443
+    second: dragon_hatchling_18
+  - first:
+      213: 9062153537801174618
+    second: dragon_hatchling_19
+  - first:
+      213: -1524928629707016085
+    second: dragon_hatchling_20
+  - first:
+      213: 1527050854300807316
+    second: dragon_hatchling_21
+  - first:
+      213: -6545537021148780818
+    second: dragon_hatchling_22
+  - first:
+      213: -8103814979216163132
+    second: dragon_hatchling_23
+  - first:
+      213: 4566479860881282553
+    second: dragon_hatchling_24
+  - first:
+      213: 2607519297308579310
+    second: dragon_hatchling_25
+  - first:
+      213: 6759786794593858714
+    second: dragon_hatchling_26
+  - first:
+      213: -752094128481635680
+    second: dragon_hatchling_27
+  - first:
+      213: -8578544006246730425
+    second: dragon_hatchling_28
+  - first:
+      213: 7357926643266730719
+    second: dragon_hatchling_29
+  - first:
+      213: -6187783691606930389
+    second: dragon_hatchling_30
+  - first:
+      213: -9079213193735673099
+    second: dragon_hatchling_31
+  - first:
+      213: 5417439284215117059
+    second: dragon_hatchling_32
+  - first:
+      213: 6726091510201351106
+    second: dragon_hatchling_33
+  - first:
+      213: 8656055185688637277
+    second: dragon_hatchling_34
+  - first:
+      213: -8579807518648378690
+    second: dragon_hatchling_35
+  - first:
+      213: 5508644031858973198
+    second: dragon_hatchling_36
+  - first:
+      213: -5431581410338620126
+    second: dragon_hatchling_37
+  - first:
+      213: -5672298729549173948
+    second: dragon_hatchling_38
+  - first:
+      213: 1073858493053807869
+    second: dragon_hatchling_39
+  - first:
+      213: 3064199691919036015
+    second: dragon_hatchling_40
+  - first:
+      213: 4061211476676501266
+    second: dragon_hatchling_41
+  - first:
+      213: 2238289460281519309
+    second: dragon_hatchling_42
+  - first:
+      213: 8497850120689273075
+    second: dragon_hatchling_43
+  - first:
+      213: 6194322134863193348
+    second: dragon_hatchling_44
+  - first:
+      213: 2844861262638376807
+    second: dragon_hatchling_45
+  - first:
+      213: 8580910422981952482
+    second: dragon_hatchling_46
+  - first:
+      213: -5287404005505725780
+    second: dragon_hatchling_47
+  - first:
+      213: 862369566444489592
+    second: dragon_hatchling_48
+  - first:
+      213: 6988314873962775011
+    second: dragon_hatchling_49
+  - first:
+      213: -3851040688206291423
+    second: dragon_hatchling_50
+  - first:
+      213: 1835589956228699160
+    second: dragon_hatchling_51
+  - first:
+      213: 7277476891480586293
+    second: dragon_hatchling_52
+  - first:
+      213: 2864639019083011067
+    second: dragon_hatchling_53
+  - first:
+      213: 7269979238864270839
+    second: dragon_hatchling_54
+  - first:
+      213: -1449426628919553473
+    second: dragon_hatchling_55
+  - first:
+      213: 6568034347084922524
+    second: dragon_hatchling_56
+  - first:
+      213: 6529088957669186367
+    second: dragon_hatchling_57
+  - first:
+      213: 3471963734249495558
+    second: dragon_hatchling_58
+  - first:
+      213: -127657171941897986
+    second: dragon_hatchling_59
+  - first:
+      213: 2769089265849310733
+    second: dragon_hatchling_60
+  - first:
+      213: -186216730019398387
+    second: dragon_hatchling_61
+  - first:
+      213: 1233011943924955747
+    second: dragon_hatchling_62
+  - first:
+      213: 6932529217531633345
+    second: dragon_hatchling_63
+  - first:
+      213: -4561271894130861777
+    second: dragon_hatchling_64
+  - first:
+      213: 6137441320644978910
+    second: dragon_hatchling_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 14.400001
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dragon_hatchling_idle_side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 506
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d3a9913f3a60a4c8d0bab9f0ec0541
+      internalID: 1297574267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_idle_side_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 506
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f8db0e424f1ec4496693c73e3dac1e
+      internalID: 615946002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_idle_side_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 506
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c62b5319054db0489a23a0a543fc9af
+      internalID: -127792090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_idle_side_3
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 506
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06ed01a4820c94449a7552a4ca890d1
+      internalID: -1930138922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_idle_front_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 460
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4b430f9a73e144396176a1e711d925
+      internalID: -1130504107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_idle_front_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 460
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314c48105cc9aee4aa181cb841c3a3c0
+      internalID: 1431582772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_idle_front_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 460
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e5019d907f5f849b7327af20d66a1e
+      internalID: 830282416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_idle_front_3
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 460
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b41c40e5f6916b4ca3b3dcdbdd56897
+      internalID: -1708959271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_idle_back_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 414
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4403f454996084ab841b09d01d6821
+      internalID: 186939668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_idle_back_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 414
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc19d88680f065f47a5439abeb4673fe
+      internalID: 1361876658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_idle_back_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 414
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916f6626d7e42f540855981db1e6b99d
+      internalID: 1756798691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_idle_back_3
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 414
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b39ccdb8373f34fa092cf10cdb25a7
+      internalID: 714497849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_walk_side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c43c9f22f15fbc49860512f2ebe1acf
+      internalID: 109297853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_walk_side_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 368
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb80389efddf20949911c1d4b5472a75
+      internalID: -381749186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_walk_side_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 368
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458488343a257a74f818ed7572cb4049
+      internalID: -340249085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_walk_side_3
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 368
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93edfa2d8173db140832352a4bfa1a1d
+      internalID: -1426664271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_walk_side_4
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 368
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99f12486261209469b5d22862a49444
+      internalID: -1089515097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_walk_side_5
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 368
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb6ff0f11bcc0041a082c6d56a8b347
+      internalID: 283240681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_walk_front_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 322
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cacbe5717ce5044aa71484b63e32ff9
+      internalID: -1934024546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_walk_front_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 322
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1bea7504c49acf41a8aa8db8a837d42
+      internalID: -66915122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_walk_front_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 322
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e92da3bf1994f24e801f5fc7dc07448
+      internalID: -1350520481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_walk_front_3
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 322
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a1803a05fc8344c8ccd465c8ff6112
+      internalID: -1966557851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_walk_front_4
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 322
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d72d11f7baf4584683bd504d6ee04b0
+      internalID: -1641948687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_walk_front_5
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 322
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba7e0bbd62cdaf4690e99413f1fc669
+      internalID: 443637982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_walk_back_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 276
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b906f562a37c114ab9764e36acd98a2
+      internalID: -68672008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_walk_back_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 276
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2712e8d8bfb5e48ba83d28fe3e7025
+      internalID: -261850614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_walk_back_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 276
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc67125d951f5164a963d864aecae9ea
+      internalID: -234339851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_walk_back_3
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 276
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b405b39a5890b749a0ec92c045991f6
+      internalID: -1224458240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_walk_back_4
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 276
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97dbd7a824ab8504cbd5bb24dee2339f
+      internalID: -1727573834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_walk_back_5
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 276
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f0398b9602b6840ba8c15e85c2899b
+      internalID: -1872007472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_attack_side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 230
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3907186889fbc43b2a2a03a17d4213
+      internalID: -820106778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_attack_side_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 230
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2b4d7b27e70744ab27aa770a048492
+      internalID: 1577216767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_attack_side_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 230
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05eeaf85dc30ac949bd781b1eb0cd13a
+      internalID: -112838978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_attack_side_3
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 230
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1630f8a4c7c5ef04eb6becf0444fd2c3
+      internalID: -885872317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_attack_side_4
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 230
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb10740498ec9d42af72e0cf6556a73
+      internalID: -1885417582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_attack_side_5
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 230
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e750171203b636e478c9c5df50200298
+      internalID: -141461888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_attack_front_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 184
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d58061179dbbc488625a137b4c9cea
+      internalID: 641344348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_attack_front_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 184
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bbe7854deba0d47a0f68706abbc6ef
+      internalID: 21605730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_attack_front_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 184
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624929a917efaf74b89fe68db1141e16
+      internalID: -555652829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_attack_front_3
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 184
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8dfdcfbaef8e94cb8b71caa3dfe94e
+      internalID: 29459401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_attack_front_4
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 184
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfe0a88476123042aeb5b0e3eb8cca5
+      internalID: -715168761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_attack_front_5
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 184
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255f0404dbd1335449f812a0017b7066
+      internalID: -1557282013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_attack_back_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3332c0afa4e7c3a4798d9d280e20d7a9
+      internalID: -1077965002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_attack_back_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 138
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c38caac629a3184eb2bef8feabde6a5
+      internalID: -1194427734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_attack_back_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 138
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0ea4338d48c0841999af4003a17623
+      internalID: 1282577680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_attack_back_3
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 138
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b87a385082116a4ba04e0d4935cc4f7
+      internalID: -1330433906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_attack_back_4
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 138
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9833113c0c8ac9949b21001d4cb650d8
+      internalID: -1704788308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_attack_back_5
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 138
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbddef7eaee6b84d97daf91e41b901c
+      internalID: -1499633526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_death_side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d419664fcc77d4488f2b3f2e54373b1
+      internalID: 422025358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_death_side_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 92
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd9ac9d0ab68d94cbe296976b823e95
+      internalID: -584327081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_death_side_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 92
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62cf9f33da69bea449349da1bfcd7ec0
+      internalID: -953824596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_death_side_3
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 92
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68371451ed8846e4b9f98bb008debc5c
+      internalID: 1639931087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_death_side_4
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 92
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929511e1ddbde57419e7f146415df390
+      internalID: 1545105777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_death_side_5
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 92
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca4c99279f05f640a9868c0e5fc1d0e
+      internalID: -1619957748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_death_front_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 46
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae94beb9415d4254397d3e450c3f8e22
+      internalID: 409977929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_death_front_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 46
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa939a1148838741a4cade2a2ca1259
+      internalID: -1281684524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_death_front_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 46
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a76f52f58e007d41a3e30578d3a6e02
+      internalID: 1684847700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_death_front_3
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 46
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82b1e946d8d23049b15a50c11950ec0
+      internalID: -815562471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_death_front_4
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 46
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158685a0fa2b49d46885b872efb10fe7
+      internalID: 525896034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_death_front_5
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 46
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e047d51177583e143b0aaab5113b1f85
+      internalID: -1965733897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_death_back_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100f8a33ec860294aa2f9c4e6c156acf
+      internalID: 1666067631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_death_back_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96a793eaa23ede4880eeca51e81a475
+      internalID: 854294084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_death_back_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7239ba0829b19241987945e417b0f24
+      internalID: 1938768998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_death_back_3
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 0
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d60ef659778184449c21f23efc487d4
+      internalID: 911998039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_death_back_4
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe3ff0a00c97744ca4872030c4362e2
+      internalID: 2063093912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_hatchling_death_back_5
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 0
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334a27e167e604542912fd980b606618
+      internalID: -1394714685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 437d4e477a76d524291a82682fa28262
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      dragon_hatchling_attack_back_0: -1077965002
+      dragon_hatchling_attack_back_1: -1194427734
+      dragon_hatchling_attack_back_2: 1282577680
+      dragon_hatchling_attack_back_3: -1330433906
+      dragon_hatchling_attack_back_4: -1704788308
+      dragon_hatchling_attack_back_5: -1499633526
+      dragon_hatchling_attack_front_0: 641344348
+      dragon_hatchling_attack_front_1: 21605730
+      dragon_hatchling_attack_front_2: -555652829
+      dragon_hatchling_attack_front_3: 29459401
+      dragon_hatchling_attack_front_4: -715168761
+      dragon_hatchling_attack_front_5: -1557282013
+      dragon_hatchling_attack_side_0: -820106778
+      dragon_hatchling_attack_side_1: 1577216767
+      dragon_hatchling_attack_side_2: -112838978
+      dragon_hatchling_attack_side_3: -885872317
+      dragon_hatchling_attack_side_4: -1885417582
+      dragon_hatchling_attack_side_5: -141461888
+      dragon_hatchling_death_back_0: 1666067631
+      dragon_hatchling_death_back_1: 854294084
+      dragon_hatchling_death_back_2: 1938768998
+      dragon_hatchling_death_back_3: 911998039
+      dragon_hatchling_death_back_4: 2063093912
+      dragon_hatchling_death_back_5: -1394714685
+      dragon_hatchling_death_front_0: 409977929
+      dragon_hatchling_death_front_1: -1281684524
+      dragon_hatchling_death_front_2: 1684847700
+      dragon_hatchling_death_front_3: -815562471
+      dragon_hatchling_death_front_4: 525896034
+      dragon_hatchling_death_front_5: -1965733897
+      dragon_hatchling_death_side_0: 422025358
+      dragon_hatchling_death_side_1: -584327081
+      dragon_hatchling_death_side_2: -953824596
+      dragon_hatchling_death_side_3: 1639931087
+      dragon_hatchling_death_side_4: 1545105777
+      dragon_hatchling_death_side_5: -1619957748
+      dragon_hatchling_idle_back_0: 186939668
+      dragon_hatchling_idle_back_1: 1361876658
+      dragon_hatchling_idle_back_2: 1756798691
+      dragon_hatchling_idle_back_3: 714497849
+      dragon_hatchling_idle_front_0: -1130504107
+      dragon_hatchling_idle_front_1: 1431582772
+      dragon_hatchling_idle_front_2: 830282416
+      dragon_hatchling_idle_front_3: -1708959271
+      dragon_hatchling_idle_side_0: 1297574267
+      dragon_hatchling_idle_side_1: 615946002
+      dragon_hatchling_idle_side_2: -127792090
+      dragon_hatchling_idle_side_3: -1930138922
+      dragon_hatchling_walk_back_0: -68672008
+      dragon_hatchling_walk_back_1: -261850614
+      dragon_hatchling_walk_back_2: -234339851
+      dragon_hatchling_walk_back_3: -1224458240
+      dragon_hatchling_walk_back_4: -1727573834
+      dragon_hatchling_walk_back_5: -1872007472
+      dragon_hatchling_walk_front_0: -1934024546
+      dragon_hatchling_walk_front_1: -66915122
+      dragon_hatchling_walk_front_2: -1350520481
+      dragon_hatchling_walk_front_3: -1966557851
+      dragon_hatchling_walk_front_4: -1641948687
+      dragon_hatchling_walk_front_5: 443637982
+      dragon_hatchling_walk_side_0: 109297853
+      dragon_hatchling_walk_side_1: -381749186
+      dragon_hatchling_walk_side_2: -340249085
+      dragon_hatchling_walk_side_3: -1426664271
+      dragon_hatchling_walk_side_4: -1089515097
+      dragon_hatchling_walk_side_5: 283240681
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

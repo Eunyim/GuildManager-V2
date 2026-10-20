@@ -1,0 +1,13 @@
+# 이름 피벗x 피벗y (0~1, 왼쪽 아래 기준) — Tools/lobby_art_gen.py가 만듦, Editor/PixelArtImporter가 읽음
+campfire_base 0.50000 0.35294
+campfire_ember 0.50000 0.50000
+campfire_flame_0 0.50000 0.06818
+campfire_flame_1 0.50000 0.06818
+campfire_flame_2 0.50000 0.06818
+campfire_flame_3 0.50000 0.06818
+campfire_flame_4 0.50000 0.06818
+campfire_flame_5 0.50000 0.06818
+campfire_glow 0.50000 0.50000
+campfire_seat_log 0.50000 0.50000
+campfire_seat_stump 0.50000 0.50000
+campfire_smoke 0.50000 0.50000

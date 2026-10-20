@@ -1,0 +1,1851 @@
+fileFormatVersion: 2
+guid: 41b277f9ed5d23c4a8553064e9ac0bee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1320932417857197279
+    second: skeleton_tank_0
+  - first:
+      213: 7995599058901025720
+    second: skeleton_tank_1
+  - first:
+      213: -7702082267943094825
+    second: skeleton_tank_2
+  - first:
+      213: 8127268265780581812
+    second: skeleton_tank_3
+  - first:
+      213: 1537485638018018145
+    second: skeleton_tank_4
+  - first:
+      213: 6983905381570512703
+    second: skeleton_tank_5
+  - first:
+      213: 2510748345702313976
+    second: skeleton_tank_6
+  - first:
+      213: 3945769855247250654
+    second: skeleton_tank_7
+  - first:
+      213: 4714606548853091469
+    second: skeleton_tank_8
+  - first:
+      213: 2620814740768446434
+    second: skeleton_tank_9
+  - first:
+      213: -3701838986262179194
+    second: skeleton_tank_10
+  - first:
+      213: 1452723334099782346
+    second: skeleton_tank_11
+  - first:
+      213: -1474656914562430920
+    second: skeleton_tank_12
+  - first:
+      213: -4823595665424301817
+    second: skeleton_tank_13
+  - first:
+      213: 8502029921050566697
+    second: skeleton_tank_14
+  - first:
+      213: -2342537574649607984
+    second: skeleton_tank_15
+  - first:
+      213: -6383405390059198428
+    second: skeleton_tank_16
+  - first:
+      213: -7059314656721877984
+    second: skeleton_tank_17
+  - first:
+      213: -8698110134326346811
+    second: skeleton_tank_18
+  - first:
+      213: -7520130641603761405
+    second: skeleton_tank_19
+  - first:
+      213: -3309310513321047783
+    second: skeleton_tank_20
+  - first:
+      213: -2424883685923808129
+    second: skeleton_tank_21
+  - first:
+      213: 4405179524492764508
+    second: skeleton_tank_22
+  - first:
+      213: 135884266014799646
+    second: skeleton_tank_23
+  - first:
+      213: -2056054961784291596
+    second: skeleton_tank_24
+  - first:
+      213: 1578406912589236462
+    second: skeleton_tank_25
+  - first:
+      213: -7830521926272681222
+    second: skeleton_tank_26
+  - first:
+      213: -651615092544233430
+    second: skeleton_tank_27
+  - first:
+      213: -6210317749418920300
+    second: skeleton_tank_28
+  - first:
+      213: 8092706302322880229
+    second: skeleton_tank_29
+  - first:
+      213: -3359033067514818480
+    second: skeleton_tank_30
+  - first:
+      213: -422744886010216067
+    second: skeleton_tank_31
+  - first:
+      213: -3223254863486131675
+    second: skeleton_tank_32
+  - first:
+      213: -6169770362637288006
+    second: skeleton_tank_33
+  - first:
+      213: 461638918801225402
+    second: skeleton_tank_34
+  - first:
+      213: -7501515417893236315
+    second: skeleton_tank_35
+  - first:
+      213: -2315627865575153467
+    second: skeleton_tank_36
+  - first:
+      213: 3715668310256442050
+    second: skeleton_tank_37
+  - first:
+      213: -2304065340184833175
+    second: skeleton_tank_38
+  - first:
+      213: 6088583327074513506
+    second: skeleton_tank_39
+  - first:
+      213: -809312320924616784
+    second: skeleton_tank_40
+  - first:
+      213: 3337031191846089664
+    second: skeleton_tank_41
+  - first:
+      213: -8397776617011086395
+    second: skeleton_tank_42
+  - first:
+      213: 1456729748177391056
+    second: skeleton_tank_43
+  - first:
+      213: -856414679541994762
+    second: skeleton_tank_44
+  - first:
+      213: -352004681385299880
+    second: skeleton_tank_45
+  - first:
+      213: -5096507987193124842
+    second: skeleton_tank_46
+  - first:
+      213: 3487314009962651779
+    second: skeleton_tank_47
+  - first:
+      213: 7533780011948102406
+    second: skeleton_tank_48
+  - first:
+      213: 8482811739597396854
+    second: skeleton_tank_49
+  - first:
+      213: 5982878980834405697
+    second: skeleton_tank_50
+  - first:
+      213: -7846097738582032692
+    second: skeleton_tank_51
+  - first:
+      213: 6098833005495355723
+    second: skeleton_tank_52
+  - first:
+      213: 1566887754381195009
+    second: skeleton_tank_53
+  - first:
+      213: -258058718630083253
+    second: skeleton_tank_54
+  - first:
+      213: 4623722045370994366
+    second: skeleton_tank_55
+  - first:
+      213: 7353261339055840301
+    second: skeleton_tank_56
+  - first:
+      213: -6293107040637217993
+    second: skeleton_tank_57
+  - first:
+      213: 4008366275676874203
+    second: skeleton_tank_58
+  - first:
+      213: -4129681043583806775
+    second: skeleton_tank_59
+  - first:
+      213: -4547182225734175861
+    second: skeleton_tank_60
+  - first:
+      213: 1458494080498835544
+    second: skeleton_tank_61
+  - first:
+      213: 936792916953103821
+    second: skeleton_tank_62
+  - first:
+      213: 2899362050421192118
+    second: skeleton_tank_63
+  - first:
+      213: -3511004136046383979
+    second: skeleton_tank_64
+  - first:
+      213: -4534665199736253802
+    second: skeleton_tank_65
+  - first:
+      213: -4332262645570101301
+    second: skeleton_tank_66
+  - first:
+      213: -7088972322767964335
+    second: skeleton_tank_67
+  - first:
+      213: 7453187829451741360
+    second: skeleton_tank_68
+  - first:
+      213: -8128536504825129469
+    second: skeleton_tank_69
+  - first:
+      213: -245689546949213497
+    second: skeleton_tank_70
+  - first:
+      213: 7818440213719106083
+    second: skeleton_tank_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 62.399998
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: skeleton_tank_idle_side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 836
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfdc116ce7576143a600f2aada0c233
+      internalID: -1627379067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_idle_side_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 836
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73c275c739483d46ba8da619ff02c1d
+      internalID: 667714930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_idle_side_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 836
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbe65d4ba736a44da192703dbb3a882
+      internalID: 568196934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_idle_side_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 836
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88958fb292487df4d995c9360c96fd01
+      internalID: 518400080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_idle_front_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 760
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060a93adcf57af14abda803c2c108ddc
+      internalID: -1535533796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_idle_front_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 760
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068660fdc958eef43ac28ac6be7d4106
+      internalID: 1518932040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_idle_front_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 760
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47ffc20a3e0b8a46a42f29d10a2f2c9
+      internalID: 1441988970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_idle_front_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 760
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15b9ce72a322a9479d5361202877f40
+      internalID: -1647898666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_idle_back_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 684
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090b09057faf3cb4d91798e2c6b471ab
+      internalID: 1888334658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_idle_back_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 684
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b948b199ac9fb9845bb04743e4e34e3b
+      internalID: 724538138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_idle_back_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 684
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acdd382de9d01a142b2a3c2ab4713fc3
+      internalID: 442646605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_idle_back_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 684
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108acae30029a004cb2b8c9c80b292d9
+      internalID: -1404304231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_walk_side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f3d49edf158da4f9bb91922e79572b
+      internalID: 439758790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_walk_side_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 608
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6445f178f79a7f9458870bc0487e6d83
+      internalID: 1879463772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_walk_side_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 608
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de7ddb3056f8a249a2c17ab6d8f40ff
+      internalID: -475797509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_walk_side_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 608
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30378239ae9dd4747854637274c61170
+      internalID: -241444527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_walk_side_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 608
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8d91a4113715544ab25f21318b552f
+      internalID: -1131674245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_walk_side_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 608
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bae82144a8254244aafb467b34c6b68
+      internalID: -1602472613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_walk_front_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 532
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db22c780bc44cd1409f72502343b2db6
+      internalID: 582568881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_walk_front_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 532
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadd45ae1fea5a442a1073c315c414b3
+      internalID: -819667079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_walk_front_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 532
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d7357edf14b844b86567ed42aa87e3
+      internalID: -78977951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_walk_front_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 532
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5765126700d100c449560b5b7dcc77cd
+      internalID: -1752315198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_walk_front_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 532
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30bb7bc19d6d3fc46a54300b61cd0208
+      internalID: -1123542314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_walk_front_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 532
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb01a37293a18447a1809b7201ef36a
+      internalID: -548586880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_walk_back_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74e09036f777004cabc98fa96635ac5
+      internalID: -1663066971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_walk_back_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 456
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e45450af5eaa94f89062231814e757
+      internalID: -353582435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_walk_back_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 456
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525cc10db20eb744598dab44ca7483ea
+      internalID: 49149255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_walk_back_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 456
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d6c40b2d59d854ea1dc94b96dbb77a
+      internalID: 1811319567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_walk_back_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 456
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf51e89ffac28f64e921cdb02f13e45d
+      internalID: -446588617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_walk_back_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 456
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a70f22c8ed851243ab25d06c13fc068
+      internalID: 1794566438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_attack_side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 380
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8e04c5012d17849926b4c033d17556
+      internalID: -1283760434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_attack_side_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 380
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d29ba4af66a28d4ba7d3fef9980ffe0
+      internalID: 2023887370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_attack_side_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 380
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba1761857a773943baa4764c7b2a010
+      internalID: -1658096208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_attack_side_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 380
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b9b9c5f710b274687e91cd1310c505
+      internalID: -1969719696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_attack_side_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 380
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d62e10bf8cd55d42bee84d4c7d7e096
+      internalID: -2126205231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_attack_side_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 380
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cede19ce1d24b034094809e73bc74703
+      internalID: 1003843510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_attack_front_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e714865a6aa66824db67fe600ef32884
+      internalID: 951792953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_attack_front_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 304
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d99ab658a5090449beb109e63936e4
+      internalID: 1973989534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_attack_front_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 304
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e825c0ca29b0b340b17b67085423f18
+      internalID: -1472063747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_attack_front_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 304
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1268b2ecc8f944bbe2ca6e1e51c49e
+      internalID: -674476215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_attack_front_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 304
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4dbb1d2b117b34f82c63070c020958
+      internalID: -426963687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_attack_front_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 304
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe899e02997980441803fece2094dac2
+      internalID: 1633830229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_attack_back_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1014b4e75accfba4799f8105f0a7297f
+      internalID: -1412965988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_attack_back_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 228
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bb390f870622d4bad8c107fa0df4ea
+      internalID: -1841758812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_attack_back_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 228
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237e2bc9c819ed449be88c3bb5a1b4bf
+      internalID: -1857837744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_attack_back_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 228
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8312f890e28ccdb4a9a75cb4e38d8ae1
+      internalID: 2012039082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_attack_back_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 228
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f1394466059864d8065942628e421b
+      internalID: -1502946985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_attack_back_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 228
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005253201b8e6dd48bb489364a737d8b
+      internalID: -1246381531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_death_side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82da9c08692eded44b85a491c428c202
+      internalID: 18548806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_death_side_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 152
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85abec34d51d5a34389a83773c8cfe6e
+      internalID: 2084365241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_death_side_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 152
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8188630d7d7cf474d99dc170850c1e5c
+      internalID: -1468749442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_death_side_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 152
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af78e6df6948ca48998f5b5424e5d7c
+      internalID: -1881932162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_death_side_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 152
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7090e7d31223a04dab8338cf048a88f
+      internalID: 166837135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_death_side_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 152
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac1e066e15beed4da1e2a17eee22038
+      internalID: 1480666829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_death_front_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64218582fbfc3a4c84b1ca4d9a86a28
+      internalID: -442247759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_death_front_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 76
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75dc9a15539909442a377d12d4416243
+      internalID: 279795417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_death_front_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 76
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed0afa1bcbd44d46bd1feb8557c45bb
+      internalID: -1636028654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_death_front_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 76
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6b3c58ea097894cb868b862921f6ad
+      internalID: 275513819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_death_front_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 76
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5121593cc1a2c7e489e2b94c927c86e2
+      internalID: 1236158676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_death_front_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 76
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a6f462230c2164cb06680ccb134659
+      internalID: -676123918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_death_back_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5559f38965df69a458e6e56574556bf3
+      internalID: 923981057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_death_back_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7d6e4f184501a4e808f8152c70914d
+      internalID: -136208190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_death_back_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c687e09f3b3b8ef448b032811d17d352
+      internalID: -248914294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_death_back_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930553ca632903d429bbf798503401ea
+      internalID: 1518267748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_death_back_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260a0847b57e0224f97288eda1482ec6
+      internalID: 96610192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_tank_death_back_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63421047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feda22eb1c422a1499da677602f3b4d9
+      internalID: 1152175015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 90342a980ae40674a8eb1d93eb773bfb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      skeleton_tank_attack_back_0: -1412965988
+      skeleton_tank_attack_back_1: -1841758812
+      skeleton_tank_attack_back_2: -1857837744
+      skeleton_tank_attack_back_3: 2012039082
+      skeleton_tank_attack_back_4: -1502946985
+      skeleton_tank_attack_back_5: -1246381531
+      skeleton_tank_attack_front_0: 951792953
+      skeleton_tank_attack_front_1: 1973989534
+      skeleton_tank_attack_front_2: -1472063747
+      skeleton_tank_attack_front_3: -674476215
+      skeleton_tank_attack_front_4: -426963687
+      skeleton_tank_attack_front_5: 1633830229
+      skeleton_tank_attack_side_0: -1283760434
+      skeleton_tank_attack_side_1: 2023887370
+      skeleton_tank_attack_side_2: -1658096208
+      skeleton_tank_attack_side_3: -1969719696
+      skeleton_tank_attack_side_4: -2126205231
+      skeleton_tank_attack_side_5: 1003843510
+      skeleton_tank_death_back_0: 923981057
+      skeleton_tank_death_back_1: -136208190
+      skeleton_tank_death_back_2: -248914294
+      skeleton_tank_death_back_3: 1518267748
+      skeleton_tank_death_back_4: 96610192
+      skeleton_tank_death_back_5: 1152175015
+      skeleton_tank_death_front_0: -442247759
+      skeleton_tank_death_front_1: 279795417
+      skeleton_tank_death_front_2: -1636028654
+      skeleton_tank_death_front_3: 275513819
+      skeleton_tank_death_front_4: 1236158676
+      skeleton_tank_death_front_5: -676123918
+      skeleton_tank_death_side_0: 18548806
+      skeleton_tank_death_side_1: 2084365241
+      skeleton_tank_death_side_2: -1468749442
+      skeleton_tank_death_side_3: -1881932162
+      skeleton_tank_death_side_4: 166837135
+      skeleton_tank_death_side_5: 1480666829
+      skeleton_tank_idle_back_0: 1888334658
+      skeleton_tank_idle_back_1: 724538138
+      skeleton_tank_idle_back_2: 442646605
+      skeleton_tank_idle_back_3: -1404304231
+      skeleton_tank_idle_front_0: -1535533796
+      skeleton_tank_idle_front_1: 1518932040
+      skeleton_tank_idle_front_2: 1441988970
+      skeleton_tank_idle_front_3: -1647898666
+      skeleton_tank_idle_side_0: -1627379067
+      skeleton_tank_idle_side_1: 667714930
+      skeleton_tank_idle_side_2: 568196934
+      skeleton_tank_idle_side_3: 518400080
+      skeleton_tank_walk_back_0: -1663066971
+      skeleton_tank_walk_back_1: -353582435
+      skeleton_tank_walk_back_2: 49149255
+      skeleton_tank_walk_back_3: 1811319567
+      skeleton_tank_walk_back_4: -446588617
+      skeleton_tank_walk_back_5: 1794566438
+      skeleton_tank_walk_front_0: 582568881
+      skeleton_tank_walk_front_1: -819667079
+      skeleton_tank_walk_front_2: -78977951
+      skeleton_tank_walk_front_3: -1752315198
+      skeleton_tank_walk_front_4: -1123542314
+      skeleton_tank_walk_front_5: -548586880
+      skeleton_tank_walk_side_0: 439758790
+      skeleton_tank_walk_side_1: 1879463772
+      skeleton_tank_walk_side_2: -475797509
+      skeleton_tank_walk_side_3: -241444527
+      skeleton_tank_walk_side_4: -1131674245
+      skeleton_tank_walk_side_5: -1602472613
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

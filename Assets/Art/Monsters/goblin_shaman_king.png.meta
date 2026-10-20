@@ -1,0 +1,1833 @@
+fileFormatVersion: 2
+guid: 68d569e5ef185974c8200460247336ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1292276526488633063
+    second: goblin_shaman_king_0
+  - first:
+      213: 1937104395974229418
+    second: goblin_shaman_king_1
+  - first:
+      213: -7094131309669975514
+    second: goblin_shaman_king_2
+  - first:
+      213: 7219507286625994626
+    second: goblin_shaman_king_3
+  - first:
+      213: -6322586431519050315
+    second: goblin_shaman_king_4
+  - first:
+      213: 3175930771281664263
+    second: goblin_shaman_king_5
+  - first:
+      213: 2356928973426697282
+    second: goblin_shaman_king_6
+  - first:
+      213: -5572535630720110516
+    second: goblin_shaman_king_7
+  - first:
+      213: 1768925566826402523
+    second: goblin_shaman_king_8
+  - first:
+      213: -4067718462429434393
+    second: goblin_shaman_king_9
+  - first:
+      213: -1167679951269243365
+    second: goblin_shaman_king_10
+  - first:
+      213: -8507566949747359240
+    second: goblin_shaman_king_11
+  - first:
+      213: -1815496093566259917
+    second: goblin_shaman_king_12
+  - first:
+      213: 4211493777714039824
+    second: goblin_shaman_king_13
+  - first:
+      213: 198237037110469462
+    second: goblin_shaman_king_14
+  - first:
+      213: 572880218138988456
+    second: goblin_shaman_king_15
+  - first:
+      213: 8523128513407639144
+    second: goblin_shaman_king_16
+  - first:
+      213: 5211823760819168041
+    second: goblin_shaman_king_17
+  - first:
+      213: 2676939188024938270
+    second: goblin_shaman_king_18
+  - first:
+      213: 3187217407936999892
+    second: goblin_shaman_king_19
+  - first:
+      213: -5996325783804097097
+    second: goblin_shaman_king_20
+  - first:
+      213: -3008007594902435071
+    second: goblin_shaman_king_21
+  - first:
+      213: -2384028530198721280
+    second: goblin_shaman_king_22
+  - first:
+      213: -4919935631868918183
+    second: goblin_shaman_king_23
+  - first:
+      213: 2027629159633231465
+    second: goblin_shaman_king_24
+  - first:
+      213: -244120164950164807
+    second: goblin_shaman_king_25
+  - first:
+      213: 5093376226530776340
+    second: goblin_shaman_king_26
+  - first:
+      213: 113698715627983580
+    second: goblin_shaman_king_27
+  - first:
+      213: 3847266910131148194
+    second: goblin_shaman_king_28
+  - first:
+      213: -1285297746864485703
+    second: goblin_shaman_king_29
+  - first:
+      213: -3166268836056588863
+    second: goblin_shaman_king_30
+  - first:
+      213: -8497450467776874168
+    second: goblin_shaman_king_31
+  - first:
+      213: 41508169924036740
+    second: goblin_shaman_king_32
+  - first:
+      213: 7237270104971441565
+    second: goblin_shaman_king_33
+  - first:
+      213: 8343796820254916195
+    second: goblin_shaman_king_34
+  - first:
+      213: 9064482052804579210
+    second: goblin_shaman_king_35
+  - first:
+      213: -4279026164208728108
+    second: goblin_shaman_king_36
+  - first:
+      213: -6516507382497318028
+    second: goblin_shaman_king_37
+  - first:
+      213: 4875348480267041678
+    second: goblin_shaman_king_38
+  - first:
+      213: 3641430332798048432
+    second: goblin_shaman_king_39
+  - first:
+      213: -7501721164439852610
+    second: goblin_shaman_king_40
+  - first:
+      213: 1822288914100016149
+    second: goblin_shaman_king_41
+  - first:
+      213: 5580694029280166925
+    second: goblin_shaman_king_42
+  - first:
+      213: -4957215430027099220
+    second: goblin_shaman_king_43
+  - first:
+      213: 5467685108285119166
+    second: goblin_shaman_king_44
+  - first:
+      213: -3832910068538084905
+    second: goblin_shaman_king_45
+  - first:
+      213: 6254793845987374122
+    second: goblin_shaman_king_46
+  - first:
+      213: 7940824571593759908
+    second: goblin_shaman_king_47
+  - first:
+      213: 9220322215345196088
+    second: goblin_shaman_king_48
+  - first:
+      213: 3215280685473113623
+    second: goblin_shaman_king_49
+  - first:
+      213: 5016260961674888473
+    second: goblin_shaman_king_50
+  - first:
+      213: 563128001431826908
+    second: goblin_shaman_king_51
+  - first:
+      213: -8506939857006166507
+    second: goblin_shaman_king_52
+  - first:
+      213: 3965175314509548690
+    second: goblin_shaman_king_53
+  - first:
+      213: -6771783323168418129
+    second: goblin_shaman_king_54
+  - first:
+      213: 6012021418457436309
+    second: goblin_shaman_king_55
+  - first:
+      213: 8961010875447743800
+    second: goblin_shaman_king_56
+  - first:
+      213: -8844293508991658672
+    second: goblin_shaman_king_57
+  - first:
+      213: -5238194362707190306
+    second: goblin_shaman_king_58
+  - first:
+      213: 5386108445415637007
+    second: goblin_shaman_king_59
+  - first:
+      213: 3460473473506674691
+    second: goblin_shaman_king_60
+  - first:
+      213: -1083140647541955683
+    second: goblin_shaman_king_61
+  - first:
+      213: -2851007998532463969
+    second: goblin_shaman_king_62
+  - first:
+      213: -8475605139029675133
+    second: goblin_shaman_king_63
+  - first:
+      213: 2019726852637431807
+    second: goblin_shaman_king_64
+  - first:
+      213: 4300520293202053421
+    second: goblin_shaman_king_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 67.2
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: goblin_shaman_king_idle_side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1012
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6fd83656f3bc6488242bc508e91ad3
+      internalID: 1469893818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_idle_side_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1012
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31337727e6faaff4790d60c6ed327e15
+      internalID: 633697268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_idle_side_2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1012
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b718dd8ffdb1d6344b625dbd27937d7a
+      internalID: 1026729270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_idle_side_3
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1012
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59136e4d392ca2343ab146593e9125d8
+      internalID: -381940346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_idle_front_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 920
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07764b58060ed1046a9969b5c75a3733
+      internalID: -546615358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_idle_front_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 920
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369dc7f4e1d20e546be2aabb54a14f18
+      internalID: -1365409646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_idle_front_2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 920
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af65ab4d04576324d8796cc76985adee
+      internalID: 2007033869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_idle_front_3
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 920
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b93bcebd78bcbc47bed9f23cd01820f
+      internalID: -1534838950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_idle_back_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 828
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70fa95151005d14990a2c94cda4f917
+      internalID: 2054257757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_idle_back_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 828
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef2e46dfd151be4b9974783b56faa4b
+      internalID: 1635678419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_idle_back_2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 828
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc84a4bc4574ed47a160180ad3b01b7
+      internalID: 495253284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_idle_back_3
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 828
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a947b74d61c053f40adefcc54afcca7d
+      internalID: -1739000352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_walk_side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 736
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cedae5482e9b724fa0dbc3ff3ee3fb3
+      internalID: -69090274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_walk_side_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 736
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c5266296541224480869d29e28c3b3
+      internalID: -1632034946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_walk_side_2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 736
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129004fac7be9f14ab95957a52280f23
+      internalID: -1145710754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_walk_side_3
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 736
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5bc465c4c38444bb0fb227672c5dd4
+      internalID: 1609146616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_walk_side_4
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 736
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f1a7c8dbff26748ab80e835b3fdbd4
+      internalID: 1593648489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_walk_side_5
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 736
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c360907c1a4d8a47907dc6cb57e0ccd
+      internalID: -774565346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_walk_front_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 644
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b64baac2bb3e740986ed187467ed12
+      internalID: -1019073429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_walk_front_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 644
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85c032b4f15437438a724e8b4dd1130
+      internalID: 492818247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_walk_front_2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 644
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08b37da41a79f942852ff620f7d5ec2
+      internalID: -1228146385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_walk_front_3
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 644
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db53a70132ee484b99aa08a24c98ac8
+      internalID: 1128750333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_walk_front_4
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 644
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef3c586abd724c46b693d7df0d26359
+      internalID: -811831185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_walk_front_5
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 644
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d0537c559e78942bed00dbb4b0c287
+      internalID: 1912828801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_walk_back_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 552
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407242cb104349745b0e6d12e29d9181
+      internalID: 1680214682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_walk_back_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 552
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4bc79b17bdc514984adef534c69876
+      internalID: 1911333334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_walk_back_2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 552
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fade4aa1dcbb12c42a852f0f8bc5ea99
+      internalID: 1511723868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_walk_back_3
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 552
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5618d0a4f1af041b88eb24746b9202
+      internalID: -245474231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_walk_back_4
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 552
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c6318d573441f4a8b2574ae7541619
+      internalID: 596241387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_walk_back_5
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 552
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0ff04e8efb6f44488cfb9293d457d9
+      internalID: -1539558989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_attack_side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 460
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48a906f79c34624095d7abb37ffafa6
+      internalID: 1262330528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_attack_side_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 460
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de078b89664189c49a12aaa6957af9ae
+      internalID: -1197176613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_attack_side_2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 460
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13394675a1370fc4aa8779383389e99f
+      internalID: -461756434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_attack_side_3
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 460
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b31c79a4fe2a44f922e24b637eef68
+      internalID: -358705703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_attack_side_4
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 460
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a6236df6b116c46b3963db95f59f0f
+      internalID: 336133143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_attack_side_5
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 460
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938ffa0e8719a9e4c85af36ee15ccd02
+      internalID: 441255023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_attack_front_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435b0b427d5243942b6bb3fbdcaf914a
+      internalID: 1966352876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_attack_front_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 368
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263a6cd94154cb246886c38f67e1d3bb
+      internalID: 2091165990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_attack_front_2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 368
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d12ca568699f38418c04699ed685a66
+      internalID: -729258425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_attack_front_3
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 368
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1575604e62001ff4aa620b9018bdf9d5
+      internalID: -15278768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_attack_front_4
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 368
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830f700be453544488a05aadbdcaf77e
+      internalID: -1909375035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_attack_front_5
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 368
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9b00da1058f3b4d85e388548031485
+      internalID: -876843358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_attack_back_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 276
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee944a31427df84696398a88cff7b78
+      internalID: -983282448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_attack_back_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 276
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33055911b6c7c7b4a9176f6e04b857fb
+      internalID: 1990705822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_attack_back_2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 276
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc32e242322d2f4fbebf82b00b873d6
+      internalID: -1415449954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_attack_back_3
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 276
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cf8b50fc7aec04e9863beceec184c8
+      internalID: -568178416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_attack_back_4
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 276
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3be4dc315ac5ac46a701f1e4408a836
+      internalID: 1348903016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_attack_back_5
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 276
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df35c8042f581b439f3c809d413acdd
+      internalID: -431235273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_death_side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 184
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f477a447597e42b41b39f9c028b38116
+      internalID: -2106168863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_death_side_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 184
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c9ebf28c38d2b4cbae3542907a766d
+      internalID: -1792788590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_death_side_2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 184
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63469c0701515e6479d1b596812e8ee7
+      internalID: 1500923093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_death_side_3
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 184
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb456deb60b4a954a8fb6f984acbbc8c
+      internalID: -1661246202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_death_side_4
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 184
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598f5a4d0c2ee4f4a9580b5c0a7c500b
+      internalID: -791515397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_death_side_5
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 184
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3267be17c7c26d54a9b03b9c225cedcd
+      internalID: 2001067523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_death_front_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214f69e0baedd02409f92b2334a10221
+      internalID: 2086788218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_death_front_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 92
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48660e8019c0b346b00479338d2fd08
+      internalID: 1217954638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_death_front_2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 92
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbfefc611471b7439c460939f9ddf5a
+      internalID: 274627099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_death_front_3
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 92
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208be647075016642b55e5a876e3a2d4
+      internalID: -1737045001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_death_front_4
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 92
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41674f490c0d85f4485a1597f6ea900b
+      internalID: -373724961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_death_front_5
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 92
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b466251a75168004e95b24dea76629c2
+      internalID: 1988558868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_death_back_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96086e658b918ca4697762971c8db0fe
+      internalID: 1732284754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_death_back_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2275bc54ccc4210418ec752e11047b9b
+      internalID: 1585499106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_death_back_2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f72f37063fbff449d7e978fece05aa
+      internalID: 1224844170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_death_back_3
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85dcf51d60a9b954882924e8ac00b19b
+      internalID: 106533340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_death_back_4
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b220e95c45a8644a494ea8b3c7a622
+      internalID: 2072752474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_shaman_king_death_back_5
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3017bbec8546ec347a7b2226c21d9dee
+      internalID: 1539290856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 192b9ad9f2c850c4ebe443592561070d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      goblin_shaman_king_attack_back_0: -983282448
+      goblin_shaman_king_attack_back_1: 1990705822
+      goblin_shaman_king_attack_back_2: -1415449954
+      goblin_shaman_king_attack_back_3: -568178416
+      goblin_shaman_king_attack_back_4: 1348903016
+      goblin_shaman_king_attack_back_5: -431235273
+      goblin_shaman_king_attack_front_0: 1966352876
+      goblin_shaman_king_attack_front_1: 2091165990
+      goblin_shaman_king_attack_front_2: -729258425
+      goblin_shaman_king_attack_front_3: -15278768
+      goblin_shaman_king_attack_front_4: -1909375035
+      goblin_shaman_king_attack_front_5: -876843358
+      goblin_shaman_king_attack_side_0: 1262330528
+      goblin_shaman_king_attack_side_1: -1197176613
+      goblin_shaman_king_attack_side_2: -461756434
+      goblin_shaman_king_attack_side_3: -358705703
+      goblin_shaman_king_attack_side_4: 336133143
+      goblin_shaman_king_attack_side_5: 441255023
+      goblin_shaman_king_death_back_0: 1732284754
+      goblin_shaman_king_death_back_1: 1585499106
+      goblin_shaman_king_death_back_2: 1224844170
+      goblin_shaman_king_death_back_3: 106533340
+      goblin_shaman_king_death_back_4: 2072752474
+      goblin_shaman_king_death_back_5: 1539290856
+      goblin_shaman_king_death_front_0: 2086788218
+      goblin_shaman_king_death_front_1: 1217954638
+      goblin_shaman_king_death_front_2: 274627099
+      goblin_shaman_king_death_front_3: -1737045001
+      goblin_shaman_king_death_front_4: -373724961
+      goblin_shaman_king_death_front_5: 1988558868
+      goblin_shaman_king_death_side_0: -2106168863
+      goblin_shaman_king_death_side_1: -1792788590
+      goblin_shaman_king_death_side_2: 1500923093
+      goblin_shaman_king_death_side_3: -1661246202
+      goblin_shaman_king_death_side_4: -791515397
+      goblin_shaman_king_death_side_5: 2001067523
+      goblin_shaman_king_idle_back_0: 2054257757
+      goblin_shaman_king_idle_back_1: 1635678419
+      goblin_shaman_king_idle_back_2: 495253284
+      goblin_shaman_king_idle_back_3: -1739000352
+      goblin_shaman_king_idle_front_0: -546615358
+      goblin_shaman_king_idle_front_1: -1365409646
+      goblin_shaman_king_idle_front_2: 2007033869
+      goblin_shaman_king_idle_front_3: -1534838950
+      goblin_shaman_king_idle_side_0: 1469893818
+      goblin_shaman_king_idle_side_1: 633697268
+      goblin_shaman_king_idle_side_2: 1026729270
+      goblin_shaman_king_idle_side_3: -381940346
+      goblin_shaman_king_walk_back_0: 1680214682
+      goblin_shaman_king_walk_back_1: 1911333334
+      goblin_shaman_king_walk_back_2: 1511723868
+      goblin_shaman_king_walk_back_3: -245474231
+      goblin_shaman_king_walk_back_4: 596241387
+      goblin_shaman_king_walk_back_5: -1539558989
+      goblin_shaman_king_walk_front_0: -1019073429
+      goblin_shaman_king_walk_front_1: 492818247
+      goblin_shaman_king_walk_front_2: -1228146385
+      goblin_shaman_king_walk_front_3: 1128750333
+      goblin_shaman_king_walk_front_4: -811831185
+      goblin_shaman_king_walk_front_5: 1912828801
+      goblin_shaman_king_walk_side_0: -69090274
+      goblin_shaman_king_walk_side_1: -1632034946
+      goblin_shaman_king_walk_side_2: -1145710754
+      goblin_shaman_king_walk_side_3: 1609146616
+      goblin_shaman_king_walk_side_4: 1593648489
+      goblin_shaman_king_walk_side_5: -774565346
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

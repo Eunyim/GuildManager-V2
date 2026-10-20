@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7584f2f5614bae04db6f42e638aa5c3c, type: 3}
+  m_Name: OrcVillage
+  m_EditorClassIdentifier: Assembly-CSharp::MapThemeData
+  themeName: "\uC624\uD06C \uBD80\uB77D"
+  regionName: "\uC624\uD06C \uBD80\uB77D"
+  floorTiles:
+  - {fileID: 11400000, guid: 3ed4d9e6d6508884198a2e3180988797, type: 2}
+  - {fileID: 11400000, guid: 3ed4d9e6d6508884198a2e3180988797, type: 2}
+  - {fileID: 11400000, guid: 3ed4d9e6d6508884198a2e3180988797, type: 2}
+  - {fileID: 11400000, guid: 4b07f4f76f3d98d4989a4fbc97020de2, type: 2}
+  - {fileID: 11400000, guid: 4b07f4f76f3d98d4989a4fbc97020de2, type: 2}
+  - {fileID: 11400000, guid: 4b07f4f76f3d98d4989a4fbc97020de2, type: 2}
+  - {fileID: 11400000, guid: affc5ea7ef9e47649b07e0a841801a7d, type: 2}
+  - {fileID: 11400000, guid: affc5ea7ef9e47649b07e0a841801a7d, type: 2}
+  - {fileID: 11400000, guid: affc5ea7ef9e47649b07e0a841801a7d, type: 2}
+  - {fileID: 11400000, guid: 2ec911a4101f88342a728c4a75e529cf, type: 2}
+  - {fileID: 11400000, guid: 2ec911a4101f88342a728c4a75e529cf, type: 2}
+  - {fileID: 11400000, guid: 2ec911a4101f88342a728c4a75e529cf, type: 2}
+  - {fileID: 11400000, guid: e45409bad8fdde8479b60b6429280414, type: 2}
+  - {fileID: 11400000, guid: f9060bbc3d9551e4d829a078bf29182e, type: 2}
+  - {fileID: 11400000, guid: 80c00a386c3260e49b309e50e181bc88, type: 2}
+  - {fileID: 11400000, guid: 4e9d80049330f3c43810ee4da070170b, type: 2}
+  isoFloorTiles:
+  - {fileID: 11400000, guid: 3ed4d9e6d6508884198a2e3180988797, type: 2}
+  - {fileID: 11400000, guid: 3ed4d9e6d6508884198a2e3180988797, type: 2}
+  - {fileID: 11400000, guid: 3ed4d9e6d6508884198a2e3180988797, type: 2}
+  - {fileID: 11400000, guid: 4b07f4f76f3d98d4989a4fbc97020de2, type: 2}
+  - {fileID: 11400000, guid: 4b07f4f76f3d98d4989a4fbc97020de2, type: 2}
+  - {fileID: 11400000, guid: 4b07f4f76f3d98d4989a4fbc97020de2, type: 2}
+  - {fileID: 11400000, guid: affc5ea7ef9e47649b07e0a841801a7d, type: 2}
+  - {fileID: 11400000, guid: affc5ea7ef9e47649b07e0a841801a7d, type: 2}
+  - {fileID: 11400000, guid: affc5ea7ef9e47649b07e0a841801a7d, type: 2}
+  - {fileID: 11400000, guid: 2ec911a4101f88342a728c4a75e529cf, type: 2}
+  - {fileID: 11400000, guid: 2ec911a4101f88342a728c4a75e529cf, type: 2}
+  - {fileID: 11400000, guid: 2ec911a4101f88342a728c4a75e529cf, type: 2}
+  - {fileID: 11400000, guid: e45409bad8fdde8479b60b6429280414, type: 2}
+  - {fileID: 11400000, guid: f9060bbc3d9551e4d829a078bf29182e, type: 2}
+  - {fileID: 11400000, guid: 80c00a386c3260e49b309e50e181bc88, type: 2}
+  - {fileID: 11400000, guid: 4e9d80049330f3c43810ee4da070170b, type: 2}
+  isoEdgeLeft:
+  - {fileID: 11400000, guid: 22610088f36cff44aaebd0dfe6859aa1, type: 2}
+  - {fileID: 11400000, guid: 8fc0c05e0540e384a80c0c8749e22462, type: 2}
+  isoEdgeRight:
+  - {fileID: 11400000, guid: 3bf1522082b57e34d94af54636cf03ca, type: 2}
+  - {fileID: 11400000, guid: 4a79fcacec2250c4fbe52a2afc9b792a, type: 2}
+  isoEdgeBoth:
+  - {fileID: 11400000, guid: 87eb1e6eb1f686d4197783294fe9226a, type: 2}
+  - {fileID: 11400000, guid: 467590b68081f9141bf14cc1634a45cc, type: 2}
+  wallTop: {fileID: 0}
+  wallBottom: {fileID: 0}
+  wallLeft: {fileID: 0}
+  wallRight: {fileID: 0}
+  wallCornerTL: {fileID: 0}
+  wallCornerTR: {fileID: 0}
+  wallCornerBL: {fileID: 0}
+  wallCornerBR: {fileID: 0}
+  wallSolid: {fileID: 0}
+  decorationTiles: []
+  decorationDensity: 0.08

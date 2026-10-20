@@ -1,0 +1,1833 @@
+fileFormatVersion: 2
+guid: d53921b32e2527946aaa44e161595bdb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8982938134897188708
+    second: goblin_hunter_0
+  - first:
+      213: -1460516737723640202
+    second: goblin_hunter_1
+  - first:
+      213: 1126022625466531169
+    second: goblin_hunter_2
+  - first:
+      213: -7982964567811931789
+    second: goblin_hunter_3
+  - first:
+      213: -8705450611173020870
+    second: goblin_hunter_4
+  - first:
+      213: 2871407495064976133
+    second: goblin_hunter_5
+  - first:
+      213: -574492801896138991
+    second: goblin_hunter_6
+  - first:
+      213: -9003730737402355020
+    second: goblin_hunter_7
+  - first:
+      213: -2263031519738449050
+    second: goblin_hunter_8
+  - first:
+      213: -1758880272427416367
+    second: goblin_hunter_9
+  - first:
+      213: -1785068878402177149
+    second: goblin_hunter_10
+  - first:
+      213: 6533218770633134396
+    second: goblin_hunter_11
+  - first:
+      213: 4786496522557047038
+    second: goblin_hunter_12
+  - first:
+      213: 8349314188570857979
+    second: goblin_hunter_13
+  - first:
+      213: -6961046409381847654
+    second: goblin_hunter_14
+  - first:
+      213: -8864732263921248674
+    second: goblin_hunter_15
+  - first:
+      213: 3062197513309429336
+    second: goblin_hunter_16
+  - first:
+      213: 7493888226770388702
+    second: goblin_hunter_17
+  - first:
+      213: 2756398440954670044
+    second: goblin_hunter_18
+  - first:
+      213: -5567426177973003706
+    second: goblin_hunter_19
+  - first:
+      213: -3385286168170253104
+    second: goblin_hunter_20
+  - first:
+      213: -3869262960893032712
+    second: goblin_hunter_21
+  - first:
+      213: -938267222837955666
+    second: goblin_hunter_22
+  - first:
+      213: 7721670041392589353
+    second: goblin_hunter_23
+  - first:
+      213: 496970768874885252
+    second: goblin_hunter_24
+  - first:
+      213: 2298560626239871523
+    second: goblin_hunter_25
+  - first:
+      213: -2968964970624775244
+    second: goblin_hunter_26
+  - first:
+      213: -5854083188673366167
+    second: goblin_hunter_27
+  - first:
+      213: -4010342804735529417
+    second: goblin_hunter_28
+  - first:
+      213: 5136413893150681684
+    second: goblin_hunter_29
+  - first:
+      213: 5772513818289184430
+    second: goblin_hunter_30
+  - first:
+      213: 1502452995264592883
+    second: goblin_hunter_31
+  - first:
+      213: 8501107010248049615
+    second: goblin_hunter_32
+  - first:
+      213: 9027009004479273466
+    second: goblin_hunter_33
+  - first:
+      213: 4276261930602522070
+    second: goblin_hunter_34
+  - first:
+      213: -7189900832048832236
+    second: goblin_hunter_35
+  - first:
+      213: -9132503983509444294
+    second: goblin_hunter_36
+  - first:
+      213: 3134412291274422326
+    second: goblin_hunter_37
+  - first:
+      213: -3841427461170016248
+    second: goblin_hunter_38
+  - first:
+      213: 8431718189432748337
+    second: goblin_hunter_39
+  - first:
+      213: -3786896087523932077
+    second: goblin_hunter_40
+  - first:
+      213: -4664666453064401896
+    second: goblin_hunter_41
+  - first:
+      213: -4372844927089945217
+    second: goblin_hunter_42
+  - first:
+      213: -7207919740700759697
+    second: goblin_hunter_43
+  - first:
+      213: -3687897860212318515
+    second: goblin_hunter_44
+  - first:
+      213: -3654814295070417999
+    second: goblin_hunter_45
+  - first:
+      213: 7277350019768094542
+    second: goblin_hunter_46
+  - first:
+      213: 8046853410945355321
+    second: goblin_hunter_47
+  - first:
+      213: 6420471042864450555
+    second: goblin_hunter_48
+  - first:
+      213: 5252463487134878319
+    second: goblin_hunter_49
+  - first:
+      213: -2116495048810694411
+    second: goblin_hunter_50
+  - first:
+      213: 8681341378700995949
+    second: goblin_hunter_51
+  - first:
+      213: -5188584699405702724
+    second: goblin_hunter_52
+  - first:
+      213: -5413754334106011618
+    second: goblin_hunter_53
+  - first:
+      213: 4923178412531401999
+    second: goblin_hunter_54
+  - first:
+      213: 8336371754306742669
+    second: goblin_hunter_55
+  - first:
+      213: -1770734898665597273
+    second: goblin_hunter_56
+  - first:
+      213: -3329095608694147661
+    second: goblin_hunter_57
+  - first:
+      213: 1674219477510098993
+    second: goblin_hunter_58
+  - first:
+      213: 5265113107616681274
+    second: goblin_hunter_59
+  - first:
+      213: -5665504643617903704
+    second: goblin_hunter_60
+  - first:
+      213: 1330478673296001395
+    second: goblin_hunter_61
+  - first:
+      213: 8633137962619203992
+    second: goblin_hunter_62
+  - first:
+      213: 1596549633326540535
+    second: goblin_hunter_63
+  - first:
+      213: -4408967381051794918
+    second: goblin_hunter_64
+  - first:
+      213: -6776834579533008359
+    second: goblin_hunter_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: goblin_hunter_idle_side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 561
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c840035237bbd40a4f59fee1c14542
+      internalID: -752017144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_idle_side_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 561
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066fac6f6b0999d4da08ae8776542a87
+      internalID: -1711583568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_idle_side_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 561
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2347cedd5c045dc4eb7d6f02cce63ff9
+      internalID: 569397333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_idle_side_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 561
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1c594fdddf5be4581c04dffeff45bb
+      internalID: -1625408632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_idle_front_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 510
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da881e8e1ff1fe3408788dc0da8a225b
+      internalID: 64550229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_idle_front_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 510
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fd35f1dc0a8eb418c4bd9778a0b053
+      internalID: -581997834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_idle_front_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 510
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2bf8ec96ec57b4a859a7ef0acfd0a8
+      internalID: 569046079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_idle_front_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 510
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe91b09b4a85a434bafff27765e79178
+      internalID: -1141823002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_idle_back_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 459
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb573e21ce537a04381e3d8e113f4fda
+      internalID: 1937722006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_idle_back_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 459
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af88b7a9d14038a4eb53b7905ab799e5
+      internalID: -658290148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_idle_back_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 459
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b0557a6a673964d96fc0b69d671386
+      internalID: -523253343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_idle_back_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 459
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f806070dc4e11dc418267f54d1bbe4ee
+      internalID: 1199558471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_walk_side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 408
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944efe0a7d277384582453e3e9f8c7b9
+      internalID: -1217120787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_walk_side_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 408
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226412ef42e10b24db4b20116512e414
+      internalID: 561189801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_walk_side_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 408
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4298fe762b774a42a062a8dfecc7985
+      internalID: 1414034276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_walk_side_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 408
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fdd30bd8d4b1a4d946ca8212c880da
+      internalID: -1639752796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_walk_side_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 408
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fe8c01d942d8a419c8f3a1c068d327
+      internalID: -701960511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_walk_side_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 408
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59659dfcb57d951479301886f4e33fb4
+      internalID: -890214242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_walk_front_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 357
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a61abdc9189a643bcee94e800f155f
+      internalID: -1320094801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_walk_front_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 357
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44f9e3307a6d2e4498711a4029af7d5
+      internalID: -1582123587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_walk_front_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 357
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c559d5d69740fa24a9b7a158ae3385fd
+      internalID: 423941925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_walk_front_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 357
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18830498d8ac99b489ad4c3d2e183c14
+      internalID: 2143940314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_walk_front_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 357
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2866df2ee53ef46868d403bda449fe
+      internalID: 1046608859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_walk_front_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 357
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b32a26a1be70074fb0aaf2734bd9344
+      internalID: -112930748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_walk_back_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3f58644cd7d3747b007fd27688fa74
+      internalID: 2136972976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_walk_back_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 306
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f178162226d0642a0bd368da477aa9
+      internalID: 737995924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_walk_back_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 306
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acdfe663d6df38d4590b04656cf11b1d
+      internalID: 519916088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_walk_back_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 306
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8a7629ea9ba8a4b97ab7526fa7df67
+      internalID: 1497406097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_walk_back_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 306
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7f1e9fcd93e82438fd435dfd7ae702
+      internalID: 1633120880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_walk_back_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 306
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be6c33ba1d3e564b81a45b3d469abe9
+      internalID: -699089963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_attack_side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0bba32298ac6fc48908a83ec548b7bc
+      internalID: 1175760759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_attack_side_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 255
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd25ac6d204a7946bcdaa0aafb04122
+      internalID: -416884844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_attack_side_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 255
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06daa2da30d0aef41aab9dcadeda471a
+      internalID: 1207791235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_attack_side_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 255
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86262b1675185a943baabf9c4dc31c20
+      internalID: 806763764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_attack_side_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 255
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4693def666fc0845acf710653bbebcb
+      internalID: 755318408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_attack_side_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 255
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2b9198efd22bb4b8c5cd26e6b012fd
+      internalID: 240116035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_attack_front_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1c3c439ec7cb0478e060e140565766
+      internalID: -756952415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_attack_front_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 204
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a039da12f71df546a1c8486246bc01a
+      internalID: 841509691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_attack_front_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 204
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0494b5f689453408af168cd9188adc
+      internalID: -1516188153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_attack_front_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 204
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bd5990104ded84fba5bcb8df29a498
+      internalID: 900030997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_attack_front_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 204
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b2e75be8a31b742ada1df1d71f89b3
+      internalID: 595285736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_attack_front_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 204
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075f2a21bb842404ea97148f1d74bd4b
+      internalID: 2049233020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_attack_back_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2746d95846ec94cbeb9afa93f6fe3c
+      internalID: 787143227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_attack_back_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 153
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85ec2b3f231ae943a0bd1837862cb83
+      internalID: -745733490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_attack_back_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 153
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ffefdb69e678c458561be093134851
+      internalID: -102455061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_attack_back_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 153
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581fe3a1ab30bb14a92223ffd72596bd
+      internalID: 20828316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_attack_back_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 153
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e700a52d94adf62458d2a62ccfd4bbce
+      internalID: 1689220050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_attack_back_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 153
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c28e343659ef70489c92e55c79126fd
+      internalID: -2118988117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_death_side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf8cef09db572240a27dd60ce3968c1
+      internalID: 1922027962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_death_side_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 102
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff837505a9621734387d646c26e8c449
+      internalID: -379917636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_death_side_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 102
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd64cf5f183e8b3468d78564b8c884d1
+      internalID: -302063283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_death_side_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 102
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16929336d9804ea4797dc57ef0b9ccb7
+      internalID: 502064628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_death_side_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 102
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a03b0dbdfe12d4da13bdae1c853f98
+      internalID: -94961042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_death_side_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 102
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf34c7f39be529947b28c6dc943adacf
+      internalID: -196769209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_death_front_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc4befc01ef8054db44547482edc313
+      internalID: 1417393107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_death_front_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 51
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262e070cb15719848b16461f96ff45f2
+      internalID: 1870405560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_death_front_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 51
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51c9c4fb2a347546a14ee8ebed695e9
+      internalID: -1291760329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_death_front_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 51
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46738652662d54d45ba8211f70e40cbb
+      internalID: 1857570036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_death_front_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 51
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432cae01172deae46baf014ac8038d82
+      internalID: -443240777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_death_front_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 51
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e1a2701a831ac4f8ffba6b70d45134
+      internalID: -127781480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_death_back_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6fb73f52d296b4dbf7277e471a468e
+      internalID: -285385138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_death_back_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7243830860d443419b5ec32169dce2e
+      internalID: -32834464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_death_back_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627412516e5d08a40b939fc8f12449e4
+      internalID: -984498713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_death_back_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298d34e9a78c6e84b93ac204f15d7d4b
+      internalID: -1800539056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_death_back_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b549f7291d6e6ca4185ca2db96080161
+      internalID: 1423229538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_hunter_death_back_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95eb2316336439a4aa9f3b5c81df0459
+      internalID: -308389348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0a1da7513b184db4b84acdb119c719b9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      goblin_hunter_attack_back_0: 787143227
+      goblin_hunter_attack_back_1: -745733490
+      goblin_hunter_attack_back_2: -102455061
+      goblin_hunter_attack_back_3: 20828316
+      goblin_hunter_attack_back_4: 1689220050
+      goblin_hunter_attack_back_5: -2118988117
+      goblin_hunter_attack_front_0: -756952415
+      goblin_hunter_attack_front_1: 841509691
+      goblin_hunter_attack_front_2: -1516188153
+      goblin_hunter_attack_front_3: 900030997
+      goblin_hunter_attack_front_4: 595285736
+      goblin_hunter_attack_front_5: 2049233020
+      goblin_hunter_attack_side_0: 1175760759
+      goblin_hunter_attack_side_1: -416884844
+      goblin_hunter_attack_side_2: 1207791235
+      goblin_hunter_attack_side_3: 806763764
+      goblin_hunter_attack_side_4: 755318408
+      goblin_hunter_attack_side_5: 240116035
+      goblin_hunter_death_back_0: -285385138
+      goblin_hunter_death_back_1: -32834464
+      goblin_hunter_death_back_2: -984498713
+      goblin_hunter_death_back_3: -1800539056
+      goblin_hunter_death_back_4: 1423229538
+      goblin_hunter_death_back_5: -308389348
+      goblin_hunter_death_front_0: 1417393107
+      goblin_hunter_death_front_1: 1870405560
+      goblin_hunter_death_front_2: -1291760329
+      goblin_hunter_death_front_3: 1857570036
+      goblin_hunter_death_front_4: -443240777
+      goblin_hunter_death_front_5: -127781480
+      goblin_hunter_death_side_0: 1922027962
+      goblin_hunter_death_side_1: -379917636
+      goblin_hunter_death_side_2: -302063283
+      goblin_hunter_death_side_3: 502064628
+      goblin_hunter_death_side_4: -94961042
+      goblin_hunter_death_side_5: -196769209
+      goblin_hunter_idle_back_0: 1937722006
+      goblin_hunter_idle_back_1: -658290148
+      goblin_hunter_idle_back_2: -523253343
+      goblin_hunter_idle_back_3: 1199558471
+      goblin_hunter_idle_front_0: 64550229
+      goblin_hunter_idle_front_1: -581997834
+      goblin_hunter_idle_front_2: 569046079
+      goblin_hunter_idle_front_3: -1141823002
+      goblin_hunter_idle_side_0: -752017144
+      goblin_hunter_idle_side_1: -1711583568
+      goblin_hunter_idle_side_2: 569397333
+      goblin_hunter_idle_side_3: -1625408632
+      goblin_hunter_walk_back_0: 2136972976
+      goblin_hunter_walk_back_1: 737995924
+      goblin_hunter_walk_back_2: 519916088
+      goblin_hunter_walk_back_3: 1497406097
+      goblin_hunter_walk_back_4: 1633120880
+      goblin_hunter_walk_back_5: -699089963
+      goblin_hunter_walk_front_0: -1320094801
+      goblin_hunter_walk_front_1: -1582123587
+      goblin_hunter_walk_front_2: 423941925
+      goblin_hunter_walk_front_3: 2143940314
+      goblin_hunter_walk_front_4: 1046608859
+      goblin_hunter_walk_front_5: -112930748
+      goblin_hunter_walk_side_0: -1217120787
+      goblin_hunter_walk_side_1: 561189801
+      goblin_hunter_walk_side_2: 1414034276
+      goblin_hunter_walk_side_3: -1639752796
+      goblin_hunter_walk_side_4: -701960511
+      goblin_hunter_walk_side_5: -890214242
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

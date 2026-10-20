@@ -1,0 +1,1833 @@
+fileFormatVersion: 2
+guid: 704fe63bddec1fd41825347ebd0d07c7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2829414206252934388
+    second: skeleton_necromancer_0
+  - first:
+      213: 2452437022134873180
+    second: skeleton_necromancer_1
+  - first:
+      213: -6505509654492653694
+    second: skeleton_necromancer_2
+  - first:
+      213: 5852574325743838157
+    second: skeleton_necromancer_3
+  - first:
+      213: -3822322043999749628
+    second: skeleton_necromancer_4
+  - first:
+      213: -5597886284810460972
+    second: skeleton_necromancer_5
+  - first:
+      213: 6304127127947866516
+    second: skeleton_necromancer_6
+  - first:
+      213: -8532933224320405795
+    second: skeleton_necromancer_7
+  - first:
+      213: -3713894472661565768
+    second: skeleton_necromancer_8
+  - first:
+      213: -3931548047704045959
+    second: skeleton_necromancer_9
+  - first:
+      213: -139352618273963408
+    second: skeleton_necromancer_10
+  - first:
+      213: 7294551402459601254
+    second: skeleton_necromancer_11
+  - first:
+      213: -3185746729322196695
+    second: skeleton_necromancer_12
+  - first:
+      213: 697184541807685281
+    second: skeleton_necromancer_13
+  - first:
+      213: -1893122629632538787
+    second: skeleton_necromancer_14
+  - first:
+      213: -6094136649194500839
+    second: skeleton_necromancer_15
+  - first:
+      213: -1651422636936537187
+    second: skeleton_necromancer_16
+  - first:
+      213: 8819278472276592206
+    second: skeleton_necromancer_17
+  - first:
+      213: -4846121070302008634
+    second: skeleton_necromancer_18
+  - first:
+      213: 3185602922631849901
+    second: skeleton_necromancer_19
+  - first:
+      213: 8190016358609228510
+    second: skeleton_necromancer_20
+  - first:
+      213: -1657636012086236177
+    second: skeleton_necromancer_21
+  - first:
+      213: 2296130622033976982
+    second: skeleton_necromancer_22
+  - first:
+      213: -6340150293536475268
+    second: skeleton_necromancer_23
+  - first:
+      213: -4698400052374878964
+    second: skeleton_necromancer_24
+  - first:
+      213: -2313732992334872116
+    second: skeleton_necromancer_25
+  - first:
+      213: 6453588623135599906
+    second: skeleton_necromancer_26
+  - first:
+      213: -2789653331309484767
+    second: skeleton_necromancer_27
+  - first:
+      213: -5224343630872253222
+    second: skeleton_necromancer_28
+  - first:
+      213: 6053165895078753031
+    second: skeleton_necromancer_29
+  - first:
+      213: 1609118464299267425
+    second: skeleton_necromancer_30
+  - first:
+      213: -8662548839585616339
+    second: skeleton_necromancer_31
+  - first:
+      213: 1190306270395259504
+    second: skeleton_necromancer_32
+  - first:
+      213: -3490096630296556792
+    second: skeleton_necromancer_33
+  - first:
+      213: 6596451645250792387
+    second: skeleton_necromancer_34
+  - first:
+      213: 3089741127348151351
+    second: skeleton_necromancer_35
+  - first:
+      213: -4531387608137310144
+    second: skeleton_necromancer_36
+  - first:
+      213: 7545741192496405689
+    second: skeleton_necromancer_37
+  - first:
+      213: 2303253662825881398
+    second: skeleton_necromancer_38
+  - first:
+      213: 2334013961351957066
+    second: skeleton_necromancer_39
+  - first:
+      213: -2693327413037197116
+    second: skeleton_necromancer_40
+  - first:
+      213: -7069533901223167485
+    second: skeleton_necromancer_41
+  - first:
+      213: 132689238775928771
+    second: skeleton_necromancer_42
+  - first:
+      213: -6649756218487619684
+    second: skeleton_necromancer_43
+  - first:
+      213: 1413776312935916169
+    second: skeleton_necromancer_44
+  - first:
+      213: 1490068816099909605
+    second: skeleton_necromancer_45
+  - first:
+      213: 72958372930075866
+    second: skeleton_necromancer_46
+  - first:
+      213: -3836944128404835249
+    second: skeleton_necromancer_47
+  - first:
+      213: -6747343993828035195
+    second: skeleton_necromancer_48
+  - first:
+      213: 978815552896344823
+    second: skeleton_necromancer_49
+  - first:
+      213: -6305906646381964924
+    second: skeleton_necromancer_50
+  - first:
+      213: 188047568906352380
+    second: skeleton_necromancer_51
+  - first:
+      213: -5076613159215422436
+    second: skeleton_necromancer_52
+  - first:
+      213: -2325223089105286215
+    second: skeleton_necromancer_53
+  - first:
+      213: 7694156090016090128
+    second: skeleton_necromancer_54
+  - first:
+      213: 1713804698709005724
+    second: skeleton_necromancer_55
+  - first:
+      213: -393035325054333384
+    second: skeleton_necromancer_56
+  - first:
+      213: -5891134864964972340
+    second: skeleton_necromancer_57
+  - first:
+      213: -3140059378775557042
+    second: skeleton_necromancer_58
+  - first:
+      213: -7698340251745027726
+    second: skeleton_necromancer_59
+  - first:
+      213: -1003509131369044044
+    second: skeleton_necromancer_60
+  - first:
+      213: 7951843243872980407
+    second: skeleton_necromancer_61
+  - first:
+      213: 3379149354709362976
+    second: skeleton_necromancer_62
+  - first:
+      213: -6546872838479876833
+    second: skeleton_necromancer_63
+  - first:
+      213: 8912746049299128387
+    second: skeleton_necromancer_64
+  - first:
+      213: 5749328763504377202
+    second: skeleton_necromancer_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 67.2
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: skeleton_necromancer_idle_side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 913
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e2ffa84a85ba249bb8a76607d43fb5
+      internalID: -1322863717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_idle_side_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 913
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4e5732eb7f9b54ab46e470c33b3157
+      internalID: 712310960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_idle_side_2
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 913
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5289ad60089d62a4aaee685b74c1477d
+      internalID: -566596516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_idle_side_3
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 913
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b826d9f0881837488fd836c134188bc
+      internalID: 1279145193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_idle_front_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 830
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b7abecafcb1704d8d1bd844ab168bf
+      internalID: 749058029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_idle_front_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 830
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad40e6606da06fe44b4bc275f8c8dc58
+      internalID: 2120309455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_idle_front_2
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 830
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c47e5e616e7a942a19b422cd54f40d
+      internalID: 692536737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_idle_front_3
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 830
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ad364d4999d9142bb0fca7e591b223
+      internalID: 135925980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_idle_back_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 747
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4f8b47454f7c94fb499b3710965cda
+      internalID: 1058048440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_idle_back_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 747
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df39cbda9ef3104ba8a38c0dac452a3
+      internalID: -150130376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_idle_back_2
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 747
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3546155d7897e4b9459f83f0e81f9a
+      internalID: 1440305386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_idle_back_3
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 747
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb52168a2cf8e94438e8c0ff19ce2584
+      internalID: 487817146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_walk_side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 664
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af8acfd051fa374ab2839072d61294b
+      internalID: -399859243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_walk_side_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 664
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437fd1883491dc244aff406328f7ecc8
+      internalID: -1778330095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_walk_side_2
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 664
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd63920243ae284ba953f5dcca05705
+      internalID: 658179456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_walk_side_3
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 664
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bbd2b270ab4504db1d40b7796ad158
+      internalID: 516110958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_walk_side_4
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 664
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1696deab018448b42bd774c10076111f
+      internalID: -1285590545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_walk_side_5
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 664
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1622316c9c5c14eaf0f017319dcfb0
+      internalID: -910651317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_walk_front_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 581
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec903bba61c1a24b8d81c52fde46c07
+      internalID: 1956327236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_walk_front_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 581
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af36ad4d4c526ee4ca3fdfb65dd5b64d
+      internalID: 741260543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_walk_front_2
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 581
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c67339c090905a4a81426db50d26f23
+      internalID: 1743486381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_walk_front_3
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 581
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df62f0e583de48499585fe707855556
+      internalID: 402755888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_walk_front_4
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 581
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87eeb2f6b4f66145bb2599fc65a4c17
+      internalID: 601662616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_walk_front_5
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 581
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a094bebb4a8da44aec38f5c9aece2c
+      internalID: -556702331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_walk_back_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 498
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aceeed5e14b714843998c7722a74ede5
+      internalID: -470402554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_walk_back_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 498
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f531cb5c78662488219ed1170fd958
+      internalID: 494904582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_walk_back_2
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 498
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13afbc7e76fd931488fb66644c835c84
+      internalID: 1757089366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_walk_back_3
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 498
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9592bd7b56c121a4b916cf7a81804c76
+      internalID: 1840404647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_walk_back_4
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 498
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1da06b9f591982439f47b7be7d1365d
+      internalID: 617665033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_walk_back_5
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 498
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1c481d7f1ac6549b7a1d6a84d1acec
+      internalID: 85563427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_attack_side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 415
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ddc569885444046bef22b6c76b3c8f
+      internalID: 1606929025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_attack_side_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 415
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28df9f5cedad7e40bf526bd612df94d
+      internalID: -2137939018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_attack_side_2
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 415
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2616d63c5483e4fb2afa7ee4e014fa
+      internalID: -1088473513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_attack_side_3
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 415
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f98565e92d511428a0c7b38be42115
+      internalID: -664999086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_attack_side_4
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 415
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b70600970b4c2148b18590aa9f712b6
+      internalID: 1961548116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_attack_side_5
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 415
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c702be8c3d8fe8f469d75e75e5e7be06
+      internalID: 360857759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_attack_front_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 332
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7598f8b0da01b4d90f4d3453a0812e
+      internalID: 802858102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_attack_front_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 332
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecf6100b180f514f9ef95fe74e1c9ff
+      internalID: -18591509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_attack_front_2
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 332
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7809d8114bc9e4ba19851d227bc252
+      internalID: -1121118684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_attack_front_3
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 332
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef58e9ed597e6149a967cb9ae94a494
+      internalID: 1756452748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_attack_front_4
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 332
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690dc2ea1c8c1a547ba9c7102e747ebf
+      internalID: 858808694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_attack_front_5
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 332
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0e9f65178a97548844192a03d7ce06
+      internalID: -734019262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_attack_back_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 249
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea14920a5a6a5d4aa5f14d81e80e095
+      internalID: -950845300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_attack_back_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 249
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d001a8876d79341afa95f07da83514
+      internalID: -328455176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_attack_back_2
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 249
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce465125c1a34ed4a93c14d2d5ae2aff
+      internalID: -493804817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_attack_back_3
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 249
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d968dd900c6894ab13f7b4af109a06
+      internalID: -380344220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_attack_back_4
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 249
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6937b729ebf46074cb758f1a4678af16
+      internalID: 1930817032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_attack_back_5
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 249
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3caa32da4918e4fa88d52ef53d259b
+      internalID: 1129644258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_death_side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 166
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdae59a5d5ab614d91373b9a804f39d
+      internalID: 554546892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_death_side_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 166
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477c72421884bee40a8340998f68bad0
+      internalID: -416666251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_death_side_2
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 166
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7379bb663c3ff949a5c85f5cb01384b
+      internalID: -1388313676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_death_side_3
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 166
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85d86458ca90d6488cc63060386c637
+      internalID: 1953329095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_death_side_4
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 166
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225ea6dd8d5b376479483b3b698af824
+      internalID: -480597857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_death_side_5
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 166
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2a657b8d3434542a236abcc59e0204
+      internalID: 586529227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_death_front_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 83
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d1d3d2ffc048944948274e767d9702
+      internalID: 1194916717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_death_front_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 83
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cacae4d35c36f4eabb2e4ec967afa7
+      internalID: 678044140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_death_front_2
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 83
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791fdfefeedcbdb4cbcabcc7a8e12d13
+      internalID: 1787694867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_death_front_3
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 83
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13456e4f98652ea478e972d119b0316e
+      internalID: -532870122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_death_front_4
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 83
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e25ba863ebce3b41afb0c06ba03691a
+      internalID: -596087671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_death_front_5
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 83
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a213bea28d60042a75f6624ba9d711
+      internalID: 1392790526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_death_back_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f219cb043ed234e8d55f6dd05365f3
+      internalID: -1870537810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_death_back_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66030cd821be1e84db5a91d3b2864731
+      internalID: 494197078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_death_back_2
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549a28aa91e289a43a4f18e15798f1c2
+      internalID: -1774994902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_death_back_3
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95c19fdf4435b74cb391c8938f00aab
+      internalID: -744223591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_death_back_4
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e433e85738ba2479ecb5f994093b10
+      internalID: -2140975260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_necromancer_death_back_5
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52530116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef33939278637b741b2d9f4b03d19bae
+      internalID: -2053038564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ca9581f4a4153be4eaff9aaa933552bd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      skeleton_necromancer_attack_back_0: -950845300
+      skeleton_necromancer_attack_back_1: -328455176
+      skeleton_necromancer_attack_back_2: -493804817
+      skeleton_necromancer_attack_back_3: -380344220
+      skeleton_necromancer_attack_back_4: 1930817032
+      skeleton_necromancer_attack_back_5: 1129644258
+      skeleton_necromancer_attack_front_0: 802858102
+      skeleton_necromancer_attack_front_1: -18591509
+      skeleton_necromancer_attack_front_2: -1121118684
+      skeleton_necromancer_attack_front_3: 1756452748
+      skeleton_necromancer_attack_front_4: 858808694
+      skeleton_necromancer_attack_front_5: -734019262
+      skeleton_necromancer_attack_side_0: 1606929025
+      skeleton_necromancer_attack_side_1: -2137939018
+      skeleton_necromancer_attack_side_2: -1088473513
+      skeleton_necromancer_attack_side_3: -664999086
+      skeleton_necromancer_attack_side_4: 1961548116
+      skeleton_necromancer_attack_side_5: 360857759
+      skeleton_necromancer_death_back_0: -1870537810
+      skeleton_necromancer_death_back_1: 494197078
+      skeleton_necromancer_death_back_2: -1774994902
+      skeleton_necromancer_death_back_3: -744223591
+      skeleton_necromancer_death_back_4: -2140975260
+      skeleton_necromancer_death_back_5: -2053038564
+      skeleton_necromancer_death_front_0: 1194916717
+      skeleton_necromancer_death_front_1: 678044140
+      skeleton_necromancer_death_front_2: 1787694867
+      skeleton_necromancer_death_front_3: -532870122
+      skeleton_necromancer_death_front_4: -596087671
+      skeleton_necromancer_death_front_5: 1392790526
+      skeleton_necromancer_death_side_0: 554546892
+      skeleton_necromancer_death_side_1: -416666251
+      skeleton_necromancer_death_side_2: -1388313676
+      skeleton_necromancer_death_side_3: 1953329095
+      skeleton_necromancer_death_side_4: -480597857
+      skeleton_necromancer_death_side_5: 586529227
+      skeleton_necromancer_idle_back_0: 1058048440
+      skeleton_necromancer_idle_back_1: -150130376
+      skeleton_necromancer_idle_back_2: 1440305386
+      skeleton_necromancer_idle_back_3: 487817146
+      skeleton_necromancer_idle_front_0: 749058029
+      skeleton_necromancer_idle_front_1: 2120309455
+      skeleton_necromancer_idle_front_2: 692536737
+      skeleton_necromancer_idle_front_3: 135925980
+      skeleton_necromancer_idle_side_0: -1322863717
+      skeleton_necromancer_idle_side_1: 712310960
+      skeleton_necromancer_idle_side_2: -566596516
+      skeleton_necromancer_idle_side_3: 1279145193
+      skeleton_necromancer_walk_back_0: -470402554
+      skeleton_necromancer_walk_back_1: 494904582
+      skeleton_necromancer_walk_back_2: 1757089366
+      skeleton_necromancer_walk_back_3: 1840404647
+      skeleton_necromancer_walk_back_4: 617665033
+      skeleton_necromancer_walk_back_5: 85563427
+      skeleton_necromancer_walk_front_0: 1956327236
+      skeleton_necromancer_walk_front_1: 741260543
+      skeleton_necromancer_walk_front_2: 1743486381
+      skeleton_necromancer_walk_front_3: 402755888
+      skeleton_necromancer_walk_front_4: 601662616
+      skeleton_necromancer_walk_front_5: -556702331
+      skeleton_necromancer_walk_side_0: -399859243
+      skeleton_necromancer_walk_side_1: -1778330095
+      skeleton_necromancer_walk_side_2: 658179456
+      skeleton_necromancer_walk_side_3: 516110958
+      skeleton_necromancer_walk_side_4: -1285590545
+      skeleton_necromancer_walk_side_5: -910651317
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

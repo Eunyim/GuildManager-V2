@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7584f2f5614bae04db6f42e638aa5c3c, type: 3}
+  m_Name: Prairie
+  m_EditorClassIdentifier: Assembly-CSharp::MapThemeData
+  themeName: "\uCD08\uC6D0"
+  regionName: "\uCD08\uC6D0"
+  floorTiles:
+  - {fileID: 11400000, guid: 987acbbd43c7c644fbfa5ddfcf5d5319, type: 2}
+  - {fileID: 11400000, guid: 987acbbd43c7c644fbfa5ddfcf5d5319, type: 2}
+  - {fileID: 11400000, guid: 987acbbd43c7c644fbfa5ddfcf5d5319, type: 2}
+  - {fileID: 11400000, guid: 66fc4fe48d2d8e447952d0faef39f57e, type: 2}
+  - {fileID: 11400000, guid: 66fc4fe48d2d8e447952d0faef39f57e, type: 2}
+  - {fileID: 11400000, guid: 66fc4fe48d2d8e447952d0faef39f57e, type: 2}
+  - {fileID: 11400000, guid: 277d577700e951947abf5ae8849b4576, type: 2}
+  - {fileID: 11400000, guid: 277d577700e951947abf5ae8849b4576, type: 2}
+  - {fileID: 11400000, guid: 277d577700e951947abf5ae8849b4576, type: 2}
+  - {fileID: 11400000, guid: 6bc17548989965949b91c6f242acbcc2, type: 2}
+  - {fileID: 11400000, guid: 6bc17548989965949b91c6f242acbcc2, type: 2}
+  - {fileID: 11400000, guid: 6bc17548989965949b91c6f242acbcc2, type: 2}
+  - {fileID: 11400000, guid: 7b3c7cd8a85a8114bb86783df868d505, type: 2}
+  - {fileID: 11400000, guid: 2c533d168a8f77c4582176d47d551154, type: 2}
+  - {fileID: 11400000, guid: 138b4589af9e5934eb8636e3db04d13f, type: 2}
+  - {fileID: 11400000, guid: 48d1496799513f54fa75aa6cce23d987, type: 2}
+  isoFloorTiles:
+  - {fileID: 11400000, guid: 987acbbd43c7c644fbfa5ddfcf5d5319, type: 2}
+  - {fileID: 11400000, guid: 987acbbd43c7c644fbfa5ddfcf5d5319, type: 2}
+  - {fileID: 11400000, guid: 987acbbd43c7c644fbfa5ddfcf5d5319, type: 2}
+  - {fileID: 11400000, guid: 66fc4fe48d2d8e447952d0faef39f57e, type: 2}
+  - {fileID: 11400000, guid: 66fc4fe48d2d8e447952d0faef39f57e, type: 2}
+  - {fileID: 11400000, guid: 66fc4fe48d2d8e447952d0faef39f57e, type: 2}
+  - {fileID: 11400000, guid: 277d577700e951947abf5ae8849b4576, type: 2}
+  - {fileID: 11400000, guid: 277d577700e951947abf5ae8849b4576, type: 2}
+  - {fileID: 11400000, guid: 277d577700e951947abf5ae8849b4576, type: 2}
+  - {fileID: 11400000, guid: 6bc17548989965949b91c6f242acbcc2, type: 2}
+  - {fileID: 11400000, guid: 6bc17548989965949b91c6f242acbcc2, type: 2}
+  - {fileID: 11400000, guid: 6bc17548989965949b91c6f242acbcc2, type: 2}
+  - {fileID: 11400000, guid: 7b3c7cd8a85a8114bb86783df868d505, type: 2}
+  - {fileID: 11400000, guid: 2c533d168a8f77c4582176d47d551154, type: 2}
+  - {fileID: 11400000, guid: 138b4589af9e5934eb8636e3db04d13f, type: 2}
+  - {fileID: 11400000, guid: 48d1496799513f54fa75aa6cce23d987, type: 2}
+  isoEdgeLeft:
+  - {fileID: 11400000, guid: 8210ada13b425434db3b5b39f531a03c, type: 2}
+  - {fileID: 11400000, guid: 324c07f0055feb143955e48c4521f9ea, type: 2}
+  isoEdgeRight:
+  - {fileID: 11400000, guid: 97e8905c8d67cbb418f20e6dc4eed3df, type: 2}
+  - {fileID: 11400000, guid: 1ecaab2274603fc4f9764e61769a59ac, type: 2}
+  isoEdgeBoth:
+  - {fileID: 11400000, guid: 60662d800c5a9834a8cc108222a60f18, type: 2}
+  - {fileID: 11400000, guid: 9ba2680d34e0fd14c9100c7443816bb0, type: 2}
+  wallTop: {fileID: 0}
+  wallBottom: {fileID: 0}
+  wallLeft: {fileID: 0}
+  wallRight: {fileID: 0}
+  wallCornerTL: {fileID: 0}
+  wallCornerTR: {fileID: 0}
+  wallCornerBL: {fileID: 0}
+  wallCornerBR: {fileID: 0}
+  wallSolid: {fileID: 0}
+  decorationTiles: []
+  decorationDensity: 0.08

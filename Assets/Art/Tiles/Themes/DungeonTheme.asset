@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7584f2f5614bae04db6f42e638aa5c3c, type: 3}
+  m_Name: DungeonTheme
+  m_EditorClassIdentifier: Assembly-CSharp::MapThemeData
+  themeName: DungeonTheme
+  floorTiles:
+  - {fileID: 11400000, guid: 8e113c925a7a9e44fb5aea37782f6932, type: 2}
+  - {fileID: 11400000, guid: 0136883051da4294c86cfec3eec7d395, type: 2}
+  - {fileID: 11400000, guid: 8cd3f8cef1d092047b7c7af52e0cf2a2, type: 2}
+  - {fileID: 11400000, guid: 56b18597d305ca149904f039899dca47, type: 2}
+  - {fileID: 11400000, guid: ab0258476bfbf1e43827211f2dd65cff, type: 2}
+  - {fileID: 11400000, guid: ec13018e54d5f2f4bbec3815e8904e00, type: 2}
+  - {fileID: 11400000, guid: 0cdba0d3b7c55bb4bb5abdd95a03bf66, type: 2}
+  - {fileID: 11400000, guid: 4bc0ecfefbd9e784fbafa88965ac3875, type: 2}
+  isoFloorTiles:
+  - {fileID: 11400000, guid: 7bb41382f46dc734d81dafcbd3103a85, type: 2}
+  - {fileID: 11400000, guid: 85773670a2ea82d42a270c802b0cd59a, type: 2}
+  - {fileID: 11400000, guid: c32b6d0fdc36c414f85df6f0aed5ab8a, type: 2}
+  - {fileID: 11400000, guid: 893f6faac59f5dc46bb2e22c81ca3fbc, type: 2}
+  - {fileID: 11400000, guid: 2652441a9888a8a4c99399f06039e4f0, type: 2}
+  - {fileID: 11400000, guid: 87b4d11f266f68f41b73c97f4af5f00d, type: 2}
+  - {fileID: 11400000, guid: c53a24d4b2b02bf43acb29dd25d5a086, type: 2}
+  - {fileID: 11400000, guid: 7c7fa66cf13e95f4484e965eab615619, type: 2}
+  wallTop: {fileID: 11400000, guid: f9f4738659adb6a44a2123f2724f630f, type: 2}
+  wallBottom: {fileID: 11400000, guid: e60413b09a8ba294eb5bcb1476fee895, type: 2}
+  wallLeft: {fileID: 11400000, guid: f6f8e10b4be4d1a4a873a2e7f1fc3661, type: 2}
+  wallRight: {fileID: 11400000, guid: 015e9bcfa7238c44fb053f1834373b5c, type: 2}
+  wallCornerTL: {fileID: 11400000, guid: 5416ee1000c2bee4286f8cd04f1ed39a, type: 2}
+  wallCornerTR: {fileID: 11400000, guid: 1a170eb883b3d7343a9543ad0e0dd509, type: 2}
+  wallCornerBL: {fileID: 11400000, guid: ae142d9470ce63c4b836ff0f40d4f333, type: 2}
+  wallCornerBR: {fileID: 11400000, guid: 7fa660a9c0188e0469e6f255d956a0b0, type: 2}
+  wallSolid: {fileID: 11400000, guid: 703035420dc904f4fb802a9fe89be714, type: 2}
+  decorationTiles:
+  - {fileID: 11400000, guid: d9383d13cab40f14cb67c527dee7c664, type: 2}
+  - {fileID: 11400000, guid: 33e712cf9133ddf439899ec362a03504, type: 2}
+  - {fileID: 11400000, guid: 9928dd822ae167a46a61facfc0fe1436, type: 2}
+  - {fileID: 11400000, guid: 3743675830d4f8d4e980f9cfd9247139, type: 2}
+  - {fileID: 11400000, guid: bcd4c65c15797f74faab471aa638dce8, type: 2}
+  - {fileID: 11400000, guid: 7046c11e56e8eea41999e3c62434173c, type: 2}
+  - {fileID: 11400000, guid: 1cf6c292b794c5a46a278c0e64f30cc9, type: 2}
+  - {fileID: 11400000, guid: 869d5737c1d19c34f812058962fdea1e, type: 2}
+  - {fileID: 11400000, guid: 27ea5e091afe71d49bd0d970736eef23, type: 2}
+  decorationDensity: 0.06

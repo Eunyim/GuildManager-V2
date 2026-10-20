@@ -1,0 +1,1872 @@
+fileFormatVersion: 2
+guid: 7c94bc3fd0572ee4aba8e3ed463f8b33
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4263848811941114141
+    second: mimic_0
+  - first:
+      213: 6771271397260755441
+    second: mimic_1
+  - first:
+      213: 8539229453529434757
+    second: mimic_2
+  - first:
+      213: 1080866560844243472
+    second: mimic_3
+  - first:
+      213: 8584865448349544081
+    second: mimic_4
+  - first:
+      213: 6096617536957409099
+    second: mimic_5
+  - first:
+      213: 2399647434292920114
+    second: mimic_6
+  - first:
+      213: -6699953413101157782
+    second: mimic_7
+  - first:
+      213: 3308944682164970740
+    second: mimic_8
+  - first:
+      213: -3511090576761945930
+    second: mimic_9
+  - first:
+      213: -6171305588597673274
+    second: mimic_10
+  - first:
+      213: 3408630097893266989
+    second: mimic_11
+  - first:
+      213: -6481400111016111408
+    second: mimic_12
+  - first:
+      213: -9103710946696113256
+    second: mimic_13
+  - first:
+      213: -7229664605890388667
+    second: mimic_14
+  - first:
+      213: -6550353819299790252
+    second: mimic_15
+  - first:
+      213: -4107158865393562274
+    second: mimic_16
+  - first:
+      213: -6869530219260250436
+    second: mimic_17
+  - first:
+      213: 4150775420049296694
+    second: mimic_18
+  - first:
+      213: -7246026101303045089
+    second: mimic_19
+  - first:
+      213: -3423756896161935864
+    second: mimic_20
+  - first:
+      213: -6749082581883083129
+    second: mimic_21
+  - first:
+      213: -2783877863231890435
+    second: mimic_22
+  - first:
+      213: 5377727480272446947
+    second: mimic_23
+  - first:
+      213: -5260348543450535591
+    second: mimic_24
+  - first:
+      213: 1469251990911702478
+    second: mimic_25
+  - first:
+      213: 4374088748919028498
+    second: mimic_26
+  - first:
+      213: 7612731678222690785
+    second: mimic_27
+  - first:
+      213: -3993870868720669443
+    second: mimic_28
+  - first:
+      213: 4832920005103453061
+    second: mimic_29
+  - first:
+      213: -3811947543763456001
+    second: mimic_30
+  - first:
+      213: 7975853829116364160
+    second: mimic_31
+  - first:
+      213: 2518627149200257370
+    second: mimic_32
+  - first:
+      213: 751637514716366081
+    second: mimic_33
+  - first:
+      213: -1800227713334549999
+    second: mimic_34
+  - first:
+      213: 3102652400941212394
+    second: mimic_35
+  - first:
+      213: 3685897644504587897
+    second: mimic_36
+  - first:
+      213: 2582309868016967133
+    second: mimic_37
+  - first:
+      213: 7473384471969246911
+    second: mimic_38
+  - first:
+      213: 4134613340156671212
+    second: mimic_39
+  - first:
+      213: 6828116725174652616
+    second: mimic_40
+  - first:
+      213: -383951053421383745
+    second: mimic_41
+  - first:
+      213: 4584869852277696965
+    second: mimic_42
+  - first:
+      213: -1915877946785255965
+    second: mimic_43
+  - first:
+      213: 7955282094210639459
+    second: mimic_44
+  - first:
+      213: 688584866637376304
+    second: mimic_45
+  - first:
+      213: -1512322546592994526
+    second: mimic_46
+  - first:
+      213: 8954200499003626839
+    second: mimic_47
+  - first:
+      213: -5374610785319200379
+    second: mimic_48
+  - first:
+      213: -3146673884424338661
+    second: mimic_49
+  - first:
+      213: -8280326069059561612
+    second: mimic_50
+  - first:
+      213: 779708287535283694
+    second: mimic_51
+  - first:
+      213: 1369212386377119821
+    second: mimic_52
+  - first:
+      213: -7690321037993884843
+    second: mimic_53
+  - first:
+      213: 2347503471260540185
+    second: mimic_54
+  - first:
+      213: -7809685712329081988
+    second: mimic_55
+  - first:
+      213: -4731414322774701792
+    second: mimic_56
+  - first:
+      213: -5529005042184745953
+    second: mimic_57
+  - first:
+      213: -6571402165418620377
+    second: mimic_58
+  - first:
+      213: 779283488876665883
+    second: mimic_59
+  - first:
+      213: 6670134365058604577
+    second: mimic_60
+  - first:
+      213: -8701493782496379447
+    second: mimic_61
+  - first:
+      213: 5671893188395721721
+    second: mimic_62
+  - first:
+      213: -5347328798883622310
+    second: mimic_63
+  - first:
+      213: 5449095264230191762
+    second: mimic_64
+  - first:
+      213: -6734218453615172906
+    second: mimic_65
+  - first:
+      213: -21135664623388746
+    second: mimic_66
+  - first:
+      213: -8399569185033739732
+    second: mimic_67
+  - first:
+      213: -8755733346361979502
+    second: mimic_68
+  - first:
+      213: 6828254370586521626
+    second: mimic_69
+  - first:
+      213: 6193070840990848124
+    second: mimic_70
+  - first:
+      213: -8697009415944663263
+    second: mimic_71
+  - first:
+      213: 3779404886185627066
+    second: mimic_72
+  - first:
+      213: -8713015558960355810
+    second: mimic_73
+  - first:
+      213: -650043726756950816
+    second: mimic_74
+  - first:
+      213: -4718198909499280493
+    second: mimic_75
+  - first:
+      213: -7903700532029899287
+    second: mimic_76
+  - first:
+      213: -1599972539543420300
+    second: mimic_77
+  - first:
+      213: -4100312373416626855
+    second: mimic_78
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mimic_idle_side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 594
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9461cb7be3f3c71459aadf39cc4cfeb5
+      internalID: 74963230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_idle_side_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 594
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53819dd2cc443e4409a39dc9b639ed8d
+      internalID: -1909212962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_idle_side_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 594
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47067c17218d7d4c86f09c4db5386ae
+      internalID: 126317812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_idle_side_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 594
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb159c4872da3e840944553a711eb447
+      internalID: 618817316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_idle_front_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27571878b417aa64d90230dd56b2237e
+      internalID: 580475957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_idle_front_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 540
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8028528562aa1d74d90979f316c9ce27
+      internalID: 362988942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_idle_front_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 540
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffae41073b7032241a21dbdd22b15d19
+      internalID: -1978679217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_idle_front_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 540
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d27cef5d81f71428765d9b3e83a234
+      internalID: -1238420834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_idle_back_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 486
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbab87f8664eb648b96004dc002d44d
+      internalID: -1836614064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_idle_back_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 486
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714d18a251e12f7419dc2d242b23e5d8
+      internalID: 684855801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_idle_back_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 486
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c9f217e7c4341438d71aff9e22802e
+      internalID: -1571249317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_idle_back_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 486
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a86d46d39b6ab4e80da31cf096e7d8
+      internalID: -1578606646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_walk_side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ca2d597ab6dbe478924b4f14382c7b
+      internalID: -1645950739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_walk_side_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 432
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8148128d1429b1f4f874709f853664e5
+      internalID: -1451636358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_walk_side_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 432
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82fb4d3e92598643b807ec573ca7c1b
+      internalID: -1943709278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_walk_side_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 432
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f7d43ac94151d46948974c65e2739d
+      internalID: 995247383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_walk_side_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 432
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf55c96fffcc1fa42903a18816613913
+      internalID: -1815821792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_walk_side_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 432
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24aef63bbdc7cbc40b8978de0bd7a427
+      internalID: 2054026409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_walk_front_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1e28037a19467419c3fdb2e202be53
+      internalID: 1836506115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_walk_front_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 378
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbbd7a3b13bfce4ebd97574bcc03956
+      internalID: -509881828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_walk_front_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 378
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8ee1f78f0420848ad54512af6b0629
+      internalID: -523466445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_walk_front_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 378
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce7a6832949c0447b0b929a96596e23
+      internalID: 1483267125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_walk_front_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 378
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1998833397ff58646b9153dcdf898b50
+      internalID: 960093063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_walk_front_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 378
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353c52e1347abc14aabc054b1329f9b4
+      internalID: -435687865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_walk_back_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 324
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1640046efd5604e47a50e7ac3bf48a22
+      internalID: 2147064314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_walk_back_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 324
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91419b68495e16f4e9c4ac4e3aca23c5
+      internalID: 175557636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_walk_back_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 324
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45249f903ceefb49a03cdc75d773943
+      internalID: -1384110265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_walk_back_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 324
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1281ea861433f354ab37666bdf771d42
+      internalID: 1280760051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_walk_back_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 324
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959439d31db5a3942a2ae4f7044d41ba
+      internalID: -410333074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_walk_back_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 324
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f52193e981a504fbc8de8e8b65e2f9
+      internalID: -717247277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_attack_side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13438f5b49d93ca4d93acacaadc651ec
+      internalID: -578281870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_attack_side_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 270
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74dc8f11a417065468550cb391d5a32b
+      internalID: -880864570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_attack_side_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 270
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93618a50817f07940a6a769f5c57a21d
+      internalID: -2121173408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_attack_side_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 270
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e088600e7b15074abe1a7851cefc47a
+      internalID: -1109560371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_attack_side_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 270
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4711f42b71ee34fab25d8a23f5cfef
+      internalID: -761099144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_attack_side_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 270
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274edd7aa640090429bda5eb4edb9269
+      internalID: -1587566866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_attack_front_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88dde00dec3a19f49ac4fdaa2b6c3488
+      internalID: -1002118487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_attack_front_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 216
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78139f10901ecd4bbde7d9a991a1237
+      internalID: 1401865953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_attack_front_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 216
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87219d3ce1a774847ab3fba2c467e775
+      internalID: -1578878183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_attack_front_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 216
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d47e49586a66964bbb2ea96200ce86d
+      internalID: 1316639598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_attack_front_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 216
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0bef90ec2094542af992e2a1ad921e
+      internalID: -803396284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_attack_front_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 216
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d8f8372903f454badf66c7fc9ce693
+      internalID: 1834448864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_attack_back_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 162
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756aa1191dcfada4cb0cd46c869fe42c
+      internalID: -133104482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_attack_back_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 162
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6a5aff150b6f64bae5cdd0369daefc
+      internalID: -2091029580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_attack_back_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 162
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06fb994f53092c4dae6088e04922428
+      internalID: -1172918204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_attack_back_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 162
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7d6e0530cb5e9439650d54aa2cabd4
+      internalID: 1544344266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_attack_back_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 162
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418d3cefbee473e46a64d97ed7c321e9
+      internalID: -1776338756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_attack_back_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 162
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d32c4cfcec48e4aa545f9b341c9686
+      internalID: 1193001941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_death_side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af865889941e5734cb31a7d8084fc994
+      internalID: -898294873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_death_side_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 108
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16dc1c96e0c77c14f9a7e00f70fa5ff5
+      internalID: 738768959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_death_side_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 108
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32c0a25c483c7242b9575031178af63
+      internalID: -657895402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_death_side_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 108
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bad2afdf7c79f54d825d6bca2b3588b
+      internalID: 1227722559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_death_side_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 108
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5d4ca952019ff4b81bbfcee3f55f89
+      internalID: 1725645854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_death_side_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 108
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6cb4ace9ee80da40add0bfb4855f7ec
+      internalID: 231657796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_death_front_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec226f4931c73cc4980e352a3d07a473
+      internalID: -1066555429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_death_front_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 54
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8815aa5d9f80e6a4391773b2d0b4f523
+      internalID: -1452877701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_death_front_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 54
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef83517beb9dfa845a08729e1ddb353b
+      internalID: 568429416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_death_front_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 54
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61828c340ce3a249a685983e05c2222
+      internalID: -1310854285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_death_front_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 54
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f3afac44b81494a80b0dcbef3b240d
+      internalID: 1757771722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_death_front_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 54
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8014a4bca65854448739a4823d4c7bb
+      internalID: 1445657964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_death_back_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f44ecfb5fd43f44eb86a896de3e7132
+      internalID: 510374643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_death_back_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc6bc380be246a43a96e9b03433f11c
+      internalID: 752784672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_death_back_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7eaf8335e308143b5a5982291fe62a
+      internalID: 748377719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_death_back_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8cbd6f43b201d4fba0c125bc33cfa7
+      internalID: -355383470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_death_back_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3004bb18d264ae48b1114b511e7e6be
+      internalID: -622149126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_death_back_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9377ae2e6c68b1c42a801dd28fd64d7c
+      internalID: 678608985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 883f14478b2b8044aa070ca9996ce844
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mimic_attack_back_0: -133104482
+      mimic_attack_back_1: -2091029580
+      mimic_attack_back_2: -1172918204
+      mimic_attack_back_3: 1544344266
+      mimic_attack_back_4: -1776338756
+      mimic_attack_back_5: 1193001941
+      mimic_attack_front_0: -1002118487
+      mimic_attack_front_1: 1401865953
+      mimic_attack_front_2: -1578878183
+      mimic_attack_front_3: 1316639598
+      mimic_attack_front_4: -803396284
+      mimic_attack_front_5: 1834448864
+      mimic_attack_side_0: -578281870
+      mimic_attack_side_1: -880864570
+      mimic_attack_side_2: -2121173408
+      mimic_attack_side_3: -1109560371
+      mimic_attack_side_4: -761099144
+      mimic_attack_side_5: -1587566866
+      mimic_death_back_0: 510374643
+      mimic_death_back_1: 752784672
+      mimic_death_back_2: 748377719
+      mimic_death_back_3: -355383470
+      mimic_death_back_4: -622149126
+      mimic_death_back_5: 678608985
+      mimic_death_front_0: -1066555429
+      mimic_death_front_1: -1452877701
+      mimic_death_front_2: 568429416
+      mimic_death_front_3: -1310854285
+      mimic_death_front_4: 1757771722
+      mimic_death_front_5: 1445657964
+      mimic_death_side_0: -898294873
+      mimic_death_side_1: 738768959
+      mimic_death_side_2: -657895402
+      mimic_death_side_3: 1227722559
+      mimic_death_side_4: 1725645854
+      mimic_death_side_5: 231657796
+      mimic_idle_back_0: -1836614064
+      mimic_idle_back_1: 684855801
+      mimic_idle_back_2: -1571249317
+      mimic_idle_back_3: -1578606646
+      mimic_idle_front_0: 580475957
+      mimic_idle_front_1: 362988942
+      mimic_idle_front_2: -1978679217
+      mimic_idle_front_3: -1238420834
+      mimic_idle_side_0: 74963230
+      mimic_idle_side_1: -1909212962
+      mimic_idle_side_2: 126317812
+      mimic_idle_side_3: 618817316
+      mimic_walk_back_0: 2147064314
+      mimic_walk_back_1: 175557636
+      mimic_walk_back_2: -1384110265
+      mimic_walk_back_3: 1280760051
+      mimic_walk_back_4: -410333074
+      mimic_walk_back_5: -717247277
+      mimic_walk_front_0: 1836506115
+      mimic_walk_front_1: -509881828
+      mimic_walk_front_2: -523466445
+      mimic_walk_front_3: 1483267125
+      mimic_walk_front_4: 960093063
+      mimic_walk_front_5: -435687865
+      mimic_walk_side_0: -1645950739
+      mimic_walk_side_1: -1451636358
+      mimic_walk_side_2: -1943709278
+      mimic_walk_side_3: 995247383
+      mimic_walk_side_4: -1815821792
+      mimic_walk_side_5: 2054026409
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

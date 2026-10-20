@@ -1,0 +1,1839 @@
+fileFormatVersion: 2
+guid: 45bc1978caa755443bbfc6d07d293cc3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -536837932819337128
+    second: orc_centurion_0
+  - first:
+      213: 6616038623578601236
+    second: orc_centurion_1
+  - first:
+      213: -2915479018991037490
+    second: orc_centurion_2
+  - first:
+      213: -7770984034943546810
+    second: orc_centurion_3
+  - first:
+      213: 4921041103836893968
+    second: orc_centurion_4
+  - first:
+      213: -6351103874878910894
+    second: orc_centurion_5
+  - first:
+      213: 1090134189374450724
+    second: orc_centurion_6
+  - first:
+      213: -9197118214125230026
+    second: orc_centurion_7
+  - first:
+      213: -7590674094997697573
+    second: orc_centurion_8
+  - first:
+      213: -1393023273327098169
+    second: orc_centurion_9
+  - first:
+      213: -8545285200663020251
+    second: orc_centurion_10
+  - first:
+      213: 243821664215081852
+    second: orc_centurion_11
+  - first:
+      213: 3198123040676561068
+    second: orc_centurion_12
+  - first:
+      213: -6639189028217455575
+    second: orc_centurion_13
+  - first:
+      213: -1990511492627553954
+    second: orc_centurion_14
+  - first:
+      213: 5802466480249824232
+    second: orc_centurion_15
+  - first:
+      213: -1391911719590595124
+    second: orc_centurion_16
+  - first:
+      213: 916062716426529603
+    second: orc_centurion_17
+  - first:
+      213: 2974861282041606625
+    second: orc_centurion_18
+  - first:
+      213: -7123907818008694336
+    second: orc_centurion_19
+  - first:
+      213: -7005081458225349271
+    second: orc_centurion_20
+  - first:
+      213: -1059829091541999453
+    second: orc_centurion_21
+  - first:
+      213: 5469008104087736032
+    second: orc_centurion_22
+  - first:
+      213: -2619245667740245764
+    second: orc_centurion_23
+  - first:
+      213: 1193323461671412793
+    second: orc_centurion_24
+  - first:
+      213: 8352201285003983388
+    second: orc_centurion_25
+  - first:
+      213: 2319865231589118277
+    second: orc_centurion_26
+  - first:
+      213: 6904121144619748099
+    second: orc_centurion_27
+  - first:
+      213: 6316485539849542282
+    second: orc_centurion_28
+  - first:
+      213: -110873287910301259
+    second: orc_centurion_29
+  - first:
+      213: -6504790092525445571
+    second: orc_centurion_30
+  - first:
+      213: 8488567111369099045
+    second: orc_centurion_31
+  - first:
+      213: -432548291263037145
+    second: orc_centurion_32
+  - first:
+      213: -6510779717430178190
+    second: orc_centurion_33
+  - first:
+      213: -8002835532950264342
+    second: orc_centurion_34
+  - first:
+      213: 3621382309902631239
+    second: orc_centurion_35
+  - first:
+      213: -5539236063902741168
+    second: orc_centurion_36
+  - first:
+      213: -3440389180203357676
+    second: orc_centurion_37
+  - first:
+      213: -8459169996110746655
+    second: orc_centurion_38
+  - first:
+      213: -7449492023058661397
+    second: orc_centurion_39
+  - first:
+      213: -8392400850611560214
+    second: orc_centurion_40
+  - first:
+      213: 8771344959281589922
+    second: orc_centurion_41
+  - first:
+      213: 5521523228356750025
+    second: orc_centurion_42
+  - first:
+      213: 4710053712726699390
+    second: orc_centurion_43
+  - first:
+      213: 4663479118776670279
+    second: orc_centurion_44
+  - first:
+      213: -453646247793042276
+    second: orc_centurion_45
+  - first:
+      213: 4332277730152306046
+    second: orc_centurion_46
+  - first:
+      213: 54231104035263093
+    second: orc_centurion_47
+  - first:
+      213: -1027264161608662810
+    second: orc_centurion_48
+  - first:
+      213: -5997284404440011272
+    second: orc_centurion_49
+  - first:
+      213: 7384078516912396984
+    second: orc_centurion_50
+  - first:
+      213: 3278327566753055650
+    second: orc_centurion_51
+  - first:
+      213: -3697341263250444157
+    second: orc_centurion_52
+  - first:
+      213: 4245603361753369185
+    second: orc_centurion_53
+  - first:
+      213: -2839293541604625372
+    second: orc_centurion_54
+  - first:
+      213: 9150745748056059481
+    second: orc_centurion_55
+  - first:
+      213: 4685007464566043946
+    second: orc_centurion_56
+  - first:
+      213: 6755645853413143223
+    second: orc_centurion_57
+  - first:
+      213: 5546969892825730249
+    second: orc_centurion_58
+  - first:
+      213: -2678807711632703254
+    second: orc_centurion_59
+  - first:
+      213: 7255191551449878159
+    second: orc_centurion_60
+  - first:
+      213: -139862418876837858
+    second: orc_centurion_61
+  - first:
+      213: -1881977521025838887
+    second: orc_centurion_62
+  - first:
+      213: -2532080480340526767
+    second: orc_centurion_63
+  - first:
+      213: 9086250675353911799
+    second: orc_centurion_64
+  - first:
+      213: 7545572613086144641
+    second: orc_centurion_65
+  - first:
+      213: -2857559422585309885
+    second: orc_centurion_66
+  - first:
+      213: -1232450982790660782
+    second: orc_centurion_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 38.4
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: orc_centurion_idle_side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 924
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239f629eee50eab44b6ac851a9847c88
+      internalID: 785985722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_idle_side_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 924
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ea33b10f7ecd243aae81d1742d1e62
+      internalID: -137228376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_idle_side_2
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 924
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3bf111e7bbae074ea0dbfbf96fc09ff
+      internalID: -14638917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_idle_side_3
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 924
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d170ad66c018894da9fa52344d78929
+      internalID: 1829094997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_idle_front_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 840
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b105715410cb9ca4c90031773e105956
+      internalID: -520513807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_idle_front_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 840
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efeffd8f4f2c6114cb938b800e82a3e6
+      internalID: -1290365250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_idle_front_2
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 840
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982b79293a04cb34da2f1c9a2f9998b9
+      internalID: -1499406171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_idle_front_3
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 840
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d52a52118dd5240a550486b8137eff
+      internalID: -1097032901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_idle_back_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 756
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dee7196df347c344b31c00b0c0dbf83
+      internalID: -342955586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_idle_back_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 756
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d33b35968327a24f9e9cd0b1820cb01
+      internalID: -776854369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_idle_back_2
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 756
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850e6ffa71adfb5448c1ab62e5c2f46c
+      internalID: 824117413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_idle_back_3
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 756
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12480320bbb3bcb4e99e64a3e45238cb
+      internalID: -2038399922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_walk_side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb95bce55b349648ab1b6a8c79d9993
+      internalID: 772438365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_walk_side_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 672
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ecdf6aa9bcae1641a2d20cf2e521ce9
+      internalID: 592093991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_walk_side_2
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 672
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc6317cc2f316541ad60fb0afaed811
+      internalID: 1357382909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_walk_side_3
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 672
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121ad514c6f1705458216c3a836c116d
+      internalID: 1299330704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_walk_side_4
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 672
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcddfbd6b2d8eb74e801606bec68898b
+      internalID: 985548682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_walk_side_5
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 672
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbd08ff80c02004d821c7cab344e1c4
+      internalID: -211161458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_walk_front_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 588
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e852ba4f226b42f498e4d6963a0d5221
+      internalID: 1946216970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_walk_front_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 588
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963c2aad88558844982c7d06ef08c3a4
+      internalID: -1215990258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_walk_front_2
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 588
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0cf2ba29e8f3e47bc57b0b45173624
+      internalID: -1785802932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_walk_front_3
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 588
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef582ea054ad804fa5029d5a0c874be
+      internalID: -212222401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_walk_front_4
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 588
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b886fae4a0b86c04a9e50d7a354c259b
+      internalID: -52548660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_walk_front_5
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 588
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39260b064b411504294f8ddb5af46d6a
+      internalID: 1407136468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_walk_back_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ad57d301555084ea350bbda7d7c852
+      internalID: -996522645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_walk_back_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 504
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc93845f91570547b0f1efeaeea2be3
+      internalID: -1736503899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_walk_back_2
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 504
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdfd60a0caa76a47a055cb58c5d31f3
+      internalID: -1620719276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_walk_back_3
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 504
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b27cd024438ec4eaa6753d44aa0812
+      internalID: 210652096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_walk_back_4
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 504
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091857613df11bc4cb6e0620b5d9394c
+      internalID: -211486460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_walk_back_5
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 504
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e95f42b1baf0348b18aa87b912c32f
+      internalID: -2066979493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_attack_side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3f965475c974644aa038e9d121cd17
+      internalID: -1666736091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_attack_side_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 420
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5cb6b6c6d7d35542857d37a938104ba
+      internalID: 935644948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_attack_side_2
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 420
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db09e637a388a674b9db6f56bc1fe285
+      internalID: -213504281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_attack_side_3
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 420
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f04736610c5f2548914ac4e56fb8de2
+      internalID: 899527132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_attack_side_4
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 420
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e629134074c245499aee5b64e24d510
+      internalID: 367704489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_attack_side_5
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 420
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d907c82bbce671043a89ea98899193d7
+      internalID: -929317235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_attack_front_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a1c2b0c56c5e24eb1bceb0ac4539ef
+      internalID: 774183259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_attack_front_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 336
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9edfcda4e560b4689c189bd7e64197
+      internalID: 1454664506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_attack_front_2
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 336
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e553c9fdd9e36479b80c412fb47e86
+      internalID: -898715674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_attack_front_3
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 336
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1447daf8788f755409786b239dec4be0
+      internalID: -275747085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_attack_front_4
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 336
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1cca85b929a8a4caee8ad6f2de2121
+      internalID: 455908811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_attack_front_5
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 336
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0920a77a4b1c75e46834e5f9dd869f3e
+      internalID: 1805657399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_attack_back_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751c785cb1d98504ba53e8e2cc46c6ab
+      internalID: -588896365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_attack_back_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 252
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03c3e7dc306125469227a2f6f4afa71
+      internalID: 479792635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_attack_back_2
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 252
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e64014ecfd3fc140a75363428ab93b4
+      internalID: -1995186415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_attack_back_3
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 252
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf966f6cc8a7ae4d899f696977e2b1a
+      internalID: -1524809070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_attack_back_4
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 252
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c59b16c8ce5d9748bcbf0898130356b
+      internalID: 1932426278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_attack_back_5
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 252
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483039b89a2f66a439b121e7e0507325
+      internalID: -366322836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_death_side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f45d71c93f172844853f64271de873e
+      internalID: -338213409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_death_side_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 168
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049424d8983c1a347b0cf8aa66476030
+      internalID: -455223940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_death_side_2
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 168
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5031b4cc18f8eb84c84fb1799dc87ec7
+      internalID: -668038011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_death_side_3
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 168
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6127adef28ac94f9b034d4a7430676
+      internalID: 713465729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_death_side_4
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 168
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac98d2803bcad9e449b6346058f2ee63
+      internalID: 1439169552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_death_side_5
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 168
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72bcb1702ce403246b3d42005f68ca26
+      internalID: -613262782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_death_front_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b3ca8ea7f26564a8920b9875de6050
+      internalID: -116160213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_death_front_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 84
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189c6669ae9ab8a419b5531d9bea3215
+      internalID: -696391141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_death_front_2
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 84
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b44ebd00472e3469f96a84c8b2a4c0
+      internalID: -1103547721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_death_front_3
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 84
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fa01ef9804f394fa69ed2056f61eb8
+      internalID: -1603899337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_death_front_4
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 84
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32893cf4a01c2034092a73f7855d45d7
+      internalID: 1196216189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_death_front_5
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 84
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68da09520551bc04b8057ac94c007e92
+      internalID: 1570426989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_death_back_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9720ef6b84be84eaf1791d5ea3a786
+      internalID: 775404182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_death_back_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 0
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafc283feebaa9941a5762429f746c22
+      internalID: 1729502300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_death_back_2
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 0
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8225793262e06814dae408cc86f381a1
+      internalID: 2046245719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_death_back_3
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 0
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6284691a3edac944ca670d8131188361
+      internalID: -545244590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_death_back_4
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 0
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04f68c27ef2dec498ee22c9fc72f14c
+      internalID: -742905854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc_centurion_death_back_5
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 0
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66904765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298e8e55557bfaf4fa9d950dff88e3ff
+      internalID: 1177475731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8b3322fe4d2c4d045adba4650fbfdcd5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      orc_centurion_attack_back_0: -588896365
+      orc_centurion_attack_back_1: 479792635
+      orc_centurion_attack_back_2: -1995186415
+      orc_centurion_attack_back_3: -1524809070
+      orc_centurion_attack_back_4: 1932426278
+      orc_centurion_attack_back_5: -366322836
+      orc_centurion_attack_front_0: 774183259
+      orc_centurion_attack_front_1: 1454664506
+      orc_centurion_attack_front_2: -898715674
+      orc_centurion_attack_front_3: -275747085
+      orc_centurion_attack_front_4: 455908811
+      orc_centurion_attack_front_5: 1805657399
+      orc_centurion_attack_side_0: -1666736091
+      orc_centurion_attack_side_1: 935644948
+      orc_centurion_attack_side_2: -213504281
+      orc_centurion_attack_side_3: 899527132
+      orc_centurion_attack_side_4: 367704489
+      orc_centurion_attack_side_5: -929317235
+      orc_centurion_death_back_0: 775404182
+      orc_centurion_death_back_1: 1729502300
+      orc_centurion_death_back_2: 2046245719
+      orc_centurion_death_back_3: -545244590
+      orc_centurion_death_back_4: -742905854
+      orc_centurion_death_back_5: 1177475731
+      orc_centurion_death_front_0: -116160213
+      orc_centurion_death_front_1: -696391141
+      orc_centurion_death_front_2: -1103547721
+      orc_centurion_death_front_3: -1603899337
+      orc_centurion_death_front_4: 1196216189
+      orc_centurion_death_front_5: 1570426989
+      orc_centurion_death_side_0: -338213409
+      orc_centurion_death_side_1: -455223940
+      orc_centurion_death_side_2: -668038011
+      orc_centurion_death_side_3: 713465729
+      orc_centurion_death_side_4: 1439169552
+      orc_centurion_death_side_5: -613262782
+      orc_centurion_idle_back_0: -342955586
+      orc_centurion_idle_back_1: -776854369
+      orc_centurion_idle_back_2: 824117413
+      orc_centurion_idle_back_3: -2038399922
+      orc_centurion_idle_front_0: -520513807
+      orc_centurion_idle_front_1: -1290365250
+      orc_centurion_idle_front_2: -1499406171
+      orc_centurion_idle_front_3: -1097032901
+      orc_centurion_idle_side_0: 785985722
+      orc_centurion_idle_side_1: -137228376
+      orc_centurion_idle_side_2: -14638917
+      orc_centurion_idle_side_3: 1829094997
+      orc_centurion_walk_back_0: -996522645
+      orc_centurion_walk_back_1: -1736503899
+      orc_centurion_walk_back_2: -1620719276
+      orc_centurion_walk_back_3: 210652096
+      orc_centurion_walk_back_4: -211486460
+      orc_centurion_walk_back_5: -2066979493
+      orc_centurion_walk_front_0: 1946216970
+      orc_centurion_walk_front_1: -1215990258
+      orc_centurion_walk_front_2: -1785802932
+      orc_centurion_walk_front_3: -212222401
+      orc_centurion_walk_front_4: -52548660
+      orc_centurion_walk_front_5: 1407136468
+      orc_centurion_walk_side_0: 772438365
+      orc_centurion_walk_side_1: 592093991
+      orc_centurion_walk_side_2: 1357382909
+      orc_centurion_walk_side_3: 1299330704
+      orc_centurion_walk_side_4: 985548682
+      orc_centurion_walk_side_5: -211161458
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

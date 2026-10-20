@@ -1,0 +1,96 @@
+{
+ "key": "mimic",
+ "prefab": "Enemy_Mimic",
+ "cellW": 56,
+ "cellH": 54,
+ "pivotX": 28,
+ "pivotY": 51,
+ "pxPerUnit": 48,
+ "bodyPx": 34,
+ "rows": [
+  {
+   "anim": "idle",
+   "dir": "side",
+   "count": 4,
+   "fps": 6.0,
+   "loop": true
+  },
+  {
+   "anim": "idle",
+   "dir": "front",
+   "count": 4,
+   "fps": 6.0,
+   "loop": true
+  },
+  {
+   "anim": "idle",
+   "dir": "back",
+   "count": 4,
+   "fps": 6.0,
+   "loop": true
+  },
+  {
+   "anim": "walk",
+   "dir": "side",
+   "count": 6,
+   "fps": 10.0,
+   "loop": true
+  },
+  {
+   "anim": "walk",
+   "dir": "front",
+   "count": 6,
+   "fps": 10.0,
+   "loop": true
+  },
+  {
+   "anim": "walk",
+   "dir": "back",
+   "count": 6,
+   "fps": 10.0,
+   "loop": true
+  },
+  {
+   "anim": "attack",
+   "dir": "side",
+   "count": 6,
+   "fps": 12.0,
+   "loop": false
+  },
+  {
+   "anim": "attack",
+   "dir": "front",
+   "count": 6,
+   "fps": 12.0,
+   "loop": false
+  },
+  {
+   "anim": "attack",
+   "dir": "back",
+   "count": 6,
+   "fps": 12.0,
+   "loop": false
+  },
+  {
+   "anim": "death",
+   "dir": "side",
+   "count": 6,
+   "fps": 9.0,
+   "loop": false
+  },
+  {
+   "anim": "death",
+   "dir": "front",
+   "count": 6,
+   "fps": 9.0,
+   "loop": false
+  },
+  {
+   "anim": "death",
+   "dir": "back",
+   "count": 6,
+   "fps": 9.0,
+   "loop": false
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "key": "orc_centurion",
+ "prefab": "Enemy_OrcCenturion",
+ "cellW": 106,
+ "cellH": 84,
+ "pivotX": 53,
+ "pivotY": 71,
+ "pxPerUnit": 48,
+ "bodyPx": 63,
+ "rows": [
+  {
+   "anim": "idle",
+   "dir": "side",
+   "count": 4,
+   "fps": 6.0,
+   "loop": true
+  },
+  {
+   "anim": "idle",
+   "dir": "front",
+   "count": 4,
+   "fps": 6.0,
+   "loop": true
+  },
+  {
+   "anim": "idle",
+   "dir": "back",
+   "count": 4,
+   "fps": 6.0,
+   "loop": true
+  },
+  {
+   "anim": "walk",
+   "dir": "side",
+   "count": 6,
+   "fps": 10.0,
+   "loop": true
+  },
+  {
+   "anim": "walk",
+   "dir": "front",
+   "count": 6,
+   "fps": 10.0,
+   "loop": true
+  },
+  {
+   "anim": "walk",
+   "dir": "back",
+   "count": 6,
+   "fps": 10.0,
+   "loop": true
+  },
+  {
+   "anim": "attack",
+   "dir": "side",
+   "count": 6,
+   "fps": 12.0,
+   "loop": false
+  },
+  {
+   "anim": "attack",
+   "dir": "front",
+   "count": 6,
+   "fps": 12.0,
+   "loop": false
+  },
+  {
+   "anim": "attack",
+   "dir": "back",
+   "count": 6,
+   "fps": 12.0,
+   "loop": false
+  },
+  {
+   "anim": "death",
+   "dir": "side",
+   "count": 6,
+   "fps": 9.0,
+   "loop": false
+  },
+  {
+   "anim": "death",
+   "dir": "front",
+   "count": 6,
+   "fps": 9.0,
+   "loop": false
+  },
+  {
+   "anim": "death",
+   "dir": "back",
+   "count": 6,
+   "fps": 9.0,
+   "loop": false
+  }
+ ]
+}

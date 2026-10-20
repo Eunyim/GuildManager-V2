@@ -1,0 +1,1833 @@
+fileFormatVersion: 2
+guid: 4cf88176ec94ec84aad81b57dfced5b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -529577269775393747
+    second: baby_dragon_0
+  - first:
+      213: -8141792767616961921
+    second: baby_dragon_1
+  - first:
+      213: 3911630959473047034
+    second: baby_dragon_2
+  - first:
+      213: -9144577934384458721
+    second: baby_dragon_3
+  - first:
+      213: 669260094299499823
+    second: baby_dragon_4
+  - first:
+      213: 2570860870367263056
+    second: baby_dragon_5
+  - first:
+      213: -4623097777676011142
+    second: baby_dragon_6
+  - first:
+      213: 2334445969148917168
+    second: baby_dragon_7
+  - first:
+      213: 2829774589946902014
+    second: baby_dragon_8
+  - first:
+      213: -7260760839708093116
+    second: baby_dragon_9
+  - first:
+      213: 7467210855067666717
+    second: baby_dragon_10
+  - first:
+      213: -3559847506404899391
+    second: baby_dragon_11
+  - first:
+      213: -1338929058140835042
+    second: baby_dragon_12
+  - first:
+      213: 8707363610620105938
+    second: baby_dragon_13
+  - first:
+      213: 1818024589257409290
+    second: baby_dragon_14
+  - first:
+      213: 6627854019790141580
+    second: baby_dragon_15
+  - first:
+      213: 3569907372472797893
+    second: baby_dragon_16
+  - first:
+      213: -7252059322766503629
+    second: baby_dragon_17
+  - first:
+      213: -6086075290373051088
+    second: baby_dragon_18
+  - first:
+      213: 2810306532379636810
+    second: baby_dragon_19
+  - first:
+      213: 8647506099644009520
+    second: baby_dragon_20
+  - first:
+      213: 4102039343717800994
+    second: baby_dragon_21
+  - first:
+      213: 3147069411612586409
+    second: baby_dragon_22
+  - first:
+      213: -800664176819960184
+    second: baby_dragon_23
+  - first:
+      213: -6673388226260510064
+    second: baby_dragon_24
+  - first:
+      213: 8048904290380246429
+    second: baby_dragon_25
+  - first:
+      213: -1390469239070747419
+    second: baby_dragon_26
+  - first:
+      213: 895276128679472102
+    second: baby_dragon_27
+  - first:
+      213: 6133220458527655827
+    second: baby_dragon_28
+  - first:
+      213: -5190710901753529932
+    second: baby_dragon_29
+  - first:
+      213: -6834546381515554665
+    second: baby_dragon_30
+  - first:
+      213: 572957914200399121
+    second: baby_dragon_31
+  - first:
+      213: -3901433603242680415
+    second: baby_dragon_32
+  - first:
+      213: -5487703061177531980
+    second: baby_dragon_33
+  - first:
+      213: -5652086765099282179
+    second: baby_dragon_34
+  - first:
+      213: -7099573713425968108
+    second: baby_dragon_35
+  - first:
+      213: -8247155793337186153
+    second: baby_dragon_36
+  - first:
+      213: -722838136636408148
+    second: baby_dragon_37
+  - first:
+      213: 2729207883955266546
+    second: baby_dragon_38
+  - first:
+      213: -7450236803206621994
+    second: baby_dragon_39
+  - first:
+      213: -4738473002450147902
+    second: baby_dragon_40
+  - first:
+      213: 1931819647487422202
+    second: baby_dragon_41
+  - first:
+      213: -8586064354357160866
+    second: baby_dragon_42
+  - first:
+      213: -2090249172435366080
+    second: baby_dragon_43
+  - first:
+      213: -1132778778034785545
+    second: baby_dragon_44
+  - first:
+      213: 7995154797348712998
+    second: baby_dragon_45
+  - first:
+      213: -313940079525427483
+    second: baby_dragon_46
+  - first:
+      213: -8885229280851946673
+    second: baby_dragon_47
+  - first:
+      213: 8282126101784196466
+    second: baby_dragon_48
+  - first:
+      213: 3368009549742859902
+    second: baby_dragon_49
+  - first:
+      213: 4171343647226386902
+    second: baby_dragon_50
+  - first:
+      213: -5529267192938494745
+    second: baby_dragon_51
+  - first:
+      213: -6920371412923613731
+    second: baby_dragon_52
+  - first:
+      213: -4823722674017597116
+    second: baby_dragon_53
+  - first:
+      213: 8767188702730750464
+    second: baby_dragon_54
+  - first:
+      213: 5161710426266858160
+    second: baby_dragon_55
+  - first:
+      213: 1713922888869972032
+    second: baby_dragon_56
+  - first:
+      213: 1555215477803695332
+    second: baby_dragon_57
+  - first:
+      213: -2723382559744130798
+    second: baby_dragon_58
+  - first:
+      213: 5404378816451700735
+    second: baby_dragon_59
+  - first:
+      213: 1305018615610296654
+    second: baby_dragon_60
+  - first:
+      213: -1114773286189035265
+    second: baby_dragon_61
+  - first:
+      213: -2838481329403674453
+    second: baby_dragon_62
+  - first:
+      213: -1095732435900833834
+    second: baby_dragon_63
+  - first:
+      213: 1725756108928097694
+    second: baby_dragon_64
+  - first:
+      213: 7665837030920839888
+    second: baby_dragon_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 21.599998
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: baby_dragon_idle_side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 638
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f2f1a2df92b7f40909931037327ff0
+      internalID: -1894333605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_idle_side_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 638
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21a201c0fb8b2044a37e294f6916836
+      internalID: -1996137884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_idle_side_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 638
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5071b1a6560b90f4e951c507f8c5ef18
+      internalID: 1667645133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_idle_side_3
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 638
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af712ea27466b44784730ac400a8815
+      internalID: 1739958759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_idle_front_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 580
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112afb2eeb6effc4ea9311b7a7d75fd4
+      internalID: 1614659695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_idle_front_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 580
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e9efee1969b2245b37dc74340b35cb
+      internalID: -1185840758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_idle_front_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 580
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a32b64736e1e64fa672397c5888d4f
+      internalID: 1770493999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_idle_front_3
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 580
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcdf126908e8884a8a14db1bb81f5bf
+      internalID: 460266889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_idle_back_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 522
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf52141efb23224488961e78663f96d
+      internalID: -48354905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_idle_back_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 522
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de605707ccf95e498c53fd553f685c2
+      internalID: 586528199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_idle_back_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 522
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fafdb76550342e4582fe04543a96011
+      internalID: 1262962144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_idle_back_3
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 522
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa37576b74fd7646a33d04f32f4a9c8
+      internalID: 556507426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_walk_side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270102332994a9c4788054229a5df13b
+      internalID: 1012558298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_walk_side_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 464
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ef230b5ae5689418c13d5ba9aeb4ed
+      internalID: 996069501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_walk_side_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 464
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: becf97fb8b18d554fb2dac0ed2c6e1c9
+      internalID: -1062157079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_walk_side_3
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 464
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217556f8baa3dfd4eb50ba75601aa42b
+      internalID: -834829743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_walk_side_4
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 464
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445b366026fa5544fb5d3a5485a8a1cd
+      internalID: -1883845131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_walk_side_5
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 464
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81701bfe3b7ceb428d517e864a80fbc
+      internalID: -1377150667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_walk_front_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 406
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e03a9225e0bd1e4db1b7a54ba01d20f
+      internalID: 2075886183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_walk_front_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 406
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab5d6768a4763940868492f4cfb37a2
+      internalID: 773696880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_walk_front_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 406
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056f7725c1d5d3449a7c5955fae0d099
+      internalID: 1911265950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_walk_front_3
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 406
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a924d0a29244c3143ab1b75660bf7943
+      internalID: 220076266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_walk_front_4
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 406
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3fea096b6307c48b88be829ad4f10b
+      internalID: 953410484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_walk_front_5
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 406
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b6590838942854baacb864bcf4dbe0
+      internalID: 152559602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_walk_back_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 348
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cffe91152eb80a4aab8f493d97bb67a
+      internalID: -1108422632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_walk_back_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 348
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d0658923ef2a740a387e27b67e895f
+      internalID: -1487257542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_walk_back_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 348
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a13565565b6e541b45ce4251be0fa7
+      internalID: -631772114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_walk_back_3
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 348
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811d9c630f9b1384bb448e999c20b5ef
+      internalID: 511828542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_walk_back_4
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 348
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a084ce8d7ed8545bd3e4c224218447
+      internalID: 747059468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_walk_back_5
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 348
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788a75c47b092ca4bbf5b93081f30187
+      internalID: -1859487741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_attack_side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 290
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cdf33842ea4c44f98d3fe69c1564a6
+      internalID: 1629725788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_attack_side_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 290
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b4d55222ce29a43b095a1490ea88c8
+      internalID: 1788759175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_attack_side_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 290
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e7dc847bf83de4b9ffa0376444c73b
+      internalID: -1151976035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_attack_side_3
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 290
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f26a14cf8e2094f8a1d5b50a6e4a96
+      internalID: -583207278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_attack_side_4
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 290
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db249fe5aa041cc4d924d5c663e37eb5
+      internalID: -544002124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_attack_side_5
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 290
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac67c7718569e94b9d197536f4c15c6
+      internalID: 573298659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_attack_front_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 232
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a5e30437ae49e498f7a25179612691
+      internalID: -1971380925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_attack_front_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 232
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d75ffbbc52bee4ea4d21df7f39e9ba
+      internalID: -1394164763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_attack_front_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 232
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6be4392d8326946b34b6cefa307d5e
+      internalID: -216865948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_attack_front_3
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 232
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2eccf9a312d1047aa87b1036416f1f
+      internalID: 195963248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_attack_front_4
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 232
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b88dc6aa6821e4185230b098d84169
+      internalID: 939713425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_attack_front_5
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 232
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1374b0a6c4025e146b82989843e415d2
+      internalID: 1405185275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_attack_back_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 174
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bfb15cac4f49a49ba978e342962bec
+      internalID: -1662024189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_attack_back_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 174
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefe1b6aa314c7d4a848d21428a03113
+      internalID: 834009217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_attack_back_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 174
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953dade0d0ce8a349a73d4c2a7e48682
+      internalID: 1468721975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_attack_back_3
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 174
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38ce5a7dc64f6c498f22690ab05bd5f
+      internalID: -1454762413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_attack_back_4
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 174
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb8943711af40c4ba782e39fe92107a
+      internalID: -1864254470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_attack_back_5
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 174
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c8d19c701265948b9c93e68cb5264d
+      internalID: 1087000908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_death_side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 116
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7bb24f084085147827b54437fc8b4a
+      internalID: -184304467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_death_side_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 116
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c996c1f558bb8e44693f605899370ccb
+      internalID: -623756162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_death_side_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 116
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7881b87147407774094e2ff88189bcd8
+      internalID: 1805146959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_death_side_3
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 116
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d289c13894bb64b833754ab2d48ddc
+      internalID: 960537614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_death_side_4
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 116
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79334de20c873a74b9cb56f95fcada55
+      internalID: -1438945391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_death_side_5
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 116
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3e1f64325b009429f910e092e50ca9
+      internalID: 1984207447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_death_front_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 58
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb70252692f83d4409387df9f778fdae
+      internalID: 656490661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_death_front_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 58
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a96cce23495f64eac1a94a8da3f51e
+      internalID: 295372919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_death_front_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 58
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72effa3165776d9499dadc30ffd6b8d3
+      internalID: 1611863791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_death_front_3
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 58
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56dbf669b3d37144af63adb9fe74448
+      internalID: -574470793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_death_front_4
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 58
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d54233402f8354087ac718dea9375a
+      internalID: 1614149083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_death_front_5
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 58
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6f79f275f3b9344b9849c2e0cfc470
+      internalID: -119131858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_death_back_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c15ea88d3ee1774b9f8fc7a8f680c61
+      internalID: -251122770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_death_back_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a6153e069a60946a842c5a34c5e895
+      internalID: 1388814455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_death_back_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 0
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bc0d21f31a747418f352d656992ee5
+      internalID: -307041202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_death_back_3
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 0
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4df77971fc2b35439da0b226d85b8c7
+      internalID: -1287939885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_death_back_4
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 0
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa435debaafa8f4ebc65f1d0d2fdb70
+      internalID: -2083180706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby_dragon_death_back_5
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 0
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65981012588107b47a1a33501227c834
+      internalID: 1139187961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ac523d012d3203f498b80fe7cdea84fd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      baby_dragon_attack_back_0: -1662024189
+      baby_dragon_attack_back_1: 834009217
+      baby_dragon_attack_back_2: 1468721975
+      baby_dragon_attack_back_3: -1454762413
+      baby_dragon_attack_back_4: -1864254470
+      baby_dragon_attack_back_5: 1087000908
+      baby_dragon_attack_front_0: -1971380925
+      baby_dragon_attack_front_1: -1394164763
+      baby_dragon_attack_front_2: -216865948
+      baby_dragon_attack_front_3: 195963248
+      baby_dragon_attack_front_4: 939713425
+      baby_dragon_attack_front_5: 1405185275
+      baby_dragon_attack_side_0: 1629725788
+      baby_dragon_attack_side_1: 1788759175
+      baby_dragon_attack_side_2: -1151976035
+      baby_dragon_attack_side_3: -583207278
+      baby_dragon_attack_side_4: -544002124
+      baby_dragon_attack_side_5: 573298659
+      baby_dragon_death_back_0: -251122770
+      baby_dragon_death_back_1: 1388814455
+      baby_dragon_death_back_2: -307041202
+      baby_dragon_death_back_3: -1287939885
+      baby_dragon_death_back_4: -2083180706
+      baby_dragon_death_back_5: 1139187961
+      baby_dragon_death_front_0: 656490661
+      baby_dragon_death_front_1: 295372919
+      baby_dragon_death_front_2: 1611863791
+      baby_dragon_death_front_3: -574470793
+      baby_dragon_death_front_4: 1614149083
+      baby_dragon_death_front_5: -119131858
+      baby_dragon_death_side_0: -184304467
+      baby_dragon_death_side_1: -623756162
+      baby_dragon_death_side_2: 1805146959
+      baby_dragon_death_side_3: 960537614
+      baby_dragon_death_side_4: -1438945391
+      baby_dragon_death_side_5: 1984207447
+      baby_dragon_idle_back_0: -48354905
+      baby_dragon_idle_back_1: 586528199
+      baby_dragon_idle_back_2: 1262962144
+      baby_dragon_idle_back_3: 556507426
+      baby_dragon_idle_front_0: 1614659695
+      baby_dragon_idle_front_1: -1185840758
+      baby_dragon_idle_front_2: 1770493999
+      baby_dragon_idle_front_3: 460266889
+      baby_dragon_idle_side_0: -1894333605
+      baby_dragon_idle_side_1: -1996137884
+      baby_dragon_idle_side_2: 1667645133
+      baby_dragon_idle_side_3: 1739958759
+      baby_dragon_walk_back_0: -1108422632
+      baby_dragon_walk_back_1: -1487257542
+      baby_dragon_walk_back_2: -631772114
+      baby_dragon_walk_back_3: 511828542
+      baby_dragon_walk_back_4: 747059468
+      baby_dragon_walk_back_5: -1859487741
+      baby_dragon_walk_front_0: 2075886183
+      baby_dragon_walk_front_1: 773696880
+      baby_dragon_walk_front_2: 1911265950
+      baby_dragon_walk_front_3: 220076266
+      baby_dragon_walk_front_4: 953410484
+      baby_dragon_walk_front_5: 152559602
+      baby_dragon_walk_side_0: 1012558298
+      baby_dragon_walk_side_1: 996069501
+      baby_dragon_walk_side_2: -1062157079
+      baby_dragon_walk_side_3: -834829743
+      baby_dragon_walk_side_4: -1883845131
+      baby_dragon_walk_side_5: -1377150667
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

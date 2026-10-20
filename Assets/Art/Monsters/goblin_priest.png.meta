@@ -1,0 +1,1833 @@
+fileFormatVersion: 2
+guid: 3096d83bf8e71334299ce2aeaf790212
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7887927966316765050
+    second: goblin_priest_0
+  - first:
+      213: -6411651509058875159
+    second: goblin_priest_1
+  - first:
+      213: -6809172411392259846
+    second: goblin_priest_2
+  - first:
+      213: -7106105389103287560
+    second: goblin_priest_3
+  - first:
+      213: 4809585140678843822
+    second: goblin_priest_4
+  - first:
+      213: -2137207274816839763
+    second: goblin_priest_5
+  - first:
+      213: 7367892441312915833
+    second: goblin_priest_6
+  - first:
+      213: -7203228320262378584
+    second: goblin_priest_7
+  - first:
+      213: -1579390156854214775
+    second: goblin_priest_8
+  - first:
+      213: 5065953238835849167
+    second: goblin_priest_9
+  - first:
+      213: 5597482769562904589
+    second: goblin_priest_10
+  - first:
+      213: -7890900267041433683
+    second: goblin_priest_11
+  - first:
+      213: 7233900176202702648
+    second: goblin_priest_12
+  - first:
+      213: -2344419968448881374
+    second: goblin_priest_13
+  - first:
+      213: -8880732753445783663
+    second: goblin_priest_14
+  - first:
+      213: 2077760635616644813
+    second: goblin_priest_15
+  - first:
+      213: -3338956849696086809
+    second: goblin_priest_16
+  - first:
+      213: 377497769734336763
+    second: goblin_priest_17
+  - first:
+      213: 9143342234512057299
+    second: goblin_priest_18
+  - first:
+      213: -1319213476562852416
+    second: goblin_priest_19
+  - first:
+      213: 1813878534378639881
+    second: goblin_priest_20
+  - first:
+      213: -4960855721475778347
+    second: goblin_priest_21
+  - first:
+      213: 6909080980731215429
+    second: goblin_priest_22
+  - first:
+      213: 7998396618528297435
+    second: goblin_priest_23
+  - first:
+      213: -1270140485812236168
+    second: goblin_priest_24
+  - first:
+      213: 6961513568303977464
+    second: goblin_priest_25
+  - first:
+      213: -3157414778710259017
+    second: goblin_priest_26
+  - first:
+      213: 8660239319415344565
+    second: goblin_priest_27
+  - first:
+      213: -7506145796312173797
+    second: goblin_priest_28
+  - first:
+      213: -8514848605172382576
+    second: goblin_priest_29
+  - first:
+      213: 3337266486281599908
+    second: goblin_priest_30
+  - first:
+      213: -8624223091081927920
+    second: goblin_priest_31
+  - first:
+      213: 4653297688601802229
+    second: goblin_priest_32
+  - first:
+      213: -53929604954923725
+    second: goblin_priest_33
+  - first:
+      213: -7761807866303824869
+    second: goblin_priest_34
+  - first:
+      213: -3100698865608029997
+    second: goblin_priest_35
+  - first:
+      213: -299143869714342593
+    second: goblin_priest_36
+  - first:
+      213: 2004903279386697222
+    second: goblin_priest_37
+  - first:
+      213: 972408568181146988
+    second: goblin_priest_38
+  - first:
+      213: 400201552341010456
+    second: goblin_priest_39
+  - first:
+      213: 7234223281796786821
+    second: goblin_priest_40
+  - first:
+      213: 5591224696144989249
+    second: goblin_priest_41
+  - first:
+      213: 7832990525849091708
+    second: goblin_priest_42
+  - first:
+      213: -8839920141853781890
+    second: goblin_priest_43
+  - first:
+      213: 397258632714088713
+    second: goblin_priest_44
+  - first:
+      213: -4878832103546408457
+    second: goblin_priest_45
+  - first:
+      213: 7410767794504734873
+    second: goblin_priest_46
+  - first:
+      213: -8049947065647296497
+    second: goblin_priest_47
+  - first:
+      213: -3141891332937517991
+    second: goblin_priest_48
+  - first:
+      213: 2731281663043422993
+    second: goblin_priest_49
+  - first:
+      213: 8443988422326166853
+    second: goblin_priest_50
+  - first:
+      213: 1164196494442372074
+    second: goblin_priest_51
+  - first:
+      213: -7198908647155786706
+    second: goblin_priest_52
+  - first:
+      213: 6739414974834841293
+    second: goblin_priest_53
+  - first:
+      213: 5108373693456090300
+    second: goblin_priest_54
+  - first:
+      213: 7448665907765747456
+    second: goblin_priest_55
+  - first:
+      213: -7802356829796489456
+    second: goblin_priest_56
+  - first:
+      213: 2032029594533985850
+    second: goblin_priest_57
+  - first:
+      213: -8928780730386632272
+    second: goblin_priest_58
+  - first:
+      213: -5314895891879247332
+    second: goblin_priest_59
+  - first:
+      213: 255473499395344322
+    second: goblin_priest_60
+  - first:
+      213: 5004005924875341058
+    second: goblin_priest_61
+  - first:
+      213: 556077786861807590
+    second: goblin_priest_62
+  - first:
+      213: 3325923537380270065
+    second: goblin_priest_63
+  - first:
+      213: -989221622671029999
+    second: goblin_priest_64
+  - first:
+      213: -879095024772936550
+    second: goblin_priest_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: goblin_priest_idle_side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 649
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c713cc063119f934c818dfc709158e55
+      internalID: 548150851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_idle_side_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 649
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4922bb03060e0a64dba3505de29799ba
+      internalID: -978015045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_idle_side_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 649
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e982db7c137cdd478b537ef94a75859
+      internalID: -1912898749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_idle_side_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 649
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04805e29b69014e4fae63e17a9d9af8d
+      internalID: -1048029286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_idle_front_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 590
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3d8f853b9b2a4419b740c4d7bc4fcf
+      internalID: 1231340247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_idle_front_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 590
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a20c9bade60e9441be3101761462957
+      internalID: 1154285192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_idle_front_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 590
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f400bcbb54c01742a2157f40362575a
+      internalID: 29444163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_idle_front_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 590
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c0ee5ccb8b6dd4b94f441b2ccc1b3f
+      internalID: 578953659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_idle_back_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 531
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075eda73eaa17f24daaea79a68036409
+      internalID: -229094871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_idle_back_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 531
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4387a69722d442542a6c1113c06a252d
+      internalID: -411597968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_idle_back_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 531
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dcd6b25f7441624e8d4a31ac75c9745
+      internalID: 1677770352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_idle_back_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 531
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd466ad98e979b5468d955639cbc7ee8
+      internalID: 141047062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_walk_side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 472
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5fea4738a9779141b75e4b13e65d012
+      internalID: 831049425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_walk_side_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 472
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe89861f74ed1045b4ef07511b5c6e8
+      internalID: -1640610936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_walk_side_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 472
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f8a339a3ba46f49becf27aff2fd152
+      internalID: 358886019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_walk_side_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 472
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105ec08f4b58fb5458de09067078198a
+      internalID: 852395623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_walk_side_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 472
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516dad8cb2ba55c488d34ee2d9556b88
+      internalID: 974359087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_walk_side_5
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 472
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ff07c9ecc236741ba6856d455c6eb7
+      internalID: 2096188317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_walk_front_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 413
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47c2bf8db10c184f84a3484ed6e2aa2
+      internalID: -1708580661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_walk_front_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 413
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873f96f8f2999c84faf028d495cb35bd
+      internalID: 1382406093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_walk_front_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 413
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a57414b3c65e644af4602014513383
+      internalID: -943667433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_walk_front_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 413
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0fc30d75a817c40bd578352893577d
+      internalID: 926855948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_walk_front_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 413
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304d39b6e04ddfa4087552b99cfb44e2
+      internalID: -1866074152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_walk_front_5
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 413
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c78dbbd1e3d444986a5d2a99b81fde
+      internalID: -1800768554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_walk_back_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 354
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca73beeda7839544b89cb4dd01adcc5b
+      internalID: 351888721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_walk_back_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 354
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8bc007c4a36234479d8f658061a0ce2
+      internalID: 628026808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_walk_back_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 354
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250a019c20972854f8f6bc8787db8e1b
+      internalID: -1631828701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_walk_back_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 354
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84481990be651f49b4f28d5a0c70c0e
+      internalID: 276051526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_walk_back_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 354
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d66ca36c96dd043af8723d29319199
+      internalID: -268059904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_walk_back_5
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 354
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbef7d3aa97d374b92ba8f9ca1bec74
+      internalID: -1648175899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_attack_side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 295
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b408f676a38184ea101e6101549105
+      internalID: 1598109001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_attack_side_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 295
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d236acee683eeaf49bd795983c9ed55b
+      internalID: -647688143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_attack_side_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 295
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60587eb36f8e63c46a56714b9d731f9b
+      internalID: -1269423041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_attack_side_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 295
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0b67d685dda154c9bb5db02c56c3a1
+      internalID: 300579784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_attack_side_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 295
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a4a76028727b54f958c49e5c261568
+      internalID: 838603397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_attack_side_5
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 295
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb2a159abab395478a0c30cff1c15be
+      internalID: 329213078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_attack_front_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 236
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680b0e3f6a9f86042a741168338d841a
+      internalID: 1872849617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_attack_front_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 236
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbdfc2c40170e34b88003c634c01ace
+      internalID: 793281133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_attack_front_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 236
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876e6fbd39045004ba668148691168a8
+      internalID: -905638590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_attack_front_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 236
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096f91704b06f554283959909f43fbbf
+      internalID: 2044183527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_attack_front_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 236
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c947b6ff804fb4c9129742f4f0f380
+      internalID: -238202716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_attack_front_5
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 236
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27628066b9515974782ce0726e95edae
+      internalID: -2077636684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_attack_back_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 177
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6847875c7586444aefaebd1d7fc158
+      internalID: 341221001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_attack_back_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 177
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0cb0878a75d4041a6e3dd70a325656
+      internalID: 1153758791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_attack_back_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 177
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d72993411ebb1044a487457e96080d8
+      internalID: -707142338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_attack_back_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 177
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4f3e11dd6edbc4e9518c87cdce635c
+      internalID: 230708158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_attack_back_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 177
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65e22a31ad817d41a88f96cb8415e3d
+      internalID: 677281012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_attack_back_5
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 177
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1143e38dafd0153469cac345731849f1
+      internalID: -1425056962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_death_side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 118
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70854ae6d0a73a46be480e047156798
+      internalID: -2131899808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_death_side_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 118
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5417708606781964bb16d96d4af50f62
+      internalID: 120052858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_death_side_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 118
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd8206eaa142e848b32fbfff36379b0
+      internalID: 2032048238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_death_side_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 118
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6210772d410aac45857ecc86c4e62e7
+      internalID: -1632050968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_death_side_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 118
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e6c347589bf65419ee2239eb142921
+      internalID: 1375189779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_death_side_5
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 118
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae552c005a513d543abb237f8689f413
+      internalID: 1831634992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_death_front_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afd18c879b9fae4daeb08d94fcd0401
+      internalID: -673452974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_death_front_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 59
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efae63f04ac53cb478b482a1f5cdc4be
+      internalID: -699149082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_death_front_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 59
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555c4784a8dc3534fa9437a542a13b06
+      internalID: -1704524332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_death_front_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 59
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029ac66c46829864ca8f8bd8a18eb3ff
+      internalID: -1606235806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_death_front_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 59
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ef2061f32939e4fa41d4d66c745d84
+      internalID: 367399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_death_front_5
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 59
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b79f804700d5f24680b2e87676cb720
+      internalID: 117199698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_death_back_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c29c7b3898539b488b391222865726d
+      internalID: -1113431107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_death_back_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0f05ed2120d3a45b1720bb9e771083
+      internalID: -979178608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_death_back_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11035768898db33408ba1bc2df4d4b61
+      internalID: 1413866864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_death_back_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bdcf33c2f3e83458f90cae0866263c
+      internalID: 542425649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_death_back_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8ab8bcdd509c444b6cf83e84b3a957
+      internalID: 1541262744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_priest_death_back_5
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66101694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3d69cf520eb4747954b527a07cd82c
+      internalID: 795556139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c7d6d465b93a20443bb428c0ce83d908
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      goblin_priest_attack_back_0: 341221001
+      goblin_priest_attack_back_1: 1153758791
+      goblin_priest_attack_back_2: -707142338
+      goblin_priest_attack_back_3: 230708158
+      goblin_priest_attack_back_4: 677281012
+      goblin_priest_attack_back_5: -1425056962
+      goblin_priest_attack_front_0: 1872849617
+      goblin_priest_attack_front_1: 793281133
+      goblin_priest_attack_front_2: -905638590
+      goblin_priest_attack_front_3: 2044183527
+      goblin_priest_attack_front_4: -238202716
+      goblin_priest_attack_front_5: -2077636684
+      goblin_priest_attack_side_0: 1598109001
+      goblin_priest_attack_side_1: -647688143
+      goblin_priest_attack_side_2: -1269423041
+      goblin_priest_attack_side_3: 300579784
+      goblin_priest_attack_side_4: 838603397
+      goblin_priest_attack_side_5: 329213078
+      goblin_priest_death_back_0: -1113431107
+      goblin_priest_death_back_1: -979178608
+      goblin_priest_death_back_2: 1413866864
+      goblin_priest_death_back_3: 542425649
+      goblin_priest_death_back_4: 1541262744
+      goblin_priest_death_back_5: 795556139
+      goblin_priest_death_front_0: -673452974
+      goblin_priest_death_front_1: -699149082
+      goblin_priest_death_front_2: -1704524332
+      goblin_priest_death_front_3: -1606235806
+      goblin_priest_death_front_4: 367399
+      goblin_priest_death_front_5: 117199698
+      goblin_priest_death_side_0: -2131899808
+      goblin_priest_death_side_1: 120052858
+      goblin_priest_death_side_2: 2032048238
+      goblin_priest_death_side_3: -1632050968
+      goblin_priest_death_side_4: 1375189779
+      goblin_priest_death_side_5: 1831634992
+      goblin_priest_idle_back_0: -229094871
+      goblin_priest_idle_back_1: -411597968
+      goblin_priest_idle_back_2: 1677770352
+      goblin_priest_idle_back_3: 141047062
+      goblin_priest_idle_front_0: 1231340247
+      goblin_priest_idle_front_1: 1154285192
+      goblin_priest_idle_front_2: 29444163
+      goblin_priest_idle_front_3: 578953659
+      goblin_priest_idle_side_0: 548150851
+      goblin_priest_idle_side_1: -978015045
+      goblin_priest_idle_side_2: -1912898749
+      goblin_priest_idle_side_3: -1048029286
+      goblin_priest_walk_back_0: 351888721
+      goblin_priest_walk_back_1: 628026808
+      goblin_priest_walk_back_2: -1631828701
+      goblin_priest_walk_back_3: 276051526
+      goblin_priest_walk_back_4: -268059904
+      goblin_priest_walk_back_5: -1648175899
+      goblin_priest_walk_front_0: -1708580661
+      goblin_priest_walk_front_1: 1382406093
+      goblin_priest_walk_front_2: -943667433
+      goblin_priest_walk_front_3: 926855948
+      goblin_priest_walk_front_4: -1866074152
+      goblin_priest_walk_front_5: -1800768554
+      goblin_priest_walk_side_0: 831049425
+      goblin_priest_walk_side_1: -1640610936
+      goblin_priest_walk_side_2: 358886019
+      goblin_priest_walk_side_3: 852395623
+      goblin_priest_walk_side_4: 974359087
+      goblin_priest_walk_side_5: 2096188317
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

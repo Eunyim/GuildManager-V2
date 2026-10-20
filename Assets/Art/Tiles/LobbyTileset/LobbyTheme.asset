@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7584f2f5614bae04db6f42e638aa5c3c, type: 3}
+  m_Name: LobbyTheme
+  m_EditorClassIdentifier: Assembly-CSharp::MapThemeData
+  themeName: LobbyTheme
+  floorTiles:
+  - {fileID: 11400000, guid: c8e74dea6c13aaa479dd94f73e841416, type: 2}
+  - {fileID: 11400000, guid: 049b0dfbbec5aef46bea2f2f165e4b1a, type: 2}
+  - {fileID: 11400000, guid: efc298153b7899944865f0cfff63776f, type: 2}
+  - {fileID: 11400000, guid: 2a876fc261acc154c9d86606fa383adb, type: 2}
+  - {fileID: 11400000, guid: eea83c51264f9fc48a39a2818f6faf24, type: 2}
+  - {fileID: 11400000, guid: ff422af37f489254384b33d79f9d5d80, type: 2}
+  isoFloorTiles:
+  - {fileID: 11400000, guid: c7427c9bf7f499e438794737895718f7, type: 2}
+  - {fileID: 11400000, guid: 9903d7d8aa4c2a146b4555e389a5714f, type: 2}
+  - {fileID: 11400000, guid: 85ad78dcb5761aa4fa8b1bf5f12f5362, type: 2}
+  - {fileID: 11400000, guid: 08e5c922b998d5e4bbfac931b770c72c, type: 2}
+  - {fileID: 11400000, guid: a1d1afdebd55e374bbd2c032a45dda13, type: 2}
+  - {fileID: 11400000, guid: 48599ce3966fef04c86c4a322231c651, type: 2}
+  wallTop: {fileID: 11400000, guid: ab118a8fb9e684f408b2a7340171ccef, type: 2}
+  wallBottom: {fileID: 11400000, guid: 05e5b5fca8ada054885edf59e545f363, type: 2}
+  wallLeft: {fileID: 11400000, guid: 6a8b4d3170b3edd4ca55091a9f205d61, type: 2}
+  wallRight: {fileID: 11400000, guid: dce6d035fe1c87f4fac693c4d637f93b, type: 2}
+  wallCornerTL: {fileID: 11400000, guid: a881eef4d29b81e48bb0beedd3825b7a, type: 2}
+  wallCornerTR: {fileID: 11400000, guid: 8a615847b72ecf248bf406ddbd4e5ae9, type: 2}
+  wallCornerBL: {fileID: 11400000, guid: 2746c7b9573eac240b6ffb868de55e95, type: 2}
+  wallCornerBR: {fileID: 11400000, guid: e50e3efc9a4a6e14093f487966c40538, type: 2}
+  wallSolid: {fileID: 11400000, guid: 1c92a40ce058a6949bba01385d8f5076, type: 2}
+  decorationTiles:
+  - {fileID: 11400000, guid: 6fc6cb9d0e830b04fbb6d9ba44e16198, type: 2}
+  - {fileID: 11400000, guid: 8b1781778cd21834782de8a518cc1d2b, type: 2}
+  - {fileID: 11400000, guid: 312b3ecfa0460254f94b21deaa28d5f5, type: 2}
+  - {fileID: 11400000, guid: 24f06c419ba4fc24e869dd38ce89cc7a, type: 2}
+  - {fileID: 11400000, guid: 6ad36e1cad5158d42a1bee612142189f, type: 2}
+  - {fileID: 11400000, guid: 85f59ef1410a28e4a80c10ba86a205e9, type: 2}
+  decorationDensity: 0.05

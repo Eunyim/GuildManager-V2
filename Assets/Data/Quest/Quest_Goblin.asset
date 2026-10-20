@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ce260c4251da94478247808b8f472f3, type: 3}
+  m_Name: Quest_Goblin
+  m_EditorClassIdentifier: Assembly-CSharp::QuestData
+  questName: "\uACE0\uBE14\uB9B0 \uBD80\uB77D \uD1A0\uBC8C"
+  description: "\uACE0\uBE14\uB9B0 \uBB34\uB9AC\uAC00 \uC8FC\uBCC0\uC5D0 \uBD80\uB77D\uC744
+    \uB9CC\uB4E4\uC5B4 \uACE8\uCE58\uC778 \uBAA8\uC591\uC785\uB2C8\uB2E4. \uACE0\uBE14\uB9B0\uC744
+    \uCC98\uCE58\uD574\uC8FC\uC138\uC694!"
+  rank: D
+  rewardGold: 500
+  duration: 10
+  recommendedLevel: 3

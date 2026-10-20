@@ -1,0 +1,41 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+.DS_Store
+
+# Visual Studio / Code generated
+.vs/
+.idea/
+*.sln
+*.csproj
+*.slnx
+*.pdb
+*.mdb
+*.apk
+*.aab
+*.unitypackage
+sysinfo.txt
+crashlytics-build.properties
+
+# 에디터·개인 설정
+.vscode/
+.claude/settings.local.json
+
+# Unity 자동 복구 씬
+/[Aa]ssets/_Recovery/
+/[Aa]ssets/_Recovery.meta
+
+# 안에 따로 들어 있는 git 저장소 (Eunyim/GuildManager-V2 클론)
+/GuildManager-V2/
+
+# 파이썬 캐시·백업
+__pycache__/
+*.pyc
+*.bak
+
+# 지워진 옛 코드 보관함 (기록은 git 이력으로 대신)
+/_Removed/

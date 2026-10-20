@@ -1,0 +1,1833 @@
+fileFormatVersion: 2
+guid: 0c2b15a577f36bd4fb14482030910de6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9118944229826185864
+    second: alpha_wolf_0
+  - first:
+      213: -1612210185297590752
+    second: alpha_wolf_1
+  - first:
+      213: -5093142396728525858
+    second: alpha_wolf_2
+  - first:
+      213: 5778602466819195439
+    second: alpha_wolf_3
+  - first:
+      213: 5113035144285064359
+    second: alpha_wolf_4
+  - first:
+      213: 8987601475422159688
+    second: alpha_wolf_5
+  - first:
+      213: 8673042441780426775
+    second: alpha_wolf_6
+  - first:
+      213: -4628697649549935331
+    second: alpha_wolf_7
+  - first:
+      213: 6519059651461367495
+    second: alpha_wolf_8
+  - first:
+      213: 2470722138902307321
+    second: alpha_wolf_9
+  - first:
+      213: 1537865673193331912
+    second: alpha_wolf_10
+  - first:
+      213: -5493347021401613513
+    second: alpha_wolf_11
+  - first:
+      213: -2859510424751857800
+    second: alpha_wolf_12
+  - first:
+      213: 1403168732603697791
+    second: alpha_wolf_13
+  - first:
+      213: 1452085190086540257
+    second: alpha_wolf_14
+  - first:
+      213: -5989423944324086426
+    second: alpha_wolf_15
+  - first:
+      213: 6322228205538260772
+    second: alpha_wolf_16
+  - first:
+      213: -3326000002150329692
+    second: alpha_wolf_17
+  - first:
+      213: 8301978523624654281
+    second: alpha_wolf_18
+  - first:
+      213: 6931396587226050970
+    second: alpha_wolf_19
+  - first:
+      213: -170629292184707638
+    second: alpha_wolf_20
+  - first:
+      213: -2346312520228890537
+    second: alpha_wolf_21
+  - first:
+      213: 5405046065192861451
+    second: alpha_wolf_22
+  - first:
+      213: 5047938261591818963
+    second: alpha_wolf_23
+  - first:
+      213: 7338277510892192334
+    second: alpha_wolf_24
+  - first:
+      213: 299011040592870805
+    second: alpha_wolf_25
+  - first:
+      213: 3879322605231606956
+    second: alpha_wolf_26
+  - first:
+      213: 7442928538542512634
+    second: alpha_wolf_27
+  - first:
+      213: -4353187980894125398
+    second: alpha_wolf_28
+  - first:
+      213: 119113687173974547
+    second: alpha_wolf_29
+  - first:
+      213: -4145027684297345533
+    second: alpha_wolf_30
+  - first:
+      213: 7395881512244274346
+    second: alpha_wolf_31
+  - first:
+      213: -3689122295954464548
+    second: alpha_wolf_32
+  - first:
+      213: 5699477811852431134
+    second: alpha_wolf_33
+  - first:
+      213: -2169461835760882285
+    second: alpha_wolf_34
+  - first:
+      213: 3363160110468181005
+    second: alpha_wolf_35
+  - first:
+      213: 13509037217830340
+    second: alpha_wolf_36
+  - first:
+      213: -6039080064130816947
+    second: alpha_wolf_37
+  - first:
+      213: 2704256335194281237
+    second: alpha_wolf_38
+  - first:
+      213: -6066009000975775047
+    second: alpha_wolf_39
+  - first:
+      213: 1019918444208016432
+    second: alpha_wolf_40
+  - first:
+      213: -6168821430033644342
+    second: alpha_wolf_41
+  - first:
+      213: 2185677948953925074
+    second: alpha_wolf_42
+  - first:
+      213: 2692645550297245416
+    second: alpha_wolf_43
+  - first:
+      213: -253689845590370886
+    second: alpha_wolf_44
+  - first:
+      213: -6477991643801194980
+    second: alpha_wolf_45
+  - first:
+      213: 7588575169544187409
+    second: alpha_wolf_46
+  - first:
+      213: 3510392718096484092
+    second: alpha_wolf_47
+  - first:
+      213: 6229125923404985941
+    second: alpha_wolf_48
+  - first:
+      213: -3713918829543186487
+    second: alpha_wolf_49
+  - first:
+      213: -9181623294881848778
+    second: alpha_wolf_50
+  - first:
+      213: 8674316208306244746
+    second: alpha_wolf_51
+  - first:
+      213: -2912886040910436734
+    second: alpha_wolf_52
+  - first:
+      213: 469744185593686427
+    second: alpha_wolf_53
+  - first:
+      213: 5064513014492224758
+    second: alpha_wolf_54
+  - first:
+      213: -8314717403605925898
+    second: alpha_wolf_55
+  - first:
+      213: 5291410852413695931
+    second: alpha_wolf_56
+  - first:
+      213: -3990963686509272395
+    second: alpha_wolf_57
+  - first:
+      213: -5986452861525469629
+    second: alpha_wolf_58
+  - first:
+      213: -23688332338697247
+    second: alpha_wolf_59
+  - first:
+      213: -4719921822269204856
+    second: alpha_wolf_60
+  - first:
+      213: 6348261372533688171
+    second: alpha_wolf_61
+  - first:
+      213: -4667892820851184082
+    second: alpha_wolf_62
+  - first:
+      213: 558048006899003374
+    second: alpha_wolf_63
+  - first:
+      213: -6347443061188616200
+    second: alpha_wolf_64
+  - first:
+      213: 8288598562051066813
+    second: alpha_wolf_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40.800003
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: alpha_wolf_idle_side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 737
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c2e023bd081d44ba5e7f09cd138bb2
+      internalID: -1803851560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_idle_side_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 737
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7375d90bc8d90f34d8ff69c0b0f931f5
+      internalID: 963285781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_idle_side_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 737
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d36ddeb8cd69146b1c1c30a65f18b6
+      internalID: -1664052376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_idle_side_3
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 737
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acac0ae92a93b24ea29bc600ce06665
+      internalID: -551303321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_idle_front_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 670
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207486b9da33cd948be5ee7338ed7eee
+      internalID: 1833499348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_idle_front_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 670
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda809e0eec944e43bc40001dc1ae878
+      internalID: 831645621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_idle_front_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 670
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319073f8bbfa23d4fa49417d333d74cb
+      internalID: -637659420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_idle_front_3
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 670
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f783df3dfe835464eabb6545abc7dc4e
+      internalID: -170173344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_idle_back_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 603
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d21742ebf690a543b623fd998456fd9
+      internalID: 1326259160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_idle_back_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 603
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e42880735d00848999342134472082
+      internalID: -772513263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_idle_back_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 603
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e188089e356f6644fb0df7aee02adc48
+      internalID: 566559000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_idle_back_3
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 603
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83eb1e532dfeca341b57dc4ad9187224
+      internalID: -690641014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_walk_side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 536
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786d6aca1506dc24bab4d8911af00788
+      internalID: -651736268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_walk_side_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 536
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9f0853a012f824eb84beded16c4a54
+      internalID: -974308402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_walk_side_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 536
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0ecdcdaffdfe74fa40b821793c7de4
+      internalID: -971161556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_walk_side_3
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 536
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ce33b7a122f5f4bafab9ae45e58e35
+      internalID: 2011164107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_walk_side_4
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 536
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9bf7c43f1ea6d4a92853b333f1a1f0
+      internalID: -790945075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_walk_side_5
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 536
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6cb48ba3fef1d4cb772f40bb7bb1d5
+      internalID: 253693668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_walk_front_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 469
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916602d1a5aa89c44afc87e615e95d0e
+      internalID: 491278874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_walk_front_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 469
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbd8980a300b504c93cacce420b3727
+      internalID: 1156847803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_walk_front_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 469
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e74dfff906e9346bf1962752aeda75
+      internalID: -1860633143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_walk_front_3
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 469
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13bd9ee5d02ec24083e743f9f8cf71a
+      internalID: 1674089304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_walk_front_4
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 469
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63503b174b9de7447a46ad0d023a0f23
+      internalID: 64128577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_walk_front_5
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 469
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3d37dcc20fadd47a26106f03df9d9b
+      internalID: -401270129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_walk_back_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 402
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed68a232aeac7f04c848933aabced774
+      internalID: 1290143946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_walk_back_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 402
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a3214a8ee5ddd49a045c164490562b
+      internalID: -2078518847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_walk_back_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 402
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7cd18f5cb12ab742a06742bdbbb4869
+      internalID: -87685350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_walk_back_3
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 402
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6ad1eeaaef6ad499e45ededb6a156e
+      internalID: 909727207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_walk_back_4
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 402
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260526c8a6a937e41960e2d2471ee784
+      internalID: 151285817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_walk_back_5
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 402
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3289e8665f9c0a04583122c408641c93
+      internalID: -117731517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_attack_side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 335
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a5fdb7294518248b1c93ebe9164d94
+      internalID: 2103203392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_attack_side_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 335
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e51627dd1de7a4dae78d2331e9da1c
+      internalID: -999990517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_attack_side_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 335
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022b0588550c6a045aa6ac68e3d72716
+      internalID: 1868001146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_attack_side_3
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 335
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e9d9db38f83144b90334f9f316c45e
+      internalID: 2027870335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_attack_side_4
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 335
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd70873cde928d445bd6a0ca5d68717d
+      internalID: -549519070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_attack_side_5
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 335
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d427f11b39e3043aa2c048086b6931
+      internalID: 1452782034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_attack_front_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 268
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d835af130d7f20040be9a2c5bdad0f4f
+      internalID: 1623552330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_attack_front_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 268
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36beaf4132ab6c49a3043563412ddf0
+      internalID: 913167888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_attack_front_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 268
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d926863f021fd004f8bd580c21c4f041
+      internalID: -1286810864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_attack_front_3
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 268
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b1ffec039e0ef4d8cb350b11dab439
+      internalID: 480110326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_attack_front_4
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 268
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643143732b40bb94aba4056a1c77dd60
+      internalID: -1414286337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_attack_front_5
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 268
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c462c28fed480564db5095d000458718
+      internalID: -1228089861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_attack_back_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 201
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ccd83d0ff2f9b4083d0d2312ce05d1
+      internalID: -587677991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_attack_back_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 201
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd9f41eb1694734baedeb77e0f68a9e
+      internalID: -399415548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_attack_back_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 201
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a36b8996cf6b947b4965b5a47cc0c6
+      internalID: 1609279046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_attack_back_3
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 201
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce2fcf946d93f14687643bbdec895fa
+      internalID: -786904142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_attack_back_4
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 201
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a244b24f475d747489e5046f3d871a9d
+      internalID: 474335965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_attack_back_5
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 201
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b4e24e94a4b8e479f41491579a84d7
+      internalID: 1046992012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_death_side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 134
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c446c5c83977f6478eba6d11714ac61
+      internalID: 1930150638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_death_side_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 134
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34046a89f6c46de41b234ace2c4152b9
+      internalID: 915142087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_death_side_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 134
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f25da70a313cc4dbf6573eaf2925de
+      internalID: -438811235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_death_side_3
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 134
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672d1ca6b5a7b8241b774958b35d8bb2
+      internalID: -1684750549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_death_side_4
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 134
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ec1e7eec50fb24f8a90eda1e77748d
+      internalID: -1638158389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_death_side_5
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 134
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e42b956e0677747a4b415c85b5f3de
+      internalID: 102956620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_death_front_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 67
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0fd0aa6dc997d418e281f03ca22156
+      internalID: -16938389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_death_front_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 67
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf12a82b169c70c4c85e3afe67d16dc3
+      internalID: 1358577332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_death_front_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 67
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46e81ae4422c1b47917e0e8a291378f
+      internalID: -689429303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_death_front_3
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 67
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f3d64ba04a9df4ebbf26d1249bf54e
+      internalID: 473370158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_death_front_4
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 67
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464c1d7dc23e7d445a28d444e73ca9d6
+      internalID: -1850076505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_death_front_5
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 67
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185b20bbc33588c47b7ebdcdcfb65b95
+      internalID: -813686978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_death_back_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3012905266ecb004a86fb2d63d649d10
+      internalID: 232995400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_death_back_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ba46f913fa122469b9f55820e9e396
+      internalID: -841146756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_death_back_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 0
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570a852deaf594a4b83955945008587c
+      internalID: -1467076483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_death_back_3
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 0
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705fa879cdd5f5749b9314c92807c7f6
+      internalID: 1231754360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_death_back_4
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 0
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce66253da203504f915ffdf7d8e1c41
+      internalID: 1597128632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha_wolf_death_back_5
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 0
+        width: 114
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67388064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7827f49bbf7fe3345b6f139db94ce8ac
+      internalID: -1440266870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f11ea350aa73dcd45906f9d40742d490
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      alpha_wolf_attack_back_0: -587677991
+      alpha_wolf_attack_back_1: -399415548
+      alpha_wolf_attack_back_2: 1609279046
+      alpha_wolf_attack_back_3: -786904142
+      alpha_wolf_attack_back_4: 474335965
+      alpha_wolf_attack_back_5: 1046992012
+      alpha_wolf_attack_front_0: 1623552330
+      alpha_wolf_attack_front_1: 913167888
+      alpha_wolf_attack_front_2: -1286810864
+      alpha_wolf_attack_front_3: 480110326
+      alpha_wolf_attack_front_4: -1414286337
+      alpha_wolf_attack_front_5: -1228089861
+      alpha_wolf_attack_side_0: 2103203392
+      alpha_wolf_attack_side_1: -999990517
+      alpha_wolf_attack_side_2: 1868001146
+      alpha_wolf_attack_side_3: 2027870335
+      alpha_wolf_attack_side_4: -549519070
+      alpha_wolf_attack_side_5: 1452782034
+      alpha_wolf_death_back_0: 232995400
+      alpha_wolf_death_back_1: -841146756
+      alpha_wolf_death_back_2: -1467076483
+      alpha_wolf_death_back_3: 1231754360
+      alpha_wolf_death_back_4: 1597128632
+      alpha_wolf_death_back_5: -1440266870
+      alpha_wolf_death_front_0: -16938389
+      alpha_wolf_death_front_1: 1358577332
+      alpha_wolf_death_front_2: -689429303
+      alpha_wolf_death_front_3: 473370158
+      alpha_wolf_death_front_4: -1850076505
+      alpha_wolf_death_front_5: -813686978
+      alpha_wolf_death_side_0: 1930150638
+      alpha_wolf_death_side_1: 915142087
+      alpha_wolf_death_side_2: -438811235
+      alpha_wolf_death_side_3: -1684750549
+      alpha_wolf_death_side_4: -1638158389
+      alpha_wolf_death_side_5: 102956620
+      alpha_wolf_idle_back_0: 1326259160
+      alpha_wolf_idle_back_1: -772513263
+      alpha_wolf_idle_back_2: 566559000
+      alpha_wolf_idle_back_3: -690641014
+      alpha_wolf_idle_front_0: 1833499348
+      alpha_wolf_idle_front_1: 831645621
+      alpha_wolf_idle_front_2: -637659420
+      alpha_wolf_idle_front_3: -170173344
+      alpha_wolf_idle_side_0: -1803851560
+      alpha_wolf_idle_side_1: 963285781
+      alpha_wolf_idle_side_2: -1664052376
+      alpha_wolf_idle_side_3: -551303321
+      alpha_wolf_walk_back_0: 1290143946
+      alpha_wolf_walk_back_1: -2078518847
+      alpha_wolf_walk_back_2: -87685350
+      alpha_wolf_walk_back_3: 909727207
+      alpha_wolf_walk_back_4: 151285817
+      alpha_wolf_walk_back_5: -117731517
+      alpha_wolf_walk_front_0: 491278874
+      alpha_wolf_walk_front_1: 1156847803
+      alpha_wolf_walk_front_2: -1860633143
+      alpha_wolf_walk_front_3: 1674089304
+      alpha_wolf_walk_front_4: 64128577
+      alpha_wolf_walk_front_5: -401270129
+      alpha_wolf_walk_side_0: -651736268
+      alpha_wolf_walk_side_1: -974308402
+      alpha_wolf_walk_side_2: -971161556
+      alpha_wolf_walk_side_3: 2011164107
+      alpha_wolf_walk_side_4: -790945075
+      alpha_wolf_walk_side_5: 253693668
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

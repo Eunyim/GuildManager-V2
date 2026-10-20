@@ -1,2 +1,22 @@
-# Auto detect text files and perform LF normalization
+# 줄바꿈 자동 정리 (Windows CRLF ↔ 저장소 LF)
 * text=auto
+
+# Unity YAML (씬·프리팹·에셋)은 줄바꿈을 건드리지 않고 그대로
+*.unity    -text merge=unityyamlmerge diff
+*.prefab   -text merge=unityyamlmerge diff
+*.asset    -text merge=unityyamlmerge diff
+*.mat      -text merge=unityyamlmerge diff
+*.anim     -text merge=unityyamlmerge diff
+*.controller -text merge=unityyamlmerge diff
+*.meta     -text
+
+# 바이너리
+*.png binary
+*.jpg binary
+*.psd binary
+*.ttf binary
+*.otf binary
+*.wav binary
+*.mp3 binary
+*.ogg binary
+*.pdf binary

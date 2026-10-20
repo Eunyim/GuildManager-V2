@@ -1,0 +1,5 @@
+# 이름 피벗x 피벗y — Tools/town_art_gen.py가 만듦
+facade_workshop 0.50000 0.00000
+facade_temple 0.50000 0.00000
+facade_clinic 0.50000 0.00000
+facade_shop 0.50000 0.00000

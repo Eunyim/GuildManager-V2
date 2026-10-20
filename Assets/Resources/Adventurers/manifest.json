@@ -1,0 +1,483 @@
+{
+ "cellW": 96,
+ "cellH": 72,
+ "pivotX": 48,
+ "pivotY": 64,
+ "pxPerUnit": 48,
+ "subs": 5,
+ "female": {
+  "body": [
+   "f_body_01",
+   "f_body_02",
+   "f_body_03",
+   "f_body_04",
+   "f_body_05"
+  ],
+  "hair": [
+   "f_hair_01",
+   "f_hair_02",
+   "f_hair_03",
+   "f_hair_04",
+   "f_hair_05",
+   "f_hair_06",
+   "f_hair_07",
+   "f_hair_08",
+   "f_hair_09",
+   "f_hair_10"
+  ],
+  "top": [
+   "f_top_01",
+   "f_top_02",
+   "f_top_03",
+   "f_top_04",
+   "f_top_05"
+  ],
+  "bottom": [
+   "f_bottom_01",
+   "f_bottom_02",
+   "f_bottom_03",
+   "f_bottom_04",
+   "f_bottom_05"
+  ]
+ },
+ "male": {
+  "body": [
+   "m_body_01",
+   "m_body_02",
+   "m_body_03",
+   "m_body_04",
+   "m_body_05"
+  ],
+  "hair": [
+   "m_hair_01",
+   "m_hair_02",
+   "m_hair_03",
+   "m_hair_04",
+   "m_hair_05",
+   "m_hair_06",
+   "m_hair_07",
+   "m_hair_08",
+   "m_hair_09",
+   "m_hair_10"
+  ],
+  "top": [
+   "m_top_01",
+   "m_top_02",
+   "m_top_03",
+   "m_top_04",
+   "m_top_05"
+  ],
+  "bottom": [
+   "m_bottom_01",
+   "m_bottom_02",
+   "m_bottom_03",
+   "m_bottom_04",
+   "m_bottom_05"
+  ]
+ },
+ "weapons": {
+  "warrior": [
+   "w_warrior_01",
+   "w_warrior_02"
+  ],
+  "rogue": [
+   "w_rogue_01",
+   "w_rogue_02"
+  ],
+  "archer": [
+   "w_archer_01",
+   "w_archer_02"
+  ],
+  "mage": [
+   "w_mage_01",
+   "w_mage_02"
+  ],
+  "healer": [
+   "w_healer_01",
+   "w_healer_02"
+  ]
+ },
+ "rows": [
+  {
+   "row": "idle_side",
+   "anim": "idle",
+   "dir": "side",
+   "job": "",
+   "count": 4,
+   "fps": 6.0,
+   "loop": true
+  },
+  {
+   "row": "idle_front",
+   "anim": "idle",
+   "dir": "front",
+   "job": "",
+   "count": 4,
+   "fps": 6.0,
+   "loop": true
+  },
+  {
+   "row": "idle_back",
+   "anim": "idle",
+   "dir": "back",
+   "job": "",
+   "count": 4,
+   "fps": 6.0,
+   "loop": true
+  },
+  {
+   "row": "walk_side",
+   "anim": "walk",
+   "dir": "side",
+   "job": "",
+   "count": 6,
+   "fps": 10.0,
+   "loop": true
+  },
+  {
+   "row": "walk_front",
+   "anim": "walk",
+   "dir": "front",
+   "job": "",
+   "count": 6,
+   "fps": 10.0,
+   "loop": true
+  },
+  {
+   "row": "walk_back",
+   "anim": "walk",
+   "dir": "back",
+   "job": "",
+   "count": 6,
+   "fps": 10.0,
+   "loop": true
+  },
+  {
+   "row": "death_side",
+   "anim": "death",
+   "dir": "side",
+   "job": "",
+   "count": 6,
+   "fps": 9.0,
+   "loop": false
+  },
+  {
+   "row": "death_front",
+   "anim": "death",
+   "dir": "front",
+   "job": "",
+   "count": 6,
+   "fps": 9.0,
+   "loop": false
+  },
+  {
+   "row": "death_back",
+   "anim": "death",
+   "dir": "back",
+   "job": "",
+   "count": 6,
+   "fps": 9.0,
+   "loop": false
+  },
+  {
+   "row": "sit_side",
+   "anim": "sit",
+   "dir": "side",
+   "job": "",
+   "count": 4,
+   "fps": 3.0,
+   "loop": true
+  },
+  {
+   "row": "sit_front",
+   "anim": "sit",
+   "dir": "front",
+   "job": "",
+   "count": 4,
+   "fps": 3.0,
+   "loop": true
+  },
+  {
+   "row": "sit_back",
+   "anim": "sit",
+   "dir": "back",
+   "job": "",
+   "count": 4,
+   "fps": 3.0,
+   "loop": true
+  },
+  {
+   "row": "warrior_attack_side",
+   "anim": "attack",
+   "dir": "side",
+   "job": "warrior",
+   "count": 6,
+   "fps": 12.0,
+   "loop": false
+  },
+  {
+   "row": "warrior_attack_front",
+   "anim": "attack",
+   "dir": "front",
+   "job": "warrior",
+   "count": 6,
+   "fps": 12.0,
+   "loop": false
+  },
+  {
+   "row": "warrior_attack_back",
+   "anim": "attack",
+   "dir": "back",
+   "job": "warrior",
+   "count": 6,
+   "fps": 12.0,
+   "loop": false
+  },
+  {
+   "row": "warrior_skill_side",
+   "anim": "skill",
+   "dir": "side",
+   "job": "warrior",
+   "count": 6,
+   "fps": 10.0,
+   "loop": false
+  },
+  {
+   "row": "warrior_skill_front",
+   "anim": "skill",
+   "dir": "front",
+   "job": "warrior",
+   "count": 6,
+   "fps": 10.0,
+   "loop": false
+  },
+  {
+   "row": "warrior_skill_back",
+   "anim": "skill",
+   "dir": "back",
+   "job": "warrior",
+   "count": 6,
+   "fps": 10.0,
+   "loop": false
+  },
+  {
+   "row": "rogue_attack_side",
+   "anim": "attack",
+   "dir": "side",
+   "job": "rogue",
+   "count": 6,
+   "fps": 12.0,
+   "loop": false
+  },
+  {
+   "row": "rogue_attack_front",
+   "anim": "attack",
+   "dir": "front",
+   "job": "rogue",
+   "count": 6,
+   "fps": 12.0,
+   "loop": false
+  },
+  {
+   "row": "rogue_attack_back",
+   "anim": "attack",
+   "dir": "back",
+   "job": "rogue",
+   "count": 6,
+   "fps": 12.0,
+   "loop": false
+  },
+  {
+   "row": "rogue_skill_side",
+   "anim": "skill",
+   "dir": "side",
+   "job": "rogue",
+   "count": 6,
+   "fps": 10.0,
+   "loop": false
+  },
+  {
+   "row": "rogue_skill_front",
+   "anim": "skill",
+   "dir": "front",
+   "job": "rogue",
+   "count": 6,
+   "fps": 10.0,
+   "loop": false
+  },
+  {
+   "row": "rogue_skill_back",
+   "anim": "skill",
+   "dir": "back",
+   "job": "rogue",
+   "count": 6,
+   "fps": 10.0,
+   "loop": false
+  },
+  {
+   "row": "archer_attack_side",
+   "anim": "attack",
+   "dir": "side",
+   "job": "archer",
+   "count": 6,
+   "fps": 12.0,
+   "loop": false
+  },
+  {
+   "row": "archer_attack_front",
+   "anim": "attack",
+   "dir": "front",
+   "job": "archer",
+   "count": 6,
+   "fps": 12.0,
+   "loop": false
+  },
+  {
+   "row": "archer_attack_back",
+   "anim": "attack",
+   "dir": "back",
+   "job": "archer",
+   "count": 6,
+   "fps": 12.0,
+   "loop": false
+  },
+  {
+   "row": "archer_skill_side",
+   "anim": "skill",
+   "dir": "side",
+   "job": "archer",
+   "count": 6,
+   "fps": 10.0,
+   "loop": false
+  },
+  {
+   "row": "archer_skill_front",
+   "anim": "skill",
+   "dir": "front",
+   "job": "archer",
+   "count": 6,
+   "fps": 10.0,
+   "loop": false
+  },
+  {
+   "row": "archer_skill_back",
+   "anim": "skill",
+   "dir": "back",
+   "job": "archer",
+   "count": 6,
+   "fps": 10.0,
+   "loop": false
+  },
+  {
+   "row": "mage_attack_side",
+   "anim": "attack",
+   "dir": "side",
+   "job": "mage",
+   "count": 6,
+   "fps": 12.0,
+   "loop": false
+  },
+  {
+   "row": "mage_attack_front",
+   "anim": "attack",
+   "dir": "front",
+   "job": "mage",
+   "count": 6,
+   "fps": 12.0,
+   "loop": false
+  },
+  {
+   "row": "mage_attack_back",
+   "anim": "attack",
+   "dir": "back",
+   "job": "mage",
+   "count": 6,
+   "fps": 12.0,
+   "loop": false
+  },
+  {
+   "row": "mage_skill_side",
+   "anim": "skill",
+   "dir": "side",
+   "job": "mage",
+   "count": 6,
+   "fps": 10.0,
+   "loop": false
+  },
+  {
+   "row": "mage_skill_front",
+   "anim": "skill",
+   "dir": "front",
+   "job": "mage",
+   "count": 6,
+   "fps": 10.0,
+   "loop": false
+  },
+  {
+   "row": "mage_skill_back",
+   "anim": "skill",
+   "dir": "back",
+   "job": "mage",
+   "count": 6,
+   "fps": 10.0,
+   "loop": false
+  },
+  {
+   "row": "healer_attack_side",
+   "anim": "attack",
+   "dir": "side",
+   "job": "healer",
+   "count": 6,
+   "fps": 12.0,
+   "loop": false
+  },
+  {
+   "row": "healer_attack_front",
+   "anim": "attack",
+   "dir": "front",
+   "job": "healer",
+   "count": 6,
+   "fps": 12.0,
+   "loop": false
+  },
+  {
+   "row": "healer_attack_back",
+   "anim": "attack",
+   "dir": "back",
+   "job": "healer",
+   "count": 6,
+   "fps": 12.0,
+   "loop": false
+  },
+  {
+   "row": "healer_skill_side",
+   "anim": "skill",
+   "dir": "side",
+   "job": "healer",
+   "count": 6,
+   "fps": 10.0,
+   "loop": false
+  },
+  {
+   "row": "healer_skill_front",
+   "anim": "skill",
+   "dir": "front",
+   "job": "healer",
+   "count": 6,
+   "fps": 10.0,
+   "loop": false
+  },
+  {
+   "row": "healer_skill_back",
+   "anim": "skill",
+   "dir": "back",
+   "job": "healer",
+   "count": 6,
+   "fps": 10.0,
+   "loop": false
+  }
+ ],
+ "hairNames": [],
+ "topNames": [],
+ "bottomNames": []
+}

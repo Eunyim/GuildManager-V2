@@ -1,0 +1,1833 @@
+fileFormatVersion: 2
+guid: f75b7e261d73c134aa23eac94f23d307
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8389957145708163045
+    second: prairie_wolf_0
+  - first:
+      213: 2911137760303535543
+    second: prairie_wolf_1
+  - first:
+      213: 7337949713132268990
+    second: prairie_wolf_2
+  - first:
+      213: -9222347509015101267
+    second: prairie_wolf_3
+  - first:
+      213: -5376116647749604124
+    second: prairie_wolf_4
+  - first:
+      213: 576330583518676537
+    second: prairie_wolf_5
+  - first:
+      213: -3058093115493990015
+    second: prairie_wolf_6
+  - first:
+      213: 1517168657550539590
+    second: prairie_wolf_7
+  - first:
+      213: 6841845326457175170
+    second: prairie_wolf_8
+  - first:
+      213: 534016633427099897
+    second: prairie_wolf_9
+  - first:
+      213: 1569383063191666487
+    second: prairie_wolf_10
+  - first:
+      213: -2312788582589207226
+    second: prairie_wolf_11
+  - first:
+      213: 585165908813135186
+    second: prairie_wolf_12
+  - first:
+      213: -8546844411687746560
+    second: prairie_wolf_13
+  - first:
+      213: -834190130540238022
+    second: prairie_wolf_14
+  - first:
+      213: -6666050440602292877
+    second: prairie_wolf_15
+  - first:
+      213: 4399410305483817428
+    second: prairie_wolf_16
+  - first:
+      213: 4895958639049293010
+    second: prairie_wolf_17
+  - first:
+      213: -3541818263836024433
+    second: prairie_wolf_18
+  - first:
+      213: 3799448649519135548
+    second: prairie_wolf_19
+  - first:
+      213: -4233060670893247018
+    second: prairie_wolf_20
+  - first:
+      213: -6774121458028294040
+    second: prairie_wolf_21
+  - first:
+      213: 6276338051516413406
+    second: prairie_wolf_22
+  - first:
+      213: 8705408259336756944
+    second: prairie_wolf_23
+  - first:
+      213: 2659186984972181377
+    second: prairie_wolf_24
+  - first:
+      213: 4875929171647958448
+    second: prairie_wolf_25
+  - first:
+      213: 4414732237983810625
+    second: prairie_wolf_26
+  - first:
+      213: -6970090367955377891
+    second: prairie_wolf_27
+  - first:
+      213: -5080405022220300215
+    second: prairie_wolf_28
+  - first:
+      213: 4421926453962297775
+    second: prairie_wolf_29
+  - first:
+      213: 1425195497845952071
+    second: prairie_wolf_30
+  - first:
+      213: -4026061336874092321
+    second: prairie_wolf_31
+  - first:
+      213: 2704843829793355978
+    second: prairie_wolf_32
+  - first:
+      213: -96310915471353543
+    second: prairie_wolf_33
+  - first:
+      213: -7026175382186613426
+    second: prairie_wolf_34
+  - first:
+      213: -206260485002536155
+    second: prairie_wolf_35
+  - first:
+      213: -1859461235513622057
+    second: prairie_wolf_36
+  - first:
+      213: -6586236102436206107
+    second: prairie_wolf_37
+  - first:
+      213: -6102688699113089245
+    second: prairie_wolf_38
+  - first:
+      213: 4670927061565954296
+    second: prairie_wolf_39
+  - first:
+      213: -8730019120641296099
+    second: prairie_wolf_40
+  - first:
+      213: 5067264732052529972
+    second: prairie_wolf_41
+  - first:
+      213: -125746142013296827
+    second: prairie_wolf_42
+  - first:
+      213: -8629368619576382765
+    second: prairie_wolf_43
+  - first:
+      213: -1878487520084888826
+    second: prairie_wolf_44
+  - first:
+      213: -4525999159289410108
+    second: prairie_wolf_45
+  - first:
+      213: 8941272277244207331
+    second: prairie_wolf_46
+  - first:
+      213: 6299641453085499556
+    second: prairie_wolf_47
+  - first:
+      213: -2856553809227880015
+    second: prairie_wolf_48
+  - first:
+      213: -7818447971107293614
+    second: prairie_wolf_49
+  - first:
+      213: -7508530993755590484
+    second: prairie_wolf_50
+  - first:
+      213: -5243320724184069559
+    second: prairie_wolf_51
+  - first:
+      213: -8097809065502708183
+    second: prairie_wolf_52
+  - first:
+      213: -3834880459984247335
+    second: prairie_wolf_53
+  - first:
+      213: 4924689718501820095
+    second: prairie_wolf_54
+  - first:
+      213: 6608017956009358035
+    second: prairie_wolf_55
+  - first:
+      213: -6192784758969229349
+    second: prairie_wolf_56
+  - first:
+      213: -8470817519398810220
+    second: prairie_wolf_57
+  - first:
+      213: -8406096813742411858
+    second: prairie_wolf_58
+  - first:
+      213: 2268969534739686802
+    second: prairie_wolf_59
+  - first:
+      213: 7078637459567257599
+    second: prairie_wolf_60
+  - first:
+      213: 6011522346779631616
+    second: prairie_wolf_61
+  - first:
+      213: -5590376673068000738
+    second: prairie_wolf_62
+  - first:
+      213: 1031431729786069640
+    second: prairie_wolf_63
+  - first:
+      213: -3249943303732913719
+    second: prairie_wolf_64
+  - first:
+      213: 3569007235842464221
+    second: prairie_wolf_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 28.800001
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: prairie_wolf_idle_side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 550
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19c3dfb83ab94a41b6fe183c9ed5969
+      internalID: -726586515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_idle_side_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 550
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59952c490263420419f2fafbd0092e7b
+      internalID: -760684175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_idle_side_2
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 550
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8745d9c0b7506584c80a5663c6261665
+      internalID: 1502104419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_idle_side_3
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 550
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919271cb95389b448b5c6d8f522b9714
+      internalID: -160256927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_idle_front_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbb7c544bc18ce43996ce13ffe02d3a
+      internalID: 279150327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_idle_front_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 500
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f1b264b9f5c1b40942c61b5f9d2bc9
+      internalID: -418156859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_idle_front_2
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 500
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea6cd212b5caab44b7014a9c0740a05
+      internalID: 870825195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_idle_front_3
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 500
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95adc387609b014dbaed4a0533dcdd0
+      internalID: -1233223020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_idle_back_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0622e2a7f40b54548ae80af99e3bd2f2
+      internalID: -1913501146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_idle_back_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 450
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19b4159b3f693249ac7d2adc2a16e9d
+      internalID: 735912924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_idle_back_2
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 450
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed194f89f5adc5c478ed1366a6c70100
+      internalID: -1375376080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_idle_back_3
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 450
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb260ca2e2f8e344496b9d95e37ab862
+      internalID: 1901567307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_walk_side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a91b65864955a42abddeccd2b2d312
+      internalID: 189928678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_walk_side_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 400
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550ac0aa2ad9f514387bf61d99818446
+      internalID: 1034253149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_walk_side_2
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 400
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04441b15cb37c24d94ecfb74cf4a7e1
+      internalID: 287750569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_walk_side_3
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 400
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4d7f14a64713442b4224ace47d30f9
+      internalID: -1690240041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_walk_side_4
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 400
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e410a9422a8aec445bf4fa88b0228e42
+      internalID: 1298336694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_walk_side_5
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 400
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225e3d5b9ea547c49a93ab93c00989d0
+      internalID: -952733558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_walk_front_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a1ea71e805782408f5ad87253bc74f
+      internalID: 792966960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_walk_front_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 350
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4579df7d80dcfc46969caf0c6009cd9
+      internalID: 676154316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_walk_front_2
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 350
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5c357c1e151d54da15fa03d2a3d97b
+      internalID: 1916521654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_walk_front_3
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 350
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c97fedde033454dbffe32a7c84aa72
+      internalID: -325613332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_walk_front_4
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 350
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfab1f4d8e1ac074f9a0a49ff9be2451
+      internalID: 1694030288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_walk_front_5
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 350
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed380df149244242afee25dea5a0208
+      internalID: 1331276665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_walk_back_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbac70d8647872047897ac3541d7264b
+      internalID: 206248942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_walk_back_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 300
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c320e07b774c994d90d792d5db7247a
+      internalID: -2026934936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_walk_back_2
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 300
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6028b8d07d23cd5429fbe7c5d27f91ac
+      internalID: -1405335226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_walk_back_3
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 300
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c0f310e1cb2f8498bbb7d8e6ebd9c4
+      internalID: -2103142005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_walk_back_4
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 300
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76522391b7a4244aa43114b253e922d
+      internalID: -2113502469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_walk_back_5
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 300
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef5384c25e2d9d4d9ca8b3ec3706cf0
+      internalID: -15716237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_attack_side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c5d4173c809d14bb0d67aa9e3587b9
+      internalID: -987529796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_attack_side_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 250
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf57d9a782c4184ca81805e30f67430
+      internalID: -1891435538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_attack_side_2
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 250
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01029455bf8d0ea42b6878511db0f117
+      internalID: 1519225640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_attack_side_3
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 250
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa0448904f4f6d4d87546180323deab
+      internalID: 144646644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_attack_side_4
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 250
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f405f351d010a44af96b6d0ee76d6e
+      internalID: 1399848980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_attack_side_5
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 250
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880996fab2547fb4ba6ba6cf963c057c
+      internalID: 833899573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_attack_front_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f90dd353cb707848b84b0adc9c06927
+      internalID: -986594625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_attack_front_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 200
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4d029e336636343b407794a0bb4f31
+      internalID: 724134111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_attack_front_2
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 200
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c327265f3b9d8ee4fa79acea7a0f656e
+      internalID: 638633547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_attack_front_3
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 200
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ffcaf6f6cd621498cb11567b3823cf
+      internalID: -7694208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_attack_front_4
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 200
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17851bd16e68d28418c5699e9e75d7d7
+      internalID: 1592233327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_attack_front_5
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 200
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7786d85c6b4fa6c49b8cf551664f6757
+      internalID: -1462679610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_attack_back_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2106adaa3d5f69148a829a77107faa5b
+      internalID: -793387800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_attack_back_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 150
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52878631fb20f4541a63ccfbd215ddbc
+      internalID: -485909994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_attack_back_2
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 150
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c68fa298aba653479edbd73e832d7e5
+      internalID: -1071025315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_attack_back_3
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 150
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d14eed7f926f34a939d6fec02c87d0
+      internalID: 1868710647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_attack_back_4
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 150
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad5a5a39f8c587428269727d9832563
+      internalID: 1381600582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_attack_back_5
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 150
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad472cccc0945544b8c9c16cacd7efe
+      internalID: 1256228433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_death_side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48279dde97b6fa843b48413cd3bdf340
+      internalID: -1257132369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_death_side_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 100
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5f451ecad20ba40babccc619dad509
+      internalID: 1449539564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_death_side_2
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 100
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c36bbc326924c646a8027d4fea350b3
+      internalID: 738000393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_death_side_3
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 100
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc96114922a373e4fb9470db743289e8
+      internalID: -348984126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_death_side_4
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 100
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3f06d0abe14814ab0898d404b59c4b
+      internalID: 2097172802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_death_side_5
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 100
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cd13694c113ed4f8365665e3fbda2c
+      internalID: -1946437048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_death_front_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6100408fb6ce84e9c38033b6afa8fd
+      internalID: 1220697412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_death_front_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 50
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496c8febecf5668499e1518d510cbce8
+      internalID: -1545847542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_death_front_2
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 50
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b318f45469eb641b6517e21bc452bc
+      internalID: 2107427277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_death_front_3
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 50
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862bba0efe429104eb6cd525947e6f7e
+      internalID: -164039352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_death_front_4
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 50
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9cde0f34420b4e49ba7998adc625564
+      internalID: 59754979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_death_front_5
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 50
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652cf6959ecac114da1dd36d5af46f61
+      internalID: 1334356619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_death_back_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f07ff4bea199c4b89ef0f3fe01b0c4
+      internalID: 1854680814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_death_back_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 0
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd454a555f32464e934e8fa4439734b
+      internalID: 150036466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_death_back_2
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 0
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b6c00fd4a630f4f9349950024f51f8
+      internalID: -188430589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_death_back_3
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 0
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24b0e5a43aa9074693f7cbeec5c66df
+      internalID: -2060425011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_death_back_4
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 0
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8277166fbe44e4fa86fc952d19a820
+      internalID: -1483585755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prairie_wolf_death_back_5
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 0
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc4034acab68ab429630f26e94fa8de
+      internalID: -534546024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 51c015d875462554f894ff486bfe9dcb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      prairie_wolf_attack_back_0: -793387800
+      prairie_wolf_attack_back_1: -485909994
+      prairie_wolf_attack_back_2: -1071025315
+      prairie_wolf_attack_back_3: 1868710647
+      prairie_wolf_attack_back_4: 1381600582
+      prairie_wolf_attack_back_5: 1256228433
+      prairie_wolf_attack_front_0: -986594625
+      prairie_wolf_attack_front_1: 724134111
+      prairie_wolf_attack_front_2: 638633547
+      prairie_wolf_attack_front_3: -7694208
+      prairie_wolf_attack_front_4: 1592233327
+      prairie_wolf_attack_front_5: -1462679610
+      prairie_wolf_attack_side_0: -987529796
+      prairie_wolf_attack_side_1: -1891435538
+      prairie_wolf_attack_side_2: 1519225640
+      prairie_wolf_attack_side_3: 144646644
+      prairie_wolf_attack_side_4: 1399848980
+      prairie_wolf_attack_side_5: 833899573
+      prairie_wolf_death_back_0: 1854680814
+      prairie_wolf_death_back_1: 150036466
+      prairie_wolf_death_back_2: -188430589
+      prairie_wolf_death_back_3: -2060425011
+      prairie_wolf_death_back_4: -1483585755
+      prairie_wolf_death_back_5: -534546024
+      prairie_wolf_death_front_0: 1220697412
+      prairie_wolf_death_front_1: -1545847542
+      prairie_wolf_death_front_2: 2107427277
+      prairie_wolf_death_front_3: -164039352
+      prairie_wolf_death_front_4: 59754979
+      prairie_wolf_death_front_5: 1334356619
+      prairie_wolf_death_side_0: -1257132369
+      prairie_wolf_death_side_1: 1449539564
+      prairie_wolf_death_side_2: 738000393
+      prairie_wolf_death_side_3: -348984126
+      prairie_wolf_death_side_4: 2097172802
+      prairie_wolf_death_side_5: -1946437048
+      prairie_wolf_idle_back_0: -1913501146
+      prairie_wolf_idle_back_1: 735912924
+      prairie_wolf_idle_back_2: -1375376080
+      prairie_wolf_idle_back_3: 1901567307
+      prairie_wolf_idle_front_0: 279150327
+      prairie_wolf_idle_front_1: -418156859
+      prairie_wolf_idle_front_2: 870825195
+      prairie_wolf_idle_front_3: -1233223020
+      prairie_wolf_idle_side_0: -726586515
+      prairie_wolf_idle_side_1: -760684175
+      prairie_wolf_idle_side_2: 1502104419
+      prairie_wolf_idle_side_3: -160256927
+      prairie_wolf_walk_back_0: 206248942
+      prairie_wolf_walk_back_1: -2026934936
+      prairie_wolf_walk_back_2: -1405335226
+      prairie_wolf_walk_back_3: -2103142005
+      prairie_wolf_walk_back_4: -2113502469
+      prairie_wolf_walk_back_5: -15716237
+      prairie_wolf_walk_front_0: 792966960
+      prairie_wolf_walk_front_1: 676154316
+      prairie_wolf_walk_front_2: 1916521654
+      prairie_wolf_walk_front_3: -325613332
+      prairie_wolf_walk_front_4: 1694030288
+      prairie_wolf_walk_front_5: 1331276665
+      prairie_wolf_walk_side_0: 189928678
+      prairie_wolf_walk_side_1: 1034253149
+      prairie_wolf_walk_side_2: 287750569
+      prairie_wolf_walk_side_3: -1690240041
+      prairie_wolf_walk_side_4: 1298336694
+      prairie_wolf_walk_side_5: -952733558
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1836 @@
+fileFormatVersion: 2
+guid: a8ffe5c44312944448a548903342fd09
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4355320683713618801
+    second: bandit_archer_0
+  - first:
+      213: -5809464414513365233
+    second: bandit_archer_1
+  - first:
+      213: 641765543259098619
+    second: bandit_archer_2
+  - first:
+      213: -7970881523292220932
+    second: bandit_archer_3
+  - first:
+      213: 841055883771303305
+    second: bandit_archer_4
+  - first:
+      213: 7333984402606288732
+    second: bandit_archer_5
+  - first:
+      213: 130350876465983398
+    second: bandit_archer_6
+  - first:
+      213: 7885791616690157139
+    second: bandit_archer_7
+  - first:
+      213: -965531046003062737
+    second: bandit_archer_8
+  - first:
+      213: 8191407765839939633
+    second: bandit_archer_9
+  - first:
+      213: 5874439919886591224
+    second: bandit_archer_10
+  - first:
+      213: -3315186812904414933
+    second: bandit_archer_11
+  - first:
+      213: 2728225242240246154
+    second: bandit_archer_12
+  - first:
+      213: -7243414369589734959
+    second: bandit_archer_13
+  - first:
+      213: 3225190738090894424
+    second: bandit_archer_14
+  - first:
+      213: 3426304133959798669
+    second: bandit_archer_15
+  - first:
+      213: 3182100200169758533
+    second: bandit_archer_16
+  - first:
+      213: 6892200735675970879
+    second: bandit_archer_17
+  - first:
+      213: 2623519263822365159
+    second: bandit_archer_18
+  - first:
+      213: 8962966943166376995
+    second: bandit_archer_19
+  - first:
+      213: 7948751168548309060
+    second: bandit_archer_20
+  - first:
+      213: 6228705896308558804
+    second: bandit_archer_21
+  - first:
+      213: 4152766220762467105
+    second: bandit_archer_22
+  - first:
+      213: 8927742535490625444
+    second: bandit_archer_23
+  - first:
+      213: 4715761160156474515
+    second: bandit_archer_24
+  - first:
+      213: 2682812474865990420
+    second: bandit_archer_25
+  - first:
+      213: 2595248028666987359
+    second: bandit_archer_26
+  - first:
+      213: 823107781731987483
+    second: bandit_archer_27
+  - first:
+      213: -2253470941353955636
+    second: bandit_archer_28
+  - first:
+      213: -8750969190422203648
+    second: bandit_archer_29
+  - first:
+      213: 8075012470336120638
+    second: bandit_archer_30
+  - first:
+      213: -2776518674760723549
+    second: bandit_archer_31
+  - first:
+      213: -1163954872390165996
+    second: bandit_archer_32
+  - first:
+      213: -172821507732246175
+    second: bandit_archer_33
+  - first:
+      213: -2995898312547676152
+    second: bandit_archer_34
+  - first:
+      213: 4540563130293573752
+    second: bandit_archer_35
+  - first:
+      213: 3345726392164490537
+    second: bandit_archer_36
+  - first:
+      213: 8407900064764729866
+    second: bandit_archer_37
+  - first:
+      213: -5641661528966197374
+    second: bandit_archer_38
+  - first:
+      213: 2741093900589436467
+    second: bandit_archer_39
+  - first:
+      213: -8103041078165061851
+    second: bandit_archer_40
+  - first:
+      213: -8868166719646178684
+    second: bandit_archer_41
+  - first:
+      213: 5695289592016282147
+    second: bandit_archer_42
+  - first:
+      213: -3346573418145142880
+    second: bandit_archer_43
+  - first:
+      213: 1811457572983035862
+    second: bandit_archer_44
+  - first:
+      213: -5835283511979027792
+    second: bandit_archer_45
+  - first:
+      213: 1816649193003758980
+    second: bandit_archer_46
+  - first:
+      213: -5455132223217356932
+    second: bandit_archer_47
+  - first:
+      213: -4731677912390873992
+    second: bandit_archer_48
+  - first:
+      213: -6350044092463855573
+    second: bandit_archer_49
+  - first:
+      213: 8925053644455466839
+    second: bandit_archer_50
+  - first:
+      213: 3374716985382949510
+    second: bandit_archer_51
+  - first:
+      213: -7326344845234606314
+    second: bandit_archer_52
+  - first:
+      213: 7022917654609223396
+    second: bandit_archer_53
+  - first:
+      213: 1333837901628551551
+    second: bandit_archer_54
+  - first:
+      213: -8162105873828188459
+    second: bandit_archer_55
+  - first:
+      213: 2036196579606545789
+    second: bandit_archer_56
+  - first:
+      213: 8704470548112354885
+    second: bandit_archer_57
+  - first:
+      213: -9069067598400806161
+    second: bandit_archer_58
+  - first:
+      213: 6731596304495568038
+    second: bandit_archer_59
+  - first:
+      213: -4182951047037649781
+    second: bandit_archer_60
+  - first:
+      213: -1342784492464784706
+    second: bandit_archer_61
+  - first:
+      213: 4883833763108105039
+    second: bandit_archer_62
+  - first:
+      213: 7932813817033791010
+    second: bandit_archer_63
+  - first:
+      213: -6082902518839466761
+    second: bandit_archer_64
+  - first:
+      213: -4543930316549544447
+    second: bandit_archer_65
+  - first:
+      213: -4640992530065567643
+    second: bandit_archer_66
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 28.800001
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bandit_archer_idle_side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c20c039ed939d140be009bb1d9de90c
+      internalID: -1875950902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_idle_side_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 528
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff436e06fc9505c4b95e7b34c59406ce
+      internalID: -1136435465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_idle_side_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 528
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935e2ad85c103d9468e1e29baea129dc
+      internalID: -1623478908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_idle_side_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 528
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5c6af8b8e776443bb2a8168d7909b8
+      internalID: 372906410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_idle_front_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d254a11f59cf78e4594df283d6885d36
+      internalID: 192975880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_idle_front_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce6682db765dce4fa56de74a6d1fd42
+      internalID: -1743111124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_idle_front_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216b5c36c12d00040bd0ce2e6a33f7d2
+      internalID: -2118516784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_idle_front_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7400d5c1e0147cf4aa517b84b256d489
+      internalID: 1486298196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_idle_back_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c885dacb5a0243448975ebc0847bbbee
+      internalID: 986245777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_idle_back_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 432
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6eab25980a7c8342be801133ed9351d
+      internalID: -610731661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_idle_back_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 432
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606cb1e7c629ee743a2199fc2eb4ee46
+      internalID: -1012356569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_idle_back_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 432
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550ff570846035647bd5ef30571a6c65
+      internalID: -462389441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_walk_side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246980bd81334f942b32bdf6bd6158ed
+      internalID: -1192638701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_walk_side_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f4c05da3c68b942b4070dbe875e555
+      internalID: 677787135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_walk_side_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4069cf3fc6c144a4a9c24b4bc33b1834
+      internalID: 803408198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_walk_side_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a91c0565bb6ee4eb5ffd1b56e70b35
+      internalID: -1596424201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_walk_side_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71814f61f510da5458a5212d2dc29bf7
+      internalID: -2040228289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_walk_side_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37030cbba76ca848b0f0d2476000fd7
+      internalID: -1498265472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_walk_front_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6384e7dadfa63ae4695915de883e20d0
+      internalID: -1535627339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_walk_front_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 336
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80e3dccdc83b3840b63b6a0bc3cbc35
+      internalID: -1281391486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_walk_front_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 336
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f663a816ae48a478e75a1129754d10
+      internalID: 140535075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_walk_front_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 336
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc38db06613519a48ba99252a094436d
+      internalID: -636335713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_walk_front_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 336
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b80c114ea50644a9312a7b324ab1af
+      internalID: -1086877544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_walk_front_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 336
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870689ba82c929e498cd62aad489a6f9
+      internalID: -1686737304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_walk_back_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ec7869f21aaf24d906d7699ac7aa69
+      internalID: 1423991722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_walk_back_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef28439f8de08614f880d63dceae64f7
+      internalID: -933832199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_walk_back_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4610dc2853a6a641844b710ac5026a1
+      internalID: -584431491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_walk_back_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a42b3dc6930ed4095ea24dafd93eae
+      internalID: 610507129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_walk_back_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e87a73c88919b4cb3c18f301878f03
+      internalID: -1280805736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_walk_back_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad59d02d4ec263479354b4372cdc13e
+      internalID: 1430746629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_attack_side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb4fb1b40cd14a419081653abefe6fb
+      internalID: 1247962004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_attack_side_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1a0316320a0674aa9996967a5ce005
+      internalID: -183616303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_attack_side_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 240
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396e600412cf7bb4b8e63b16b82013d5
+      internalID: -1370327206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_attack_side_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b6751861f801b4e8687c47196aaa6d
+      internalID: 1613791810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_attack_side_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 240
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b538f4d68c7ff64b98e6bd9e2669177
+      internalID: -294000518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_attack_side_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 240
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf44df0d3c5ca37469bb8615977f8630
+      internalID: 648966184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_attack_front_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe945b545b4278a4ca4ab76b03275c23
+      internalID: -1287524550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_attack_front_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd73f3513b5704d438f8d9a830e6a5e7
+      internalID: -1246834300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_attack_front_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37cc2bbcf31f91e44b85f6237e47bd2c
+      internalID: -120908245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_attack_front_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3762bc495d1e5d42956b39e5dbfa5ed
+      internalID: 1758517944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_attack_front_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad52e14b6be4414f9ba05abd67fe2ca
+      internalID: -644737271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_attack_front_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53eab4fbaa52b849bc701d672fd2ec1
+      internalID: 709757917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_attack_back_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a23e7d435a7c2478e6eaff47ac8763
+      internalID: -2034850027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_attack_back_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df69987affa710b45a3f7f3d777c96ed
+      internalID: 1805961144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_attack_back_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc4d14f8fb13434ba99192971203781
+      internalID: 577936401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_attack_back_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a98b1a9faf942f42a5f9fd61389c1fe
+      internalID: 1134858406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_attack_back_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 144
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f676fb9519067f4fad3294b4dae87e2
+      internalID: 968983973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_attack_back_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 144
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e354bab72e00345a4addafe874017e
+      internalID: -2138319662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_death_side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9be477a5e9bf99498abaf3f27a5e623
+      internalID: -622861101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_death_side_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634a9e1e5ca71ee409704549275cec99
+      internalID: -787464815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_death_side_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a8a044e71d59b4798800eada62264e
+      internalID: -1402846185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_death_side_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7684059a64c1f904496cd975c4058444
+      internalID: -336856411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_death_side_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c1563d0a197b64692514e19dd70451
+      internalID: 1758982616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_death_side_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6edb817490f434fb2a5a534b20ca5d
+      internalID: -5353449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_death_front_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1802c508ab6794a439b6f43d8eeb6a59
+      internalID: 1600943248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_death_front_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4878d97bb5984044787512282e68e104
+      internalID: -1378235338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_death_front_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a37111aa296c5445b7196bb36bfe2cc
+      internalID: -1754215384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_death_front_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7d0a5d14195e842ba5c3b55289c980
+      internalID: -1528051946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_death_front_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 48
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5e63df8bee5ae4eb638ba5894c0c94
+      internalID: -966727954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_death_front_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 48
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e55b47204c5cf4b80f0c32453f99ee
+      internalID: 602675759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_death_back_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fe2a978d0e14048a9611b185387210
+      internalID: -1797718717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_death_back_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebe970caf401824bbd112a35f7f5366
+      internalID: -1104982906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_death_back_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373e0563f1146ff4fa8241fe8c4dd497
+      internalID: 1714043155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_death_back_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b705e2be047a8d0418d9500f1bde599f
+      internalID: 1682259451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_death_back_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8ef5a8909a93949aeb2e364ffa0c42
+      internalID: 358598304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bandit_archer_death_back_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c535764c2c44f44b3066b951723aba
+      internalID: -2089293150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6a92bb0dc8479b248b76b46651b1665d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bandit_archer_attack_back_0: -2034850027
+      bandit_archer_attack_back_1: 1805961144
+      bandit_archer_attack_back_2: 577936401
+      bandit_archer_attack_back_3: 1134858406
+      bandit_archer_attack_back_4: 968983973
+      bandit_archer_attack_back_5: -2138319662
+      bandit_archer_attack_front_0: -1287524550
+      bandit_archer_attack_front_1: -1246834300
+      bandit_archer_attack_front_2: -120908245
+      bandit_archer_attack_front_3: 1758517944
+      bandit_archer_attack_front_4: -644737271
+      bandit_archer_attack_front_5: 709757917
+      bandit_archer_attack_side_0: 1247962004
+      bandit_archer_attack_side_1: -183616303
+      bandit_archer_attack_side_2: -1370327206
+      bandit_archer_attack_side_3: 1613791810
+      bandit_archer_attack_side_4: -294000518
+      bandit_archer_attack_side_5: 648966184
+      bandit_archer_death_back_0: -1797718717
+      bandit_archer_death_back_1: -1104982906
+      bandit_archer_death_back_2: 1714043155
+      bandit_archer_death_back_3: 1682259451
+      bandit_archer_death_back_4: 358598304
+      bandit_archer_death_back_5: -2089293150
+      bandit_archer_death_front_0: 1600943248
+      bandit_archer_death_front_1: -1378235338
+      bandit_archer_death_front_2: -1754215384
+      bandit_archer_death_front_3: -1528051946
+      bandit_archer_death_front_4: -966727954
+      bandit_archer_death_front_5: 602675759
+      bandit_archer_death_side_0: -622861101
+      bandit_archer_death_side_1: -787464815
+      bandit_archer_death_side_2: -1402846185
+      bandit_archer_death_side_3: -336856411
+      bandit_archer_death_side_4: 1758982616
+      bandit_archer_death_side_5: -5353449
+      bandit_archer_idle_back_0: 986245777
+      bandit_archer_idle_back_1: -610731661
+      bandit_archer_idle_back_2: -1012356569
+      bandit_archer_idle_back_3: -462389441
+      bandit_archer_idle_front_0: 192975880
+      bandit_archer_idle_front_1: -1743111124
+      bandit_archer_idle_front_2: -2118516784
+      bandit_archer_idle_front_3: 1486298196
+      bandit_archer_idle_side_0: -1875950902
+      bandit_archer_idle_side_1: -1136435465
+      bandit_archer_idle_side_2: -1623478908
+      bandit_archer_idle_side_3: 372906410
+      bandit_archer_walk_back_0: 1423991722
+      bandit_archer_walk_back_1: -933832199
+      bandit_archer_walk_back_2: -584431491
+      bandit_archer_walk_back_3: 610507129
+      bandit_archer_walk_back_4: -1280805736
+      bandit_archer_walk_back_5: 1430746629
+      bandit_archer_walk_front_0: -1535627339
+      bandit_archer_walk_front_1: -1281391486
+      bandit_archer_walk_front_2: 140535075
+      bandit_archer_walk_front_3: -636335713
+      bandit_archer_walk_front_4: -1086877544
+      bandit_archer_walk_front_5: -1686737304
+      bandit_archer_walk_side_0: -1192638701
+      bandit_archer_walk_side_1: 677787135
+      bandit_archer_walk_side_2: 803408198
+      bandit_archer_walk_side_3: -1596424201
+      bandit_archer_walk_side_4: -2040228289
+      bandit_archer_walk_side_5: -1498265472
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
