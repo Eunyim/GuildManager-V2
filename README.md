@@ -4,6 +4,15 @@
 
 ![타이틀](Docs/images/title.png)
 
+## ▶ 바로 플레이
+
+| 방법 | 링크 |
+|---|---|
+| **브라우저에서 바로 실행** (설치 없음, PC 크롬·엣지 권장) | **https://eunyim.github.io/GuildManager-V2/** |
+| Windows 실행 파일 (압축 해제 후 `GuildManager.exe`) | [GuildManager-Windows.zip](https://eunyim.github.io/GuildManager-V2/GuildManager-Windows.zip) |
+
+> 첫 로딩에 수십 초 걸릴 수 있습니다. 브라우저판의 저장 데이터는 해당 브라우저에 보관됩니다.
+
 성격과 관계를 가진 모험가들을 고용해 파티를 짜고, 지역별 던전으로 보내 자동 전투를 지켜보며 **"더 갈지, 돌아갈지, 도망칠지"** 를 판단합니다. 벌어 온 골드로 매달 월급을 주며 길드를 키우고, 명성을 쌓아 더 위험한 지역을 엽니다. 잘못 판단하면 모험가는 다치고, 낙오하고, 죽습니다.
 
 - **장르**: 길드 경영 · 파티 육성 · 자동 전투(오토배틀러)
@@ -76,6 +85,7 @@ Docs/          게임 기획서(GDD), 작업일지
 1. Unity Hub에서 **Unity 6000.3.2f1**로 이 폴더를 엽니다.
 2. `Assets/Scenes/TitleScene.unity`를 열고 Play.
 3. 저장 파일 위치: `%USERPROFILE%/AppData/LocalLow/DefaultCompany/guildmanager/save.json`
+4. 배포 빌드: `Tools > 빌드 > WebGL / Windows` (결과는 `Builds/`, git 제외)
 
 ## 사용한 외부 에셋
 
